@@ -1,0 +1,417 @@
+,all_awardings,associated_award,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_template_id,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_patreon_flair,author_premium,awarders,body,collapsed_because_crowd_control,collapsed_reason_code,comment_type,created_utc,gildings,id,is_submitter,link_id,locked,no_follow,parent_id,permalink,retrieved_on,score,send_replies,stickied,subreddit,subreddit_id,top_awarded_type,total_awards_received,treatment_tags,unrepliable_reason,archived,body_sha1,can_gild,collapsed,collapsed_reason,controversiality,distinguished,gilded,retrieved_utc,score_hidden,subreddit_name_prefixed,subreddit_type
+0.0,[],,ws-ilazki,,,[],,,,text,t2_rq1db,False,False,[],"Well, I think I see one problem.  You wrote it all in one big paragraph instead of using indentation and line breaks.  Try fixing that first. ^/s
+
+For real though, posting the problem code is good, but you have to provide proper markdown formatting for it or nobody can tell wtf is going on.  Or better yet, if it's a long chunk of code like this, put it on a github gist or on pastebin or something.  You really need to edit this to be readable if you want even a *chance* of getting help.
+
+It would also be good if you can narrow it down to a specific problem area and provide error messages because those can give a hint of what the problem is and where.",,,,1638496792,{},hn0i1u5,False,t3_r7kxtf,False,True,t3_r7kxtf,/r/lua/comments/r7kxtf/trying_to_make_a_in_game_menu_for_our_fivem/hn0i1u5/,1639188889.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+1.0,[],,--CJ--,,,[],,,,text,t2_1a1zz8dm,False,False,[],Def one of the best posts I’ve seen,,,,1638494355,{},hn0cj66,False,t3_r7kxtf,False,False,t1_hn02ykw,/r/lua/comments/r7kxtf/trying_to_make_a_in_game_menu_for_our_fivem/hn0cj66/,1639169794.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+2.0,[],,WMG_Jeeper,,,[],,,,text,t2_m66w5,False,False,[],"I’m both crying and laughing, send help!",,,,1638490007,{},hn02ykw,False,t3_r7kxtf,False,False,t3_r7kxtf,/r/lua/comments/r7kxtf/trying_to_make_a_in_game_menu_for_our_fivem/hn02ykw/,1639136364.0,6,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+3.0,[],,STEIN197,,,[],,,,text,t2_4bk7pqhq,False,False,[],"Well, on second thought how can it be without reinventing the wheel :)
+
+But to be serious I don't know. I wanted to add some more functions which I found useful",,,,1638419103,{},hmw59g9,True,t3_r5h77j,False,True,t1_hmtpncv,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmw59g9/,1638848415.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+4.0,[],,thrakkerzog,,,[],,,,text,t2_8akau,False,False,[],"Can't you just loop through the functions in the stringy table and set them in the string table to do that?
+
+    for k,v in pairs(require(""stringy"")) do string[k] = v end",,,,1638382707,{},hmtpncv,False,t3_r5h77j,False,True,t1_hmrby4l,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmtpncv/,1638797154.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+5.0,[],,anonymocities,,,[],,,,text,t2_n226y,False,False,[],"Ah, I see, I've never needed this type of function So I did not particularly see what it did.",,,,1638335899,{},hmrfkhl,False,t3_r5h77j,False,True,t1_hmrbh04,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmrfkhl/,1638752830.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+6.0,[],,STEIN197,,,[],,,,text,t2_4bk7pqhq,False,False,[],"I've seen it, but I wanted to extend string defaults to call methods directly on strings instead of static calls and add some more things",,,,1638333969,{},hmrby4l,True,t3_r5h77j,False,True,t1_hmpiklq,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmrby4l/,1638750804.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+7.0,[],,STEIN197,,,[],,,,text,t2_4bk7pqhq,False,False,[],"I thought the same thing but tests will fail. I tried to implement the next thing. What if there's a string ""abc"" and I need to be sure that string starts with ""ba"" substring? The correct behavior in my opinion is to return ""babc"" string instead of ""baabc""",,,,1638333725,{},hmrbh04,True,t3_r5h77j,False,False,t1_hmpb6sa,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmrbh04/,1638750528.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+8.0,[],,STEIN197,,,[],,,,text,t2_4bk7pqhq,False,False,[],"You're right, my bad",,,,1638333019,{},hmra3el,True,t3_r5h77j,False,True,t1_hmq0jcl,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmra3el/,1638749723.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+9.0,[],,STEIN197,,,[],,,,text,t2_4bk7pqhq,False,False,[],"Thanks for the reply, I'll fix it",,,,1638332970,{},hmra018,True,t3_r5h77j,False,True,t1_hmq8pcj,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmra018/,1638749671.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+10.0,[],,anonymocities,,,[],,,,text,t2_n226y,False,False,[],considering I see no note of rexlib it should be.,,,,1638320975,{},hmqjz3e,False,t3_r5h77j,False,True,t1_hmq0jcl,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmqjz3e/,1638734345.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+11.0,[],,luarocks,,,[],,,,text,t2_21pt1tm7,False,False,[],"Nice library, but please don't call patterns ""regex"", you confusing people. Lua doesn't support regular expressions out of the box.",,,,1638315914,{},hmq8pcj,False,t3_r5h77j,False,False,t3_r5h77j,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmq8pcj/,1638727617.0,4,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+12.0,[],,luarocks,,,[],,,,text,t2_21pt1tm7,False,False,,"`self` is not a keyword like `if`, `then`, `end` etc, so technically you can use it as custom variable name but in this case you will shadow `self` from syntactic sugar that create it for you when you refer to a function with a colon.
+
+Your example perfectly demonstrates this upvalue shadowing. The variable `self` will be **overwritten** by `self` from syntactic sugar and will never be accessed.
+
+Calling your function `self` is as much bad practice as calling it `print`. Use [luacheck](https://github.com/mpeterv/luacheck) to avoid such mistakes.
+
+The second question is weird. I don't fully understand it, sorry. And it seems to me that you don't fully understand the problem either. Maybe some LSP can help you with this. [Here is](https://github.com/sumneko/lua-language-server) the most popular one. It has a [""goto definition""](https://github.com/sumneko/lua-language-server#goto-definition) feature.",,,,1638312709,{},hmq1bl1,False,t3_r5x65h,False,True,t3_r5x65h,/r/lua/comments/r5x65h/is_it_ok_to_name_a_function_for_example_function/hmq1bl1/,,1,True,False,lua,t5_2qjla,,0,[],,False,079e273a14e84e55e43175afbc08be5385f13d13,True,False,,0.0,,0.0,1638312720.0,False,r/lua,public
+13.0,[],,d2718,,,[],,,,text,t2_d83zcdor,False,False,[],"When the docs say ""regex"" do they really mean ""Lua pattern""?",,,,1638312381,{},hmq0jcl,False,t3_r5h77j,False,True,t3_r5h77j,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmq0jcl/,1638722599.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+14.0,[],,wh1t3_rabbit,,,[],,,,text,t2_wz113,False,False,[],"If you have access to the debug library you can do debug.getinfo(self.Example). Lots of examples if you search for ""lua get file where function is defined""",,,,1638309205,{},hmpsvy8,False,t3_r5x65h,False,True,t3_r5x65h,/r/lua/comments/r5x65h/is_it_ok_to_name_a_function_for_example_function/hmpsvy8/,1638718000.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+15.0,[],,OkAmbition6467,,,[],,,,text,t2_eg32fraz,False,True,[],"I'm guessing that's what `getfenv` is for. Being able to get the environment of the function. Any variables defined in the function (not sure if they are required to be global or local) would appear in the index of variables in that environment.
+
+Otherwise; getting the function FROM the variable? I don't know. Maybe try setting a variable as the function that you're looking for (if you even can).",,,,1638306276,{},hmpllli,False,t3_r5x65h,False,True,t3_r5x65h,/r/lua/comments/r5x65h/is_it_ok_to_name_a_function_for_example_function/hmpllli/,1638713759.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+16.0,[],,thrakkerzog,,,[],,,,text,t2_8akau,False,False,[],See also: [Stringy](https://luarocks.org/modules/mdeneen/stringy),,,,1638305069,{},hmpiklq,False,t3_r5h77j,False,True,t1_hmp8so0,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmpiklq/,1638712065.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+17.0,[],,anonymocities,,,[],,,,text,t2_n226y,False,False,,"Also I find ensurestart and ensureend to be weird, why is it implemented with a loop instead of using string.find with a convertpatterntoliteralpattern, convertpatterntoliteralpattern being just a gsub should be more performant.",,,,1638302106,{},hmpb6sa,False,t3_r5h77j,False,True,t1_hmp8so0,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmpb6sa/,,1,True,False,lua,t5_2qjla,,0,[],,False,3d9cf1860f01d83b3d5605645e7ae912ea443327,True,False,,0.0,,0.0,1638302124.0,False,r/lua,public
+18.0,[],,anonymocities,,,[],,,,text,t2_n226y,False,False,[],"There's also an std lib that contains a lot of basic modules, luapower also contains some modules which do many basic tasks.
+
+
+
+https://github.com/lua-stdlib/lua-stdlib/",,,,1638301155,{},hmp8so0,False,t3_r5h77j,False,True,t3_r5h77j,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmp8so0/,1638706639.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+19.0,[],,tiny_smile_bot,,,[],,,,text,t2_d4syvwz,False,False,[],"&gt;:)
+
+:)",,,,1638291463,{},hmok8p8,False,t3_r5h77j,False,True,t1_hmok7jx,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmok8p8/,1638693858.0,0,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+20.0,[],,STEIN197,,,[],,,,text,t2_4bk7pqhq,False,False,[],Thanks! I just like to make tools :),,,,1638291450,{},hmok7jx,True,t3_r5h77j,False,True,t1_hmodq2w,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmok7jx/,1638693841.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+21.0,[],,Xinshou_,,,[],,,,text,t2_2hfjgy2j,False,False,[],"Gave you a star, nicely done mate!",,,,1638288921,{},hmodq2w,False,t3_r5h77j,False,True,t3_r5h77j,/r/lua/comments/r5h77j/here_is_my_addition_to_standard_string_library/hmodq2w/,1638690458.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+22.0,[],,HowManySmall,,,[],,,,text,t2_x6j09,False,False,[],"not quite
+
+this will only work for integer seconds, the roblox one (wait, not task.wait) is 30ms and above",,,,1638244330,{},hmmdek8,False,t3_r4ywwr,False,True,t1_hmkx63b,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmmdek8/,1638650592.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+23.0,[],,Vurv78,,,[],,,,text,t2_6br4zhen,False,False,[],"Wow that's terrible, thank you for the detailed explanation. Had no idea just how limited code was back then...
+
+My problem w this though is that pretty much every lua environment I've used has their own embedded form of time in ms, and I just think it's crazy that it's commonplace to import something like the socket library just for this functionality
+
+Also I've never encountered embedded systems using Lua even, just MicroPython or C :p",,,,1638233739,{},hmlq23v,False,t3_r4ywwr,False,True,t1_hmlm8od,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmlq23v/,1638637008.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+24.0,[],,humbleSolipsist,,,[],,,,text,t2_ylpsq,False,False,[],"The PUC-Rio implementation is written in ANSI C with no external dependencies. This is to keep it as small and as portable as possible, so that it can run not only on every major OS, but also on numerous embedded systems using obscure hardware (&amp; software) architectures. I don't think C supported time in ms until C11, so there really isn't any way for them to do it without writing platform-specific code.
+
+Now, is this tradeoff worth it? Not for me, as I am not an embedded systems developer. This maximal portability does ensure they don't introduce any new incompatibilities into whatever system Lua is embedded in, though, and you can expose more functionality from the host program. It's not an unreasonable choice, given Lua's intended use as an extension language.",,,,1638231982,{},hmlm8od,False,t3_r4ywwr,False,True,t1_hmlk0xk,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmlm8od/,1638634730.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+25.0,[],,Vurv78,,,[],,,,text,t2_6br4zhen,False,False,[],I'm still wondering why this is. Are there *really* situations where you can't get the cpu time in ms for lua to implement in a function? Is it from supporting some ancient OS that somehow can't get it in ms?? :/,,,,1638230959,{},hmlk0xk,False,t3_r4ywwr,False,True,t1_hmkk24k,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmlk0xk/,1638633463.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+26.0,[],,Planebagels1,,,[],,,,text,t2_2zm560hp,False,False,[],"function wait(seconds)
+    local start = os.time()
+    repeat until os.time() &gt; start + seconds
+end
+--Exactly the same as the roblox one!",,,,1638221199,{},hmkx63b,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmkx63b/,1638620539.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+27.0,[],,NovelFrame9,,,[],,,,text,t2_5kr7nl3c,False,False,[],Thankyou!,,,,1638219803,{},hmktny0,False,t3_r550n1,False,False,t1_hmksj3m,/r/lua/comments/r550n1/parsing_lua_file_to_populate_c_map/hmktny0/,1638618725.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+28.0,[],,luther9,,,[],,,,text,t2_9xxsu,False,False,[],"https://idownvotedbecau.se/imageofcode
+
+The parsing can be done by [Lua's C API](https://www.lua.org/manual/5.4/manual.html#4). The C++ program just has to run the Lua file, get the table onto the stack, and then build the C++ map one element at a time.",,,,1638219361,{},hmksj3m,False,t3_r550n1,False,True,t3_r550n1,/r/lua/comments/r550n1/parsing_lua_file_to_populate_c_map/hmksj3m/,1638618152.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+29.0,[],,luarocks,,,[],,,,text,t2_21pt1tm7,False,False,,"local wait = require ""socket"".sleep",,,,1638217987,{},hmkp2so,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmkp2so/,,1,True,False,lua,t5_2qjla,,0,[],,False,9ed6dc2e592ef39cc57755d112c052f81f0d6794,True,False,,0.0,,0.0,1638218004.0,False,r/lua,public
+30.0,[],,humbleSolipsist,,,[],,,,text,t2_ylpsq,False,False,[],"Unfortunately, this really depends what you want to do it for. If you want your code to stop executing without getting in the way of other code executing, you'd need to handle that in the host program. On the other hand, if you just want your code to sit there for a bit and don't really have anything else you want the program to do at the same time, you can implement your own `wait` function using [os.time](https://www.lua.org/manual/5.4/manual.html#pdf-os.time) and [os.difftime](https://www.lua.org/manual/5.4/manual.html#pdf-os.difftime). The other downside to this approach is it'll only work for whole numbers of seconds, but it's all you can really do in vanilla lua.",,,,1638215955,{},hmkk24k,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmkk24k/,1638613786.0,5,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+31.0,[],,Xinshou_,,,[],,,,text,t2_2hfjgy2j,False,False,[],"If you are using Luvit, there building timer module, you can use that।
+
+timer.sleep()
+
+You can still do it in lua there must be some module available",,,,1638210954,{},hmk7kaf,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmk7kaf/,1638607414.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+32.0,[],,Cultural_Two_4964,,,[],,,,text,t2_7t7up8ys,False,False,[],"This was very useful to me last week while tangling with fengari-web which talks to the browser via js i.e. makes no calls to the OS which one usually does to home-brew a sleep function: 
+
+https://freesoft.dev/program/148406649",,,,1638204371,{},hmjr56o,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmjr56o/,1638598953.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+33.0,[],,Terraria_Fractal,,,[],,,,text,t2_48moahfb,False,False,[],"Lua doesn’t have a built-in wait function, I learned this the hard way as well.",,,,1638202847,{},hmjngex,False,t3_r4ywwr,False,False,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmjngex/,1638597023.0,10,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+34.0,[],,delta-samurai,,,[],,,,text,t2_a73i4v0g,False,False,,"Roblox Lua allows blocking code, whereas a lot of other Lua engines like Luvit are asynchronous, you're meant to do delay by using setTimeout to run a callback function after a given amount of time.",,,,1638202007,{},hmjlgoy,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmjlgoy/,,1,True,False,lua,t5_2qjla,,0,[],,False,bb8a533db496298c34f811bde95fbc03a47cf75c,True,False,,0.0,,0.0,1638202024.0,False,r/lua,public
+35.0,[],,[deleted],,,,,,dark,,,,,[],[removed],,,,1638201651,{},hmjkmac,False,t3_r4ywwr,False,True,t3_r4ywwr,/r/lua/comments/r4ywwr/how_does_wait_work_in_normal_lua/hmjkmac/,1638595524.0,-2,False,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+36.0,[],,s4b3r6,,,[],,,,text,t2_dwpf9,False,False,[],"The only Lua-specific function being called that I can see there is `print`. Everything else is from Roblox.
+
+Lua is a general purpose programming language. It is used for a _lot_ more than just Roblox. I doubt you'll have much luck here.",,,,1638199299,{},hmjf8ng,False,t3_r4wix4,False,True,t3_r4wix4,/r/lua/comments/r4wix4/why_is_this_script_not_working_no_errors_in_the/hmjf8ng/,1638592670.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+37.0,[],,skwog,,,[],,,,text,t2_b4hc3,False,False,[],"This is r/lua, your question is about Roblox Lua running in Roblox.
+
+Please re-post this in [r/robloxgamedev](https://reddit.com/r/robloxgamedev/)",,,,1638198911,{},hmjedlu,False,t3_r4wix4,False,True,t3_r4wix4,/r/lua/comments/r4wix4/why_is_this_script_not_working_no_errors_in_the/hmjedlu/,1638592207.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+38.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],Got it. Thanks a lot.,,,,1638127646,{},hmfowet,True,t3_r2n1tl,False,True,t1_hmfguuv,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hmfowet/,1638516755.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+39.0,[],,whoopdedo,,,[],,,,text,t2_5fd67,False,False,,"Does the `subtitle.delete` function accept line objects for deletion or only line numbers? The documentation I'm reading only shows an example using numbers. But the main site isn't working for me and I think this is an older copy of the docs I'm reading.
+
+The problem I see is that you're checking each line, even after merging a line. So if line 1 is short then you change it to 1+2. The next loop you check line 2 which is already merged into 1. If that is short then you're merging 2+3 into line 2 which will end up being deleted. 
+
+So with the desired result being that you want all lines to have a minimum length (ignoring that string length isn't text length in non-English languages). 
+
+    function main_func(subs, sel)
+        local lines_to_delete = {}
+
+        -- Fetch a dialog line starting from this index.
+        -- Returns line number and object
+        -- Returned line number is &gt;#subs if not found.
+        local function get_dialogue_line(l_num)
+            for i = l_num, #subs do
+                local l = subs[i]
+                if l.class == ""dialogue"" then
+                    return i, l
+                end
+            end
+            return #subs+1
+        end
+
+        -- Start at the beginning.
+        local l_num = 1
+        while True do
+            local current_line
+            l_num,current_line = get_dialogue_line(l_num)
+            -- Last line or no more lines, stop here.
+            if l_num &gt; #subs-1 then
+                break
+            end
+            -- Get next line and merge
+            local l_next = l_num + 1
+            while l_next &lt;= #subs and string.len(current_line.text) &lt; 55 do
+                local next_line
+                l_next, next_line = get_dialogue_line(l_next)
+                if next_line then -- Is there a next line?
+                    -- Should this test that the next line time is immediately after the current line?
+                    -- What if there's embedded styling?
+                    current_line.text = current_line.text .. "" "" .. next_line.text
+                    current_line.end_time = next_line.end_time
+                    subs[l_num] = current_line
+                    table.insert(lines_to_delete, l_next)
+                    -- Advance to line after the one merged
+                    l_next = l_next + 1
+                end -- of next line found
+            end -- of merge next line
+            -- Advance current line to the next one, which should be after any merged lines
+            l_num = l_next
+        end -- Do it again
+          
+        subs.delete(lines_to_delete)
+    end
+
+If you only want to merge two lines at a time, even if the result is a short line, change the inner `while..do` to an `if..then`.",,,,1638126505,{},hmfm09a,False,t3_r3pv7u,False,True,t1_hmc3npn,/r/lua/comments/r3pv7u/script_for_aegisub_that_concatenates_lines_under/hmfm09a/,,1,True,False,lua,t5_2qjla,,0,[],,False,9784698e04de0077805816776c1447ab3a9993aa,True,False,,0.0,,0.0,1638126517.0,False,r/lua,public
+40.0,[],,weregod,,,[],,,,text,t2_4u14ou4u,False,False,[],If you write module for neovim check its documentation/source code,,,,1638124562,{},hmfh1qn,False,t3_r2n1tl,False,True,t1_hmf4r6s,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hmfh1qn/,1638512591.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+41.0,[],,weregod,,,[],,,,text,t2_4u14ou4u,False,False,[],No Lua not provide multithreading. But C code can create several threads and call Lua in several threads,,,,1638124487,{},hmfguuv,False,t3_r2n1tl,False,True,t1_hmf4r6s,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hmfguuv/,1638512485.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+42.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],Via lua stdlib? Im not aware of this care to elaborate ? I am also very new to lua.,,,,1638119609,{},hmf4r6s,True,t3_r2n1tl,False,True,t1_hmecxyr,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hmf4r6s/,1638506035.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+43.0,[],,weregod,,,[],,,,text,t2_4u14ou4u,False,False,[],"Very likely that event loop is implemented by neovim.
+
+But may be another option: you can do multi threading in C and run corouitine in new thread.",,,,1638106440,{},hmecxyr,False,t3_r2n1tl,False,True,t1_hm6ws60,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hmecxyr/,1638490666.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+44.0,[],,first_son_of_the_sea,,,[],,,,text,t2_cy24chil,False,False,[],"Ok so It was suggested to me to add 'i &lt; #subs' which resolved the error. The automation now runs through however it only joins the first 2 lines, deleting everything else. What in the code Im using now would likely be causing that? 
+
+https://pastebin.com/PhzVb8Xc",,,,1638056952,{},hmc3npn,True,t3_r3pv7u,False,True,t3_r3pv7u,/r/lua/comments/r3pv7u/script_for_aegisub_that_concatenates_lines_under/hmc3npn/,1638444552.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+45.0,[],,s4b3r6,,,[],,,,text,t2_dwpf9,False,False,[],"Most libraries return a value to be bound, instead of defining a bunch of globals. Using the `-l` switch takes care of that for you.
+
+If you're just using `dofile`, then the entire library might not be setting anything.
+
+That is, using `-llib` is equivalent to doing:
+
+    lib = require ""lib""
+
+Whereas with `dofile` you might need to do:
+
+    lib = dofile(""lib.lua"")
+
+So, the question is, is the file you're trying to run setting up a bunch of globals? Or is it just _returning_ something?",,,,1638055254,{},hmbzv40,False,t3_r34z4x,False,True,t3_r34z4x,/r/lua/comments/r34z4x/help_question_about_loading_libraries_with_dofile/hmbzv40/,1638442580.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+46.0,[],,anonymocities,,,[],,,,text,t2_n226y,False,False,[],if its windows they probably don't have '',,,,1638045339,{},hmbdc5y,False,t3_r34z4x,False,True,t1_hm8v6ed,/r/lua/comments/r34z4x/help_question_about_loading_libraries_with_dofile/hmbdc5y/,1638431179.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+47.0,[],,miraf202,,,[],,,,text,t2_21mh13bt,False,False,[],ofc you need to prove that you didn't download this script from a leaking website/discord.,,,,1638039851,{},hmb00lg,False,t3_qusj1n,False,True,t1_hmazo8b,/r/lua/comments/qusj1n/can_anyone_tell_me_that_how_can_i_decrypt_this/hmb00lg/,1638424286.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+48.0,[],,miraf202,,,[],,,,text,t2_21mh13bt,False,False,[],"What's your discord? I can show you how to ""deobfuscate"" this kind of ""obfuscation"".",,,,1638039706,{},hmazo8b,False,t3_qusj1n,False,True,t3_qusj1n,/r/lua/comments/qusj1n/can_anyone_tell_me_that_how_can_i_decrypt_this/hmazo8b/,1638424106.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+49.0,[],,appgurueu,,,[],,,,text,t2_3juxvnrt,False,False,[],"Lua strings are byte strings, and accordingly Lua pattern matching operates at a byte level. By convention, Lua strings are often UTF-8 encoded. In UTF-8, the non-breaking space takes up two characters, which means it can't be treated as a character for pattern matching.  
+
+
+This leaves you with two options: Either implement trimming yourself using for-loops or drag in a more powerful library like LPeg to help you.",,,,1638010335,{},hm9g8b8,False,t3_qzypqs,False,True,t3_qzypqs,/r/lua/comments/qzypqs/trim_ascii_160_none_breaking_space_off_string/hm9g8b8/,1638393147.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+50.0,[],,appgurueu,,,[],,,,text,t2_3juxvnrt,False,False,,"Note that this only works if NBSP is encoded as a single byte, which is not the case if UTF-8 encoding is used.",,,,1638009834,{},hm9fnl8,False,t3_qzypqs,False,True,t1_hlpkwwh,/r/lua/comments/qzypqs/trim_ascii_160_none_breaking_space_off_string/hm9fnl8/,,1,True,False,lua,t5_2qjla,,0,[],,False,1c2a142fc1fb4a90284b17a8449bfc1ed8f93f18,True,False,,0.0,,0.0,1638009845.0,False,r/lua,public
+51.0,[],,[deleted],,,,,,dark,,,,,[],[removed],,,,1637993522,{},hm8v6ey,False,t3_r34z4x,False,True,t1_hm8v6ed,/r/lua/comments/r34z4x/help_question_about_loading_libraries_with_dofile/hm8v6ey/,1638380917.0,0,False,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+52.0,[],,wh1t3_rabbit,,,[],,,,text,t2_wz113,False,False,[],"Is it just a matter of correctly escaping the quotes in the command arguments?
+
+lua -e ""dofile(\""lib.lua\""); print(foo(2))""
+
+Or
+
+lua -e 'dofile(""lib.lua""); print(foo(2))'",,,,1637993522,{},hm8v6ed,False,t3_r34z4x,False,False,t3_r34z4x,/r/lua/comments/r34z4x/help_question_about_loading_libraries_with_dofile/hm8v6ed/,1638380916.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+53.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"hahaha, you and me, we'd get along.",,,,1637971865,{},hm7r0en,True,t3_r2n1tl,False,True,t1_hm77ll2,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm7r0en/,1638358062.0,0,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+54.0,[],,d2718,,,[],,,,text,t2_d83zcdor,False,False,[],"It's a thing!
+
+_White guy hi-fives all 'round._",,,,1637962557,{},hm77ll2,False,t3_r2n1tl,False,False,t1_hm6pdza,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm77ll2/,1638348104.0,0,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+55.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"fair enough, I know that neovim uses ""libuv"" under the hood. So maybe there is some integration with ""libuv"" for scheduling
+
+thank you for the discussion. was helpful.",,,,1637958564,{},hm6yzul,True,t3_r2n1tl,False,True,t1_hm6yrxo,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6yzul/,1638343641.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+56.0,[],,megagrump,,,[],,,,text,t2_3gd6pvi6,False,False,[],I know nothing about neovim.,,,,1637958459,{},hm6yrxo,False,t3_r2n1tl,False,True,t1_hm6ws60,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6yrxo/,1638343516.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+57.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"if that is the case, how is neovim slipping in ""move mouse"" functions in between calls of ""yield"" and ""resume"" ? Once I use the coroutine I'm allowing neovim to schedule what ever functions allows the mouse to move around.",,,,1637957504,{},hm6ws60,True,t3_r2n1tl,False,True,t1_hm6q85i,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6ws60/,1638342484.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+58.0,[],,megagrump,,,[],,,,text,t2_3gd6pvi6,False,False,[],"Nah, Lua is not JS. If you want an event loop then you have to implement it yourself.
+
+Think about it: `coroutine.resume` returns the arguments from the `coroutine.yield` call. How would you retrieve them if there was an async scheduler?
+
+    local co = coroutine.wrap(function()
+	    coroutine.yield(""in coroutine"")
+    end)
+    print(""before resume"")
+    print(co())
+    print(""after resume"")
+
+Output:
+
+    before resume
+    in coroutine
+    after resume",,,,1637954422,{},hm6q85i,False,t3_r2n1tl,False,True,t1_hm6pa8q,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6q85i/,1638339013.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+59.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"haha, we'll make it a thing then.   
+
+
+\&gt; I know it's boring to hate on Javascript  
+javascript do suck tho, real bad.",,,,1637954023,{},hm6pdza,True,t3_r2n1tl,False,True,t1_hm6d6pr,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6pdza/,1638338573.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+60.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"okay I must be confused then. I assumed Lua was using an event loop, and it would ""schedule"" on and off stack frames when these yield and resume methods are called.",,,,1637953973,{},hm6pa8q,True,t3_r2n1tl,False,True,t1_hm6bgmu,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6pa8q/,1638338519.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+61.0,[],,d2718,,,[],,,,text,t2_d83zcdor,False,False,[],"It's such an excellent description of languages with implicit coercion, although Lua isn't too bad with this. I know it's boring to hate on Javascript, but I think ""lousy typed"" is an _excellent_ description.",,,,1637948503,{},hm6d6pr,False,t3_r2n1tl,False,False,t1_hm5jfkx,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6d6pr/,1638331959.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+62.0,[],,megagrump,,,[],,,,text,t2_3gd6pvi6,False,False,[],Resume calls the coroutine. There is no such thing as a scheduler.,,,,1637947737,{},hm6bgmu,False,t3_r2n1tl,False,True,t1_hm62pc5,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm6bgmu/,1638331019.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+63.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"One more general coroutine question if I may. 
+
+Does coroutine.resume invoke the coroutine's function directly :
+  coroutine.resume stack frame -&gt; 
+    coroutine.function stack frame
+
+Or does coroutine.resume just schedule the coroutine's function for later invocation and return to the caller immediately?",,,,1637943906,{},hm62pc5,True,t3_r2n1tl,False,True,t1_hm5go7f,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm62pc5/,1638326049.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+64.0,[],,bald_bankrupt,,,[],,,,text,t2_65izricz,False,False,[],"Ruby stack is limited by itself and it is set absurdly low, you can check that with a recursive function.",,,,1637937106,{},hm5oici,False,t3_cgqfch,False,True,t1_euuooeo,/r/lua/comments/cgqfch/lua_coroutines_vs_ruby_fibers_benchmark/hm5oici/,1638318085.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+65.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"Lmao, totally a typo but glad to roll with it for the karma.",,,,1637934289,{},hm5jfkx,True,t3_r2n1tl,False,True,t1_hm5iri3,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm5jfkx/,1638315191.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+66.0,[],,d2718,,,[],,,,text,t2_d83zcdor,False,False,[],"I upvoted because I'd never heard the term ""lousy typed"" before, and I love it.",,,,1637933895,{},hm5iri3,False,t3_r2n1tl,False,True,t3_r2n1tl,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm5iri3/,1638314815.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+67.0,[],,ldelossa,,,[],,,,text,t2_evrah,False,False,[],"Got it, thanks. 
+
+For some reason I thought the handler's constructor would be called to create the handler itself *before* resume is called. 
+
+Now that I'm looking at it more, think this is my mistake causing the confusion.",,,,1637933290,{},hm5hr90,True,t3_r2n1tl,False,False,t1_hm5go7f,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm5hr90/,1638314212.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+68.0,[],,megagrump,,,[],,,,text,t2_3gd6pvi6,False,False,,"    local co = nil
+    co = coroutine.create(function your_function() ...)
+    co.resume()
+    your_function() -- called by co.resume
+
+By the time your function is called, `co` is already assigned.
+
+The `local co = nil` line is superfluous. You can remove it and move the `local` to line 197.",,,,1637932609,{},hm5go7f,False,t3_r2n1tl,False,True,t3_r2n1tl,/r/lua/comments/r2n1tl/why_does_my_code_work_pass_by_value_confusion/hm5go7f/,,1,True,False,lua,t5_2qjla,,0,[],,False,45ea7b61f4d8118c8a9b78bd19f09ea7b6fa38a8,True,False,,0.0,,0.0,1637932624.0,False,r/lua,public
+69.0,[],,lambda_abstraction,,,[],,,,text,t2_3new1,False,False,[],"If you plan to use LuaJIT, you'll want the second edition of PIL.  You'll also want the 5.2 reference and the LuaJIT site's ffi extension docs as well.",,,,1637877041,{},hm307bz,False,t3_r0teka,False,True,t1_hlurkwr,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hm307bz/,1638263243.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+70.0,[],,lambda_abstraction,,,[],,,,text,t2_3new1,False,False,[],"I started with LuaJIT 'cos I was using it as a system scripting language, and it's mainly 5.1, so that's where I'm (happily) stuck.",,,,1637876917,{},hm2zxz5,False,t3_r0teka,False,True,t1_hlutcok,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hm2zxz5/,1638263116.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+71.0,[],,lambda_abstraction,,,[],,,,text,t2_3new1,False,False,[],One interesting point about the mantissa size is that it can represent full addresses on many (most?) x64 systems since this address space is 48 bits.,,,,1637876859,{},hm2ztmt,False,t3_r0teka,False,False,t1_hlv65xw,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hm2ztmt/,1638263054.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+72.0,[],,lambda_abstraction,,,[],,,,text,t2_3new1,False,False,[],"One thing that will definitely be a burr under your saddle if you play around seriously with LuaJIT is that while the indexed portion of a table starts with index 1, arrays provided by the ffi are indexed starting with 0.  Also a null pointer is equal to nil, but it doesn't test as false.",,,,1637876590,{},hm2z9c2,False,t3_r0teka,False,True,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hm2z9c2/,1638262774.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+73.0,[],,Cultural_Two_4964,,,[],,,,text,t2_7t7up8ys,False,False,[],Getting somewhere now: http://ic50.org/crazy.html,,,,1637842619,{},hm0z58o,True,t3_qz8gqi,False,True,t1_hltbsdy,/r/lua/comments/qz8gqi/fengari_question/hm0z58o/,1638223228.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+74.0,[],,megagrump,,,[],,,,text,t2_3gd6pvi6,False,False,[],"&gt; I've been using Lua for six years and I saw this and was like ""that can't be right; surely that's an error""; turns out I'm wrong.
+
+Same here. I had to try it to see for myself. I think it's a bad thing, but I never had to deal with it, ever. Good to know though.",,,,1637840705,{},hm0wmf5,False,t3_r0teka,False,True,t1_hlz09ef,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hm0wmf5/,1638221734.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+75.0,[],,diegovsky_pvp,,,[],,,,text,t2_5cvza0xy,False,False,[],"Well, I haven't used any Lua debugger so I'm sorry to say I can't help you. My suggestion was to setup WSL so you can install luasocket in a Unix environment.
+
+Since you said it's not a freestanding lua file, getting luasocket to work might be difficult because Lua has to find the .dll.
+
+If it's name is core.dll, try creating a copy named luasocket.dll. Your debugger might be trying to import it using that name.",,,,1637802514,{},hlz57p3,False,t3_qzyy76,False,False,t1_hlya52n,/r/lua/comments/qzyy76/trying_to_install_luasocket_with_luarocks_on/hlz57p3/,1638185128.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+76.0,[],,technomancy,,,[],,,,text,t2_1wfw,False,False,[],"&gt; One-based indexes
+
+This will bother you for like a week or two, and then you'll get used to it. Most of the time when you're walking thru tables you'll use an iterator and it's irrelevant what index it starts at. (The main exception is it does make FFI more difficult.)
+
+&gt; No distinction between arrays and dictionaries/tables.
+
+Again, this takes some getting used to, but once you internalize it, it doesn't cause problems beyond the learning curve. The difference between sequential tables and key/value tables happens when you *access* the table, not when you create it.
+
+&gt; Global variables by default.
+
+Any Lua program over a few kilobytes should use luacheck; if you want to avoid going crazy it's non-negotiable: https://github.com/mpeterv/luacheck You're right that it's a design mistake, but luacheck makes it relatively easy to work around.
+
+You can also set strict mode on `_G` to catch global mistakes, but luacheck provides a bunch of checks for other mistakes too so I think it's a better solution.
+
+&gt; Weak type system (5 - ""3"" should error, not do implicit conversions)
+
+I've been using Lua for six years and I saw this and was like ""that can't be right; surely that's an error""; turns out I'm wrong. Wow. On the bright side, this appears to only affect string-&gt;number arithmetic rather than JS where auto-conversion happens with basically any type. Also apparently you can easily program in Lua for 6 years without ever running into this problem; I'm living proof.
+
+&gt; Constantly breaking backward compatibility
+
+This is kind of annoying, but since you can easily lock your application to a specific Lua version, it's not nearly as big of a problem as it is in, say Python or Java.",,,,1637800284,{},hlz09ef,False,t3_r0teka,False,True,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlz09ef/,1638182597.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+77.0,[],,ws-ilazki,,,[],,,,text,t2_rq1db,False,False,[],"No problem and good luck with it.  Those fantasy consoles are great for that kind of thing because they lower the barrier to entry in the same way that the pre-x86 PCs used to.  It's a lot like the C64/C128/etc. style of ""boot, write, run, play"" with no bullshit and a nicer language. I think that kind of environment is sorely missing from programming today, because everything has too much overhead just to get *started*, before you can even begin learning things.  They take away most of the difficulty of getting started, just leaving the ""good resources for total newbies"" hurdle to clear. 
+
+Which is why I mentioned Racket and HtDP, because it has an amazing initial setup and early use period.  I agree about HtDP not necessarily being a good thing to *complete* for a beginner, but that isn't how I think it should be used.  I just think the first parts of the book are really good for teaching someone the basics without a lot of language-specific quirks; that, combined with the lack of overhead for getting started, makes it a good interactive introduction to concepts for the early learning phase.  That's an area that tends to get overlooked and underdeveloped and leads to difficulties that could have been completely avoided, because a lot of beginner material does a terrible job of actually teaching beginner concepts. :/
+
+So, cover the basics there, then past a point you swap up and take that knowledge into another language if it starts getting boring, because by then you've had a chance to decide if programming interests you or not, and if it does, you have that itch to keep going that will make the annoyance of getting started a bit less of a showstopper. Too many good languages are just too hard to get started with and learn from and I think that discourages people sometimes.",,,,1637791696,{},hlygi1j,False,t3_qy9mkz,False,True,t1_hlxow5i,/r/lua/comments/qy9mkz/which_game_engine_should_i_choose/hlygi1j/,1638172560.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+78.0,[],,KazFoxsen,,,[],,,,text,t2_37wuhduk,False,False,[],"It turns out that the extension seems to have the luasocket files (like core.dll-- is that one?) but it still tells me to install luasocket. Then I tried the debugger in Windows for Lua's SciTE, but couldn't figure it out since I don't know much about how to use it.",,,,1637789164,{},hlya52n,True,t3_qzyy76,False,True,t1_hlr298l,/r/lua/comments/qzyy76/trying_to_install_luasocket_with_luarocks_on/hlya52n/,1638169270.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+79.0,[],,gebloom,,,[],,,,text,t2_1s8p,False,False,[],"Thanks for your tips regarding Lua frameworks. I’ll look into them. And you did
+change my enthusiasm for Roblox. 
+
+I do disagree about HtDP as the ideal beginner platform. I’m familiar with it because it was the sixth Scheme-based book (following Little and Seasoned Schemer, Concrete Abstractions, Simply Scheme, and SICP) my homeschooled son worked through nearly 20 years ago (in the DrScheme days). For context, he also used Smalltalk, Python, ML, and the first Ruby on Rails book. While that experience gave him a huge head start in CS, today, I’d opt for an experience that allowed him to make games.   Most kids would not last long if they started an experience as abstract as HtDP or any CS-focused learning environment. Most kids aren’t motivated to learn CS at an early age, they want to create.  I think my son was comfortable with the less fun stuff because all his “school work” was finished in 2.5 hours, which left an abundance of time to pursue computer games, MtG, and Warhammer games.",,,,1637780747,{},hlxow5i,False,t3_qy9mkz,False,True,t1_hlptwvc,/r/lua/comments/qy9mkz/which_game_engine_should_i_choose/hlxow5i/,1638157767.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+80.0,[],,evergreengt,,,[],,,,text,t2_a7qfrel7,False,False,[],"I see, interesting approach as well, thank you for the suggestion!",,,,1637774004,{},hlx7jv6,True,t3_r154gx,False,True,t1_hlwwypa,/r/lua/comments/r154gx/get_git_root_path/hlx7jv6/,1638147998.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+81.0,[],,anonymocities,,,[],,,,text,t2_n226y,False,False,,"    function exists(file)
+     local f = io.open(file)
+     return f and io.close(f)
+    end
+    
+    function gitcheck(dir)
+     while #dir&gt;0 and not exists(dir .. ""/.git"") do
+      dir=dir:gsub(""/+[^/]*$"","""")
+     end
+     return #dir&gt;0 and dir
+    end
+    print( gitcheck(os.getenv""PWD"") )",,,,1637769812,{},hlwwypa,False,t3_r154gx,False,True,t3_r154gx,/r/lua/comments/r154gx/get_git_root_path/hlwwypa/,,1,True,False,lua,t5_2qjla,,0,[],,False,d8195dda04bf6ea5c7437434d9675360495607e7,True,False,,0.0,,0.0,1637769825.0,False,r/lua,public
+82.0,[],,LcuBeatsWorking,,,[],,,,text,t2_35yvpw3v,False,False,[],true.,,,,1637766731,{},hlwpgsf,False,t3_r154gx,False,True,t1_hlwi3z1,/r/lua/comments/r154gx/get_git_root_path/hlwpgsf/,1638137654.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+83.0,[],,evergreengt,,,[],,,,text,t2_a7qfrel7,False,False,[],"It works like a charm, thank you. It turns out that the problem was in redirecting the output error `2&gt; /dev/null` in case of exception, which resulted in the `io.popen` hanging.",,,,1637763486,{},hlwi3z1,True,t3_r154gx,False,True,t1_hlwdno0,/r/lua/comments/r154gx/get_git_root_path/hlwi3z1/,1638133288.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+84.0,[],,LcuBeatsWorking,,,[],,,,text,t2_35yvpw3v,False,False,[],"what platform are you on? on linux and macos you should be able to do this
+
+`function exec(command)`
+
+`local f = io.popen(command)`
+
+`local l = f:read(""*a"")`
+
+`f:close()`
+
+`return l`
+
+`end`
+
+and it should return the command output. Not sure about windows (never tried)
+
+local result = exec(""git rev-parse --show-toplevel"")",,,,1637761288,{},hlwdno0,False,t3_r154gx,False,False,t3_r154gx,/r/lua/comments/r154gx/get_git_root_path/hlwdno0/,1638130636.0,6,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+85.0,[],,[deleted],,,,,,dark,,,,,[],[deleted],,,,1637761067,{},hlwd8il,False,t3_r154gx,False,True,t3_r154gx,/r/lua/comments/r154gx/get_git_root_path/hlwd8il/,1638130378.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+86.0,[],,Floedekage,,,[],,,,text,t2_azpni,False,False,[],"Ay, you're my hero of the day. 💙 Exactly what I looked for, thank you. 🌺",,,,1637754508,{},hlw2lms,True,t3_r12s7f,False,True,t1_hlw19p7,/r/lua/comments/r12s7f/a_barebones_lua_console_for_windows/hlw2lms/,1638124063.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+87.0,[],,megagrump,,,[],,,,text,t2_3gd6pvi6,False,False,[],"You mean the default lua.exe?
+
+http://luabinaries.sourceforge.net/",,,,1637753551,{},hlw19p7,False,t3_r12s7f,False,False,t3_r12s7f,/r/lua/comments/r12s7f/a_barebones_lua_console_for_windows/hlw19p7/,1638123251.0,5,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+88.0,[],,s4b3r6,,,[],,,,text,t2_dwpf9,False,False,[],"A lot of languages don't let you get a length easily from a hashtable.
+
+For example, with JavaScript:
+
+    ({a: 1}).length == undefined
+
+But with Lua you probably want to delegate your for-loops to `ipairs` and `pairs` anyways, unless you're modifying what you're iterating over. `ipairs` for arrays, and `pairs` for everything. Somewhat like you might use `items` in Python.",,,,1637738065,{},hlvht6f,False,t3_r0teka,False,False,t1_hlunow0,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlvht6f/,1638111736.0,4,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+89.0,[],,ewmailing,,,[],,,,text,t2_a2ji8,False,False,,"To answer the other questions that others haven't touched on:
+
+* I like the Programming in Lua books. I think they are very good. The Fourth edition got a major overhaul. The originals were roughly into 3 parts: 
+    * language basics
+    * more advanced programming in Lua
+    * C API
+The 4th edition restructures things a bit and offers another section ""Lua-isms"" which focuses on how Lua is different from other languages and how you would take advantage of Lua to solve certain types of problems.
+
+* As for which book to pick, pick the one that goes with the version of Lua you pick. Generally, the Lua developers presume new people should/will pick the latest version available since they don't have to worry about a legacy codebase. (Also, since Lua's dominant use is embedded in a host application, host application life-cycles almost never go through this kind of upgrade and just go into maintenance mode if not abandoned/retired.)
+
+* I don't think you need the books in this day and age of the internet. However, I think PiL is the best way to learn how to use the C-API.
+
+* Backwards compatibility breaking can be annoying, but it also has benefits too. We get a clean language that stays fast and small, as well as new features. Also, most of Lua's changes did not cause huge problems for programs written in Lua. I would say most of the problems with compatibility are centered around LuaJIT not being able to easily to move to later versions. LuaJIT is an amazing piece of machinery, but it is also an extremely complicated piece of machinery that very few people in the world have the skill to seriously work on.
+
+* The Lua developers have given talks about how they approach backwards compatibly and breaking changes. It isn't as black &amp; white as some people make it out to be. 
+
+* If you like to bet the future on the probabilities of experimental projects actually coming to fruition, you might also look at [Pallene](https://github.com/pallene-lang/pallene), the experimental sister language to Lua. Pallene is a typed variant of Lua designed to seamlessly interoperate with Lua and C, with the purpose of using type information to compile (AOT) optimized native code for performance. It hopes to somewhat fill the role of LuaJIT with its focus on performance and (hopefully) automatic C bindings.",,,,1637738045,{},hlvhs7m,False,t3_r0teka,False,True,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlvhs7m/,,1,True,False,lua,t5_2qjla,,0,[],,False,ec8ff430bf90f80cde297c8b16e3d4b51ae4f433,True,False,,0.0,,0.0,1637738057.0,False,r/lua,public
+90.0,[],,s4b3r6,,,[],,,,text,t2_dwpf9,False,False,[],"&gt; Also how important is it to read the book to understand the language? Should I read it first or play with it some more?
+
+Lua is, intentionally, a ***tiny*** language. You can get a good grasp for it in less than a day. You can become proficient in it in less than a week. (If you're already a programmer in just about anything else).
+
+Lua doesn't really have a lot of hidden corners. You've already listed pretty much everything that you might find surprising about the entire language and stdlib. It isn't like something like Python where you'll continually learn new and exciting strange corner cases years down the line.
+
+And whilst Luajit gets used a lot because it's nearly on-par with C, the non-JIT Lua's are generally faster or close to most other languages so the reasons not to use them aren't that big.",,,,1637737721,{},hlvhbxx,False,t3_r0teka,False,True,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlvhbxx/,1638111453.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+91.0,[],,humbleSolipsist,,,[],,,,text,t2_ylpsq,False,False,[],"I'll note that if you want `pairs` to have an even more reliable ordering, you *can* set a table's `__pairs` metamethod to something with a defined order.",,,,1637731477,{},hlv7fk3,False,t3_r0teka,False,True,t1_hluqe5j,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlv7fk3/,1638105833.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+92.0,[],,humbleSolipsist,,,[],,,,text,t2_ylpsq,False,False,,"&gt; No integers only float for numbers
+
+Others have already commented that you can have integers in versions 5.3 and up, but I'll also note that 64 bit floats (which is what lua uses on 64 bit systems) have 53 bits of precision, which means you can perfectly represent integers with a magnitude of over 9,000,000,000,000,000, which is more than you'll need for the vast majority of usecases. Rounding errors don't just happen out of thin air, that'll only be an issue if you need more than 53 bits of precision.
+
+&gt; Weak type system
+
+I understand the concerns on this front, but the implicit type conversions are few (by comparison to many other popular languages) and generally quite reasonable. eg implicit conversion from float to int (in versions that support integers) only occurs if the float has an exact integer representation, whereas C, Java, C#, and many others will automatically truncate floats. Arithmetic involving strings is really the only implicit type conversion that would have any real potential to cause problems, and it's fairly mundane. It's not completely ridiculous for `""5"" + 3` to produce the result `8`. Strings that are not  formatted properly - which is most of the ones that aren't *intended* to represent numbers - *will* raise an error. Contrast this with JS, where `someString + 3` will *never* produce an error, since it is the integer that gets converted, not the string.
+
+Also note that the [manual says](https://www.lua.org/manual/5.4/manual.html#3.4.3) ""Nonetheless, it is always a good practice not to rely on these implicit coercions, as they are not always applied; in particular, ""1""==1 is false and ""1""&lt;1 raises an error (see §3.4.4). These coercions exist mainly for compatibility and may be removed in future versions of the language.""
+
+&gt; One-based indexes
+
+This is something that seems to bug a lot of people. I'd advise against blindly accepting dogma in programming circles - the truth is that the advantages of 1-based or 0-based indexing are mostly only relevant in very specific usecases. I prefer 1-based, I find it more intuitive. It takes a lil bit to get used to, coming from a 0-indexed language, but it's really no biggie.
+
+&gt; Global variables by default
+
+I, too, think this is a little odd, but it's also not that big of a deal once you bridge the conceptual gap. It's slightly incorrect to think of it as ""global by default"", as many do. Instead, when you are using a variable name, lua goes up the scope one level at a time looking for the nearest local variable, as most other languages would. If it does not find the name at any local scope it accesses your current [environment](https://www.lua.org/manual/5.4/manual.html#2.2). The environment is stored in a table, and so employs ordinary table semantics. This has a number of upsides, chief among them is the fact that different modules can be loaded with different environments, and those environments simply being tables means they are easily constructed and modified. This is useful if, for example, you want to control the api that extensions &amp;/or config files to have access to. The downside, of course, is that the language has no way to tell the difference between an uninitialized environment variable and an environment variable that has been initialized to `nil`.
+
+You didn't mention it, but one thing I like about lua is the multiple return values. They can allow you to produce secondary optional output values that can simply be ignored if they are not important. A great example of this being used well is [pcall](https://www.lua.org/manual/5.4/manual.html#pdf-pcall), which calls a supplied function `f` that may produce an error. Its first return value is a boolean indicating if an error occurred, and its secondary values are either the outputs of `f`, or the error object, depending on whether an error occurred. Sometimes you may only care about whether or not an error occurred, and not about the outputs of `f` or the error message. In that case, you can just write your code as if `pcall` only returns the boolean. Another great example is [string.find](https://www.lua.org/manual/5.4/manual.html#pdf-string.find).",,,,1637730745,{},hlv65xw,False,t3_r0teka,False,True,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlv65xw/,,1,True,False,lua,t5_2qjla,,0,[],,False,3e210e9a4ca3555fe2fbffffbad7132c3d726405,True,False,,0.0,,0.0,1637730761.0,False,r/lua,public
+93.0,[],,AdamNejm,,,[],,,,text,t2_hn6jb,False,False,[],"Never read any Lua books, but honestly? Never had a need to do so.
+
+Not saying that Lua's manual can be a substitute for a good book *(as the manual is absolutely terrible)*, but in the end, Lua is pretty darn simple and straight forward, most of the stuff can be learned from various online sources.
+
+Right now I'm reading Rust's book and I absolutely love it. I can read it both for fun and for the information contained within.",,,,1637724395,{},hluu0jh,False,t3_r0teka,False,True,t1_hlurkwr,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hluu0jh/,1638098734.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+94.0,[],,--CJ--,,,[],,,,text,t2_1a1zz8dm,False,False,[],I’m a 5.1.5 guy because it’s what I learned and what most things I care about use.,,,,1637724068,{},hlutcok,False,t3_r0teka,False,False,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlutcok/,1638098381.0,1,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+95.0,[],,Techcable,,,[],,,,text,t2_w500p,False,False,[],"Yeah, I'm aware of Lua 5.3. The integers definitely look like a big improvement :)
+
+Seems like a tradeoff between LuaJIT/the newer editions. LuaJIT is faster and maybe has more libraries, but the newer editions seem to clean up a lot of the quirks.
+
+Do you have any opinions on the book? It seems like it makes the most sense to read the newest version (but I don't really know)",,,,1637723212,{},hlurkwr,True,t3_r0teka,False,True,t1_hluqe5j,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlurkwr/,1638097459.0,2,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+96.0,[],,AdamNejm,,,[],,,,text,t2_hn6jb,False,False,[],"&gt;No distinction between arrays and dictionaries/tables.
+
+Not for the user, but Lua keeps arrays and hash maps separate internally.
+
+&amp;#x200B;
+
+&gt;No integers only float for numbers.
+
+[Yes integers.](https://www.lua.org/manual/5.3/manual.html#2.1)
+
+&amp;#x200B;
+
+&gt;Strange `for` loops (confusing?)
+
+Agreed. Basic `for i = 1, 10` is self-explainatory, but `ipairs` and `pairs` are not.    
+You can think of `ipairs` as just a while loop that uses an incremental variable and stops when a table doesn't contain anything at that spot.    
+The latter will loop through the whole table (array and hash map parts), and while the order is technically undefined for the hash map, it'll still reliably query the keys sequentially if they're numbers *(fun fact: reliably, starting at 0, not 1)*
+
+&amp;#x200B;
+
+&gt;Which edition of Lua do you prefer and recommend trying first?
+
+Definately 5.3 and up, why? It has integers, bitwise operators, `__pairs` which is nice for proxy tables. Why *""and up""*? Well, it has everything Lua 5.3 has and more, but one thing... one thing that bugs me... 5.3 doesn't have `%p` for `string.format` :D  
+There's also [Moonsharp](https://www.moonsharp.org/) and recently open sourced Roblox's [Luau](https://luau-lang.org/).",,,,1637722659,{},hluqe5j,False,t3_r0teka,False,True,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hluqe5j/,1638096850.0,3,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+97.0,[],,Techcable,,,[],,,,text,t2_w500p,False,False,,"Okay, I just went and played with it a little. Turns out it's not that strange. I'll go edit my main post now.....
+
+&amp;#x200B;
+
+I think it might've had something to do with the length operator. If \`t2 = {\[""foo""\]=\[""bar""\],\[""baz""\]=\[""bar""\]}\` it seems a little strange that \`#t2==0\`.
+
+&amp;#x200B;
+
+I guess I should really be thinking ""length of the array portion of the table"", but that's kind of counterintuitive...",,,,1637721375,{},hlunow0,True,t3_r0teka,False,True,t1_hlulwk6,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlunow0/,,1,True,False,lua,t5_2qjla,,0,[],,False,55075c97e28b6faed44b46fb8984593739cb732f,True,False,,0.0,,0.0,1637721392.0,False,r/lua,public
+98.0,[],,wh1t3_rabbit,,,[],,,,text,t2_wz113,False,False,[],What's strange about for loops?,,,,1637720529,{},hlulwk6,False,t3_r0teka,False,False,t3_r0teka,/r/lua/comments/r0teka/please_explain_versions_of_lua_and_the_book_to/hlulwk6/,1638094496.0,4,True,False,lua,t5_2qjla,,0,[],,,,,,,,,,,,,
+99.0,[],,Cultural_Two_4964,,,[],,,,text,t2_7t7up8ys,False,False,,"Answering my own question, yes, it works very well as follows: 
+
+document:getElementById(""demo"").innerHTML = jim 
+
+Many thanks indeed for pointing all this out. I might try to write a mini-blog/tutorial in case that's any use. One tiny thing, its probably just me but on my linux setup if I use the file: fengari-web.js, my setup interprets that as a command: fengari with argument: -web.js and of course doesn't work. Renaming it to fengari\_web.js solves that problem. Took me a while to work that out, sorry!!",,,,1637700356,{},hltbsdy,True,t3_qz8gqi,False,True,t1_hlmxl30,/r/lua/comments/qz8gqi/fengari_question/hltbsdy/,,1,True,False,lua,t5_2qjla,,0,[],,False,e5088596df568d3d7a6039f0e109c4816446aeb6,True,False,,0.0,,0.0,1637700370.0,False,r/lua,public

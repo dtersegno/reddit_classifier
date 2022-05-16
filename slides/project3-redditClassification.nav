@@ -1,0 +1,91 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Problem Statement}{2}{Problem Statement}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Dave's Good Storage Solutions}}
+\headcommand {\slideentry {1}{1}{1}{3/6}{Dave's Good Storage Solutions}{0}}
+\headcommand {\beamer@framepages {3}{6}}
+\headcommand {\beamer@subsectionpages {3}{6}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{7}{Disaster Planning}}
+\headcommand {\slideentry {1}{2}{1}{7/11}{Disaster Planning}{0}}
+\headcommand {\beamer@framepages {7}{11}}
+\headcommand {\slideentry {1}{2}{2}{12/14}{Disaster Planning}{0}}
+\headcommand {\beamer@framepages {12}{14}}
+\headcommand {\beamer@sectionpages {2}{14}}
+\headcommand {\beamer@subsectionpages {7}{14}}
+\headcommand {\sectionentry {2}{Data}{15}{Data}{0}}
+\headcommand {\slideentry {2}{0}{1}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{16}{Haskell and Lisp}}
+\headcommand {\slideentry {2}{1}{1}{16/22}{Haskell and Lisp}{0}}
+\headcommand {\beamer@framepages {16}{22}}
+\headcommand {\slideentry {2}{1}{2}{23/23}{Haskell and Lisp}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {2}{1}{3}{24/24}{Haskell and Lisp}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@subsectionpages {16}{24}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{25}{Timeframe}}
+\headcommand {\slideentry {2}{2}{1}{25/28}{Timeframe}{0}}
+\headcommand {\beamer@framepages {25}{28}}
+\headcommand {\beamer@subsectionpages {25}{28}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{29}{Feature engineering}}
+\headcommand {\slideentry {2}{3}{1}{29/29}{Feature engineering}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionpages {29}{29}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{30}{Link features}}
+\headcommand {\slideentry {2}{4}{1}{30/30}{Link features}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@subsectionpages {30}{30}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{31}{Content features}}
+\headcommand {\slideentry {2}{5}{1}{31/31}{Content features}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@sectionpages {15}{31}}
+\headcommand {\beamer@subsectionpages {31}{31}}
+\headcommand {\sectionentry {3}{Models}{32}{Models}{0}}
+\headcommand {\slideentry {3}{0}{1}{32/32}{}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{33}{Model selection}}
+\headcommand {\slideentry {3}{1}{1}{33/38}{Model selection}{0}}
+\headcommand {\beamer@framepages {33}{38}}
+\headcommand {\beamer@subsectionpages {33}{38}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{39}{Model Performance}}
+\headcommand {\slideentry {3}{2}{1}{39/39}{Model Performance}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {3}{2}{2}{40/40}{Model Performance}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {3}{2}{3}{41/41}{Model Performance}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@sectionpages {32}{41}}
+\headcommand {\beamer@subsectionpages {39}{41}}
+\headcommand {\sectionentry {4}{Next steps}{42}{Next steps}{0}}
+\headcommand {\slideentry {4}{0}{1}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{43}{Comment trees}}
+\headcommand {\beamer@subsectionpages {43}{42}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{43}{Next steps}}
+\headcommand {\slideentry {4}{2}{1}{43/46}{Next steps}{0}}
+\headcommand {\beamer@framepages {43}{46}}
+\headcommand {\beamer@subsectionpages {43}{46}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{47}{Comment trees}}
+\headcommand {\slideentry {4}{3}{1}{47/47}{Comment trees}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {4}{3}{2}{48/48}{Comment trees}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\beamer@subsectionpages {47}{48}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{49}{Time}}
+\headcommand {\slideentry {4}{4}{1}{49/53}{Time}{0}}
+\headcommand {\beamer@framepages {49}{53}}
+\headcommand {\slideentry {4}{4}{2}{54/54}{Time}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\beamer@partpages {1}{54}}
+\headcommand {\beamer@subsectionpages {49}{54}}
+\headcommand {\beamer@sectionpages {42}{54}}
+\headcommand {\beamer@documentpages {54}}
+\headcommand {\gdef \inserttotalframenumber {24}}

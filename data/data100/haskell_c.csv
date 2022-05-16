@@ -1,0 +1,290 @@
+,all_awardings,archived,associated_award,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_template_id,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_patreon_flair,author_premium,body,body_sha1,can_gild,collapsed,collapsed_because_crowd_control,collapsed_reason,collapsed_reason_code,comment_type,controversiality,created_utc,distinguished,gilded,gildings,id,is_submitter,link_id,locked,no_follow,parent_id,permalink,retrieved_utc,score,score_hidden,send_replies,stickied,subreddit,subreddit_id,subreddit_name_prefixed,subreddit_type,top_awarded_type,total_awards_received,treatment_tags,unrepliable_reason
+0.0,[],False,,elvecent,,,[],,,,text,t2_bwz58lm,False,False,"It's definitely a code smell if it's in your business logic. However, if it only emerges when you interpret that logic into something you really intend to use IO calls, then it's fine.
+
+In your business logic, ideally you should have custom effects/typeclasses forming a vocabulary that makes sense to a domain expert who is not necessarily a programmer.",51e047d22777550b2beda91518c11cfd0e23890b,True,False,,,,,0,1647204353,,0,{},i0j9w8v,False,t3_td22b3,False,True,t3_td22b3,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0j9w8v/,1647204370,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+1.0,[],False,,tomejaguar,,,[],,,,text,t2_45sug,False,False,"&gt; And taking the maxTupleSize down to 30, 10, 5, even 0 and -1 doesn't help, still out of memory
+
+What happens if you just delete the contents of that module entirely?
+
+&gt; I'm going to ask ghcup to compile GHC from source, perhaps it'll help
+
+Hmm ... I can't quite imagine that working, but if it does then great!",0b4da1f6b4b7a70770afb3e8bce4866b23edb106,True,False,,,,,0,1647200417,,0,{},i0j0v30,False,t3_tbn46e,False,True,t1_i0ixbn2,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0j0v30/,1647200436,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+2.0,[],False,,Swordlash,,,[],,,,text,t2_2fpxe4mw,False,False,"Actually the module it fails compiling on is `Data.Profunctor.Product.Tuples`, which apart from imports is basically a single directive: `mkTs [0..maxTupleSize]`
+
+So I guess that TH is a culprit here.",6213b7568def5e9245b7bd59ad3af1239a4ad715,True,False,,,,,0,1647198892,,0,{},i0ixbn2,True,t3_tbn46e,False,True,t1_i0ih4gx,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0ixbn2/,1647198904,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+3.0,[],False,,gdeest,,,[],,,,text,t2_f9a1w,False,False,I stand corrected: https://github.com/haskell-servant/servant/issues/986#issuecomment-1065996140,8801a79fd5719680953aa26509ec606abf6df2aa,True,False,,,,,0,1647196428,,0,{},i0irjh6,False,t3_t8rwe2,False,True,t1_i081i9n,/r/haskell/comments/t8rwe2/named_routes_in_servant/i0irjh6/,1647196446,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+4.0,[],False,,gdeest,,,[],,,,text,t2_f9a1w,False,False,"It actually seems to improve performance on non-nested APIs, which I find very surprising (but if confirmed, is absolutely excellent news.)",505d0f66cdf7057ab1d017062aed634de51cd844,True,False,,,,,0,1647196417,,0,{},i0irijr,False,t3_t8rwe2,False,True,t1_i0fwogr,/r/haskell/comments/t8rwe2/named_routes_in_servant/i0irijr/,1647196446,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+5.0,[],False,,davi_suga,,,[],,,,text,t2_79n3neq0,False,False,"In Brazil, Elixir, which is one of the top paying techs, has the average salary of around 2.2K USD a month (direct conversion). That's a HIGH salary here because the living cost is very low compared to other countries. 4K here is absolutely a top paying position.",e0fa0327776fbe689ca375811f9322dc2e6c896d,True,False,,,,,0,1647194918,,0,{},i0inwey,False,t3_td7txq,False,True,t1_i0i04sb,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0inwey/,1647194935,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+6.0,[],False,,doctahFoX,,,[],,,,text,t2_z6pv3,False,False,"This is perfect for my use case, thanks everyone! &lt;3",04062132ee143cf0722df5c089d2fb4d4573f12f,True,False,,,,,0,1647193902,,0,{},i0iley6,False,t3_t3zw0x,False,True,t1_i0ig10n,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0iley6/,1647193920,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+7.0,[],False,,SSchlesinger,,,[],,,,text,t2_jggeg,False,False,Link is broken for me,243e8ad1fc03f4a99196f140cd557f0801e97791,True,False,,,,,0,1647193806,,0,{},i0il6ew,False,t3_td4xbd,False,True,t3_td4xbd,/r/haskell/comments/td4xbd/property_testing_textbook/i0il6ew/,1647193820,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+8.0,[],False,,the-coot,,,[],,,,text,t2_1t3hztq2,False,False,It's back again.,740b34fce412939b7087aaa510e7a491fb75bd95,True,False,,,,,0,1647192711,,0,{},i0iih1l,True,t3_tcsnnz,False,True,t1_i0i32pw,/r/haskell/comments/tcsnnz/a_remark_on_lazy_st_monad_and_monadfix/i0iih1l/,1647192729,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+9.0,[],False,,tomejaguar,,,[],,,,text,t2_45sug,False,False,"On my Mac Book Pro M1 I was able to compile successfully and it used a few hundred MB of memory, so I haven't been able to reproduce the problem. I haven't heard any other reports of similar behaviour either.
+
+If you're really interested in solving it then you could download [the git repo](https://github.com/tomjaguarpaw/product-profunctors/), run `cabal build`, see if you get the same error, and if so progressively remove parts of the package (by commenting them out in the source files) until you get something to compile. That way you may be able to pinpoint the exact problem.
+
+I'm not sure what else to suggest at this point I'm afraid.",3d8ac0ffb1ff068737f61571a6e2af18e94d21e3,True,False,,,,,0,1647192150,,0,{},i0ih4gx,False,t3_tbn46e,False,True,t1_i0i07ze,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0ih4gx/,1647192163,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+10.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"You could also store `Maybe`s instead; gotta deal with the `Maybe` in the type of `lookup` anyway. :)
+
+Using an IntSet as a free ""list"" could also work.  Then either `size map` or `minView freeSet` gives you a free (but potentially reused) index, and `size map + size freeSet` gives you an free (and ""new"") index.",05de26fb51137c05ad465ca0dfcba289b3da7591,True,False,,,,,0,1647192089,,0,{},i0igz8t,False,t3_t3zw0x,False,True,t1_i0ig10n,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0igz8t/,1647192102,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+11.0,[],False,,Noughtmare,,,[],,,,text,t2_shhn8,False,False,"The problem with using `size` as new key is that some entries in the map may be empty. Instead, you could track the empty cells in a [free list](https://en.wikipedia.org/wiki/Free_list) and use `size` only if the free list is empty.",424591d453eb13e65e82dcf4d98bef8cae810010,True,False,,,,,0,1647191692,,0,{},i0ig10n,False,t3_t3zw0x,False,True,t1_i0ieezu,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0ig10n/,1647191709,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+12.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"Yeah, for a job with that time split, any US based person will expect 150k, at least -- even if they are in ""fly over"" territory.  Technical managers make more than plain devs.
+
+Maybe the position has perks that make up for the low pay -- a righteous cause or stake in future rewards, or maybe it's just targeted for a different job market.  Either way, there's value in being upfront about the base compensation.",5df14b2c8bc2c0559d198dc8e7bc4cce42344a0e,True,False,,,,,0,1647191514,,0,{},i0iflt3,False,t3_td7txq,False,True,t1_i0i04sb,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0iflt3/,1647191529,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+13.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"Use `IntMap` structure and `size` before the insert as the key.
+
+Alternatively, I'm pretty sure there's a `Seq`uence type on hackage that has O(1) `length` (same as `IntMap.size`), O(lg n) `!` (same as `IntMap.lookup`), and O(1) `snoc` (`IntMap.insert` is O(lg n), so better).
+
+I'd check the Edison library, searching for a fingertree implementation also works.",eb0bfe5c1b086bf6f3f1f68b89319c0d5fafc5d3,True,False,,,,,0,1647191016,,0,{},i0ieezu,False,t3_t3zw0x,False,True,t1_i0hxo5q,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0ieezu/,1647191029,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+14.0,[],False,,arkaros,,,[],,,,text,t2_8to21,False,False,I only work on uninteresting projects,cea50aa7a7958ca213bffe005f2f69e7db1bbfad,True,False,,,,,0,1647190745,,0,{},i0idr8p,False,t3_td7txq,False,False,t3_td7txq,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0idr8p/,1647190763,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+15.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"`Int#` is an unboxed type. `Int` is a boxed type.
+
+At a high level, both has the semantics of a native-with signed integer.
+
+`Int` has lazy semantics, so the runtime has to be able to hold not just a reified value, but also a closure/thunk.  It also wants to have all references to the same closure be updateable to the result (to avoid double-evaluation; be efficient). `Int` is in Haskell-by-the-report.
+
+`Int#` has strict semantics, so it is fine for the runtime to just always a reified value, and pass it around by value/copy everywhere. `Int#` is GHC-specific.",2c09bcc780488086d8036f051a4d903d4385ec56,True,False,,,,,0,1647190540,,0,{},i0id9n9,False,t3_tcmtk2,False,True,t1_i0h2493,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0id9n9/,1647190552,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+16.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"Instead of `do { liftIO x }` you can do `liftIO do { x }` and instead of `\x -&gt; liftIO y` you can do `liftIO &lt;$&gt; (\x -&gt; y)`.
+
+Pulling `liftX` in/out of lambdas and `do`s might let you combine them with others.",fd7135a4ad6e0b6777f757042cc38792a93a88b4,True,False,,,,,0,1647189980,,0,{},i0ibxbc,False,t3_td22b3,False,True,t1_i0h2zug,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0ibxbc/,1647189995,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+17.0,[],False,,BlancII,,,[],,,,text,t2_jl7q6x5x,False,False,4k for a part time job (30-40%)?,da8373aa0db91d63133f8cbac5dddbf31d1a1484,True,False,,,,,0,1647189773,,0,{},i0ibfdz,False,t3_td7txq,False,True,t3_td7txq,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0ibfdz/,1647189790,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+18.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"Aw, nuts. :(
+
+I was guessing.",dab5e9b967ba31a1fe992db0e4bf0bfb3d500dd2,True,False,,,,,0,1647189719,,0,{},i0ibalu,False,t3_tcmtk2,False,True,t1_i0hv8vi,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0ibalu/,1647189734,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+19.0,[],False,,ocramz_,,,[],,,,text,t2_jaolcjrr,False,False,Site is unreachable,63053022edb0ea0bfefaa8926a73ea562a1034e7,True,False,,,,,0,1647186210,,0,{},i0i32pw,False,t3_tcsnnz,False,True,t3_tcsnnz,/r/haskell/comments/tcsnnz/a_remark_on_lazy_st_monad_and_monadfix/i0i32pw/,1647186227,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+20.0,[],False,,CultsCultsCults,,,[],,,,text,t2_688e3,False,False,I would like his nuts in Haskell script for 4K per month,3daf37ee70bf9100f4dd1836e45b672a1cad922f,True,False,,,,,0,1647185656,,0,{},i0i1tip,False,t3_td7txq,False,True,t1_i0i04sb,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0i1tip/,1647185669,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+21.0,[],False,,pituitarianices,,,[],,,,text,t2_druf6com,False,False,Its an excellent rate in Portugal at least.,f3c3c96fa4e248cc2c0d0ce009ee5b03940b880d,True,False,,,,,0,1647185508,,0,{},i0i1hje,False,t3_td7txq,False,True,t1_i0i04sb,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0i1hje/,1647185526,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+22.0,[],False,,Swordlash,,,[],,,,text,t2_2fpxe4mw,False,False,"I am unable to spot the ghc process in the activity monitor, it takes about 3 secs between I enter the command and it fails, as if it were suddenly trying to allocate a huge amount of memory. I'm unable to test any version below [10.0.0.1](https://10.0.0.1), as it requires older ghc and 8.10.7 is the oldest one (in terms of versioning) that is supported on aarch64.",714d9bb4145bdb45fc573c5530398b9e293f37f7,True,False,,,,,0,1647185290,,0,{},i0i1083,True,t3_tbn46e,False,True,t1_i0a924o,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0i1083/,1647185303,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+23.0,[],False,,Swordlash,,,[],,,,text,t2_2fpxe4mw,False,False,"So have you reproduced the issue, or is it just failing for me?",a604c503dafe7f363c83d38f8612f221938aa691,True,False,,,,,0,1647184930,,0,{},i0i07ze,True,t3_tbn46e,False,True,t1_i0a924o,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0i07ze/,1647184948,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+24.0,[],False,,dun-ado,,,[],,,,text,t2_ihltqlra,False,False,"Let’s assume US dollars. $4k a month is $48k a year. Either the poster of this job is completely ignorant of market rates or is trying to find a sucker to work way below market rates. 
+
+Regardless, you definitely don’t want to work for someone who could possibly post a job like that.",da72ff9e072031b842405fe61971f369345c42a3,True,False,,,,,0,1647184890,,0,{},i0i04sb,False,t3_td7txq,False,True,t3_td7txq,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0i04sb/,1647184902,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+25.0,[],False,,doctahFoX,,,[],,,,text,t2_z6pv3,False,False,"Yeah I think so too, but I have to come up with a not-extremely-inefficient way of getting a free index at every insertion. Maybe I'll just save the greatest taken index and call it a day :D",87b555b5935e67fc6740d0b3b195325b1ca79f33,True,False,,,,,0,1647183761,,0,{},i0hxo5q,False,t3_t3zw0x,False,True,t1_i0htfzq,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0hxo5q/,1647183776,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+26.0,[],False,,phadej,,,[],,,,text,t2_4qmwn,False,False,"Checking existential properties (i.e. ""there is x such that x = f x"" or ""there is x such that x &lt; f x"") with `QuickCheck` is generally not recommended. There's always a chance that `QuickCheck` won't find an example value.
+
+I'll assume that `f = g y`, i.e. it is a function family, otherwise you could just find parameters for which `f x = x` or `f x &lt; x` and write two ordinary assertion tests.
+
+Better approach is to provide an explicit witness. Instead of ""classical"" 
+
+    forall y. exists x. g y x = x 
+
+make it constructive
+
+    forall y. g y (h y) = h y
+
+where `h` is a function constructing a value `x` at which `g y x = x`.",2304786f5e028aec1c7616fe6b438d63e68ec3c5,True,False,,,,,0,1647183387,,0,{},i0hwvw9,False,t3_tcwird,False,True,t3_tcwird,/r/haskell/comments/tcwird/sometimes_for_quickcheck_verify_that_an/i0hwvw9/,1647183399,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+27.0,[],False,,integrate_2xdx_10_13,,,[],,,,text,t2_h94wf5c8,False,False,"Box = on the heap, Unboxed = on the stack.",23c050bff0c22c2b73f84d737a3012d84d41953b,True,False,,,,,0,1647183325,,0,{},i0hwr8m,False,t3_tcmtk2,False,True,t1_i0h2493,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0hwr8m/,1647183342,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+28.0,[],False,,JohnnyBenis,,,[],,,,text,t2_5n43eni4,False,False,4k of what? Dollars? Gold bars? Punches to the face in case you fail to do your job?,89cafecbcdeeaac83a5a9c20c370960c2cee157a,True,False,,,,,0,1647183237,,0,{},i0hwksl,False,t3_td7txq,False,False,t3_td7txq,/r/haskell/comments/td7txq/4k_per_month_looking_for_someone_to_work_on_an/i0hwksl/,1647183253,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+29.0,[],False,,maerwald,,,[],,,,text,t2_t8qgl,False,False,No. It's fine. Carry on.,318445babfaf37370fac06d456d6022eaf6944ec,True,False,,,,,0,1647182918,,0,{},i0hvwca,False,t3_td22b3,False,True,t3_td22b3,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0hvwca/,1647182949,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+30.0,[],False,,phadej,,,[],,,,text,t2_4qmwn,False,False,"Solo's documentation says
+
+&gt; The most important feature of Solo is that it is possible to force its ""outside"" (usually by pattern matching) without forcing its ""inside"", because it is defined as a datatype rather than a newtype. One situation where this can be useful is when writing a function to extract a value from a data structure. Suppose you write an implementation of arrays and offer only this function to index into them:
+
+... https://hackage.haskell.org/package/base-4.16.0.0/docs/Data-Tuple.html#t:Solo",9ba49ed4b535c8cc8042c2e19fc38bea9ec21c0c,True,False,,,,,0,1647182679,,0,{},i0hven3,False,t3_tcmtk2,False,True,t3_tcmtk2,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0hven3/,1647182689,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+31.0,[],False,,phadej,,,[],,,,text,t2_4qmwn,False,False,"&gt; Also, in GHC there's different treatment of boxed and unboxed types. I think maybe Identity can only be applied to boxed types, were Solo can be applied to any type. 
+
+If you meant to say that `Solo` is levity-polymorphic, i.e. we could write `Solo Int#`, than that' iss wrong: `Solo` is not levity-polymorphic.",4752cdc2bcc3c6d752c5fbe7909554ca4484d28c,True,False,,,,,0,1647182601,,0,{},i0hv8vi,False,t3_tcmtk2,False,True,t1_i0edaxj,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0hv8vi/,1647182615,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+32.0,[],False,,phadej,,,[],,,,text,t2_4qmwn,False,False,"`Only` is a `newtype`, not `data`. (I.e. `Identity` vs `Solo`).",4f9e40511250ffd15b181222f552754afeb5c190,True,False,,,,,0,1647182410,,0,{},i0huumr,False,t3_tcmtk2,False,True,t1_i0h3kpk,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0huumr/,1647182425,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+33.0,[],False,,tom-md,,,[],,,,text,t2_7b2si,False,False,A Map works be easiest. I'd start there and only change based on actual needs (vs expectations or guesses).,f7916af54aa76e86a56f22a135073e25d7eba01b,True,False,,,,,0,1647181708,,0,{},i0htfzq,False,t3_t3zw0x,False,True,t1_i0h9mdm,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0htfzq/,1647181721,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+34.0,[],False,,maerten,,,[],,,,text,t2_4fee6,False,False,"Just fyi, there’s a new release of cryptonite that works with ghc9.2",3573130b545f48a2f2d5a950df0002054c2e3012,True,False,,,,,0,1647180913,,0,{},i0hrwq6,False,t3_t8a53f,False,True,t1_hzw3kka,/r/haskell/comments/t8a53f/announce_ghc_922_is_now_available/i0hrwq6/,1647180931,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+35.0,[],False,,AdhesivenessTrue9696,,,[],,,,text,t2_5jzjx1br,False,False,Looks great,6e3e37482d605264790cb75c5985adb3eb04c2c6,True,False,,,,,0,1647174250,,0,{},i0hgtz4,False,t3_tcjwvv,False,True,t3_tcjwvv,/r/haskell/comments/tcjwvv/haskell_almost_standard_libraries_is_now_complete/i0hgtz4/,1647174266,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+36.0,[],False,,SleezyROM,,,[],,,,text,t2_7meizuh9,False,False,"The consumer is actually spawned off with Pipes.Concurrent, and exists solely to listening for broadcast messages. Maybe forever is over kill but for my simple proof of concept it's fine.",ff310ad0c6ba59f253f75c00fff82e359aed586d,True,False,,,,,0,1647172962,,0,{},i0hf1xe,True,t3_td22b3,False,True,t1_i0hbjdf,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0hf1xe/,1647172974,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+37.0,[],False,,affinehyperplane,,,[],,,,text,t2_12xogr,False,False,"Cool book, but I think it is mostly unrelated to property-based testing (which was my first thought when reading the title). Rather,
+
+&gt; the goal is to design algorithms that decide whether their input satisfies a predetermined property in sublinear time, or even in constant time.
+
+which is interesting, but for property-based testing, the part which is usually more challenging is coming up with good generators for your test data, and not how to design faster ways of testing the desired (generally rather simple) properties of the generated test data.",24695b4f997d45ef158edacdc14369ff3182de07,True,False,,,,,0,1647172683,,0,{},i0heos5,False,t3_td4xbd,False,True,t3_td4xbd,/r/haskell/comments/td4xbd/property_testing_textbook/i0heos5/,1647172695,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+38.0,[],False,,r3dnaz,,,[],,,,text,t2_2ornf0zo,False,False,"\&gt; Googling
+
+i think you misspelled ""hoogling"" there. https://hoogle.haskell.org/?hoogle=Solo",22ee3f3e7675ed9fb79a254f997ee42c0327d5c3,True,False,,,,,0,1647172346,,0,{},i0he8yu,False,t3_tcmtk2,False,True,t3_tcmtk2,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0he8yu/,1647172362,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+39.0,[],False,,ocramz_,,,[],,,,text,t2_jaolcjrr,False,False,"Also worth noting that this will block your thread forever. You want the monad to be something that can fork threads, like IO or MonadUnliftIO m =&gt; m ( ... )",10796005f5e25f6f8610220f1365f514d27c9d01,True,False,,,,,0,1647170196,,0,{},i0hbjdf,False,t3_td22b3,False,True,t1_i0h3297,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0hbjdf/,1647170211,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+40.0,[],False,,doctahFoX,,,[],,,,text,t2_z6pv3,False,False,"Hello everyone! I have a ""what data structure should I use"" question: I need a structure representing a very simplified version of a heap memory, namely I want the following operations:
+
+1.  insertion at un unspecified point, but the insert operation should return a pointer/index to the position of the inserted value
+
+1. retrieval of a value, using the pointer/index obtained after the insertion
+
+1. removal of a value, using the same pointer/index
+
+I don't want to actually model how memory works, so all values will have the same type and they will occupy a single space in this data structure. (Hence there should always be space to insert a new element)
+
+The two options that came to my mind are `Map`s and `MVector`s (of `Maybe`s, so that removal is efficient), but I don't know if there is some data structure more suited to my request. Also, I have never used `Vector` in Haskell, so I don't really know if it would work lol",9f1d08c0a147d2380b24ad1a027116a8ae5c4a5a,True,False,,,,,0,1647168606,,0,{},i0h9mdm,False,t3_t3zw0x,False,True,t3_t3zw0x,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0h9mdm/,1647168620,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+41.0,[],False,,Goheeca,,,[],,,,text,t2_97s0g,False,False,[`Int#`](https://downloads.haskell.org/~ghc/9.2.2/docs/html/users_guide/exts/primitives.html#unboxed-types) hash sign at the end typically indicates that.,5dc0de8bccc5b16e7422f15f70689a60cf621c23,True,False,,,,,0,1647164868,,0,{},i0h53q7,False,t3_tcmtk2,False,True,t1_i0h2493,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0h53q7/,1647164883,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+42.0,[],False,,on_hither_shores,,,[],,,,text,t2_jnsj1me6,False,False,float `a` out = move the binding `a = some stuff` to an enclosing scope,4eddb15afd92cfb9a5850034dd907f5e390d5217,True,False,,,,,0,1647163752,,0,{},i0h3rkg,False,t3_td22b3,False,True,t1_i0h2zug,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0h3rkg/,1647163768,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+43.0,[],False,,TechnoEmpress,,,[],,,,text,t2_8nmmm9k7,False,False,"Before `Solo` existed, we had a multitude of similarly-named 1-tuples like https://hackage.haskell.org/package/postgresql-simple-0.6.4/docs/Database-PostgreSQL-Simple.html#t:Only for a variety of purposes. 
+The documentation of `Only` is actually quite clear on its purpose.",a4d61c5dfe6b9aa0d52ee69ff9608f331e909328,True,False,,,,,0,1647163589,,0,{},i0h3kpk,False,t3_tcmtk2,False,True,t3_tcmtk2,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0h3kpk/,1647163602,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+44.0,[],False,,CoBuddha,,,[],,,,text,t2_12byxs,False,False,what do you mean by that?,01d87fbfd96ba1cee9eb50cb208366ad5de88eec,True,False,,,,,0,1647163356,,0,{},i0h3b0a,True,t3_tc7g4q,False,True,t1_i0h22hj,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0h3b0a/,1647163369,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+45.0,[],False,,SleezyROM,,,[],,,,text,t2_7meizuh9,False,False,"That makes sense, my imperative programming brain kicks in sometimes and I simply blank on when I can create another monad.",5e5bd34e531d9c08b5a12015bfff790a908c9fb5,True,False,,,,,0,1647163150,,0,{},i0h3297,True,t3_td22b3,False,True,t1_i0h2ggw,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0h3297/,1647163163,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+46.0,[],False,,SleezyROM,,,[],,,,text,t2_7meizuh9,False,False,"Thanks for the tip! What exactly do you mean by ""float them out""?",6cfaf79a7857f337be7b6f5b4c272d746a19459f,True,False,,,,,0,1647163095,,0,{},i0h2zug,True,t3_td22b3,False,True,t1_i0h0ezp,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0h2zug/,1647163105,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+47.0,[],False,,nxnt,,,[],,,,text,t2_we1z6qx,False,False,"As u/bss03 pointed out, you can combine some of your liftIO call.
+
+Something like:
+```hs
+a &lt;- liftIO b
+liftIO c
+d &lt;- liftIO $ e
+liftIO f
+```
+
+can be converted into:
+```hs
+liftIO $ do
+    a &lt;- b
+    c
+    d &lt;- e
+    f
+```",7f76e52dac040cc1c07f49fabaf18520511657a3,True,False,,,,,0,1647162644,,0,{},i0h2ggw,False,t3_td22b3,False,True,t3_td22b3,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0h2ggw/,1647162659,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+48.0,[],False,,CoAnalyticSet,,,[],,,,text,t2_8hsjqz5m,False,False,I don't understand what is an unboxed type then,2a2b6a7700e4a78ae367a1355794474e3a045411,True,False,,,,,0,1647162363,,0,{},i0h2493,True,t3_tcmtk2,False,True,t1_i0h0i08,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0h2493/,1647162374,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+49.0,[],False,,ShalokShalom,,,[],,,,text,t2_gehcq,False,False,"Yeah, that's making a case for the DSL principle",66c8bc5fc76ca227d7259b794630c49e106c8a4e,True,False,,,,,0,1647162322,,0,{},i0h22hj,False,t3_tc7g4q,False,True,t1_i0gj8p9,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0h22hj/,1647162334,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+50.0,[],False,,nxnt,,,[],,,,text,t2_we1z6qx,False,False,"You can convert something like:
+```
+a &lt;- liftIO $ b
+liftIO c
+liftIO d
+```
+to
+```
+liftIO $ do
+    a &lt;- b
+    c
+    d
+```",ceaadc2f45617cd44fd974325442a5c06cf5581b,True,False,,,,,0,1647162246,,0,{},i0h1z1z,False,t3_td22b3,False,True,t3_td22b3,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0h1z1z/,1647162263,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+51.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"`Int` is a pointer.  `String` is a pointer, to a singly-linked list of `Char`s which are also pointers.",59d2cf7323f18f62b117805f7eb214dbb519126f,True,False,,,,,0,1647161024,,0,{},i0h0i08,False,t3_tcmtk2,False,True,t1_i0gp0nw,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0h0i08/,1647161039,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+52.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"Your code isn't formatted well for me (I'm on old reddit), but it looks like you could combine some of the liftIO calls, possibly even float them out.
+
+But, I wouldn't say liftIO in general is code smell; it's barely different from using (other) mtl-style type classes and their members.",44072b9583603b290be2abcf8303400e04520c43,True,False,,,,,0,1647160953,,0,{},i0h0ezp,False,t3_td22b3,False,True,t3_td22b3,/r/haskell/comments/td22b3/question_from_a_beginner_is_liftio_a_code_smell/i0h0ezp/,1647160970,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+53.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"I'd say ""base"" is slim compared to the Python Standard Library.  Pretty sure it's even smaller than the ES6 standard library -- but it is very different so it's hard to judge the relative sizes of the non-overlapping parts.
+
+What's actually in the report is even smaller than that, and is smaller than the vast majority of languages.  Comparable to the C99 standard libraries.",032a5126e1939b696ecad1e5c79925dfff1f9cc4,True,False,,,,,0,1647160705,,0,{},i0h04gh,False,t3_tcjwvv,False,True,t1_i0gs0fq,/r/haskell/comments/tcjwvv/haskell_almost_standard_libraries_is_now_complete/i0h04gh/,1647160717,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+54.0,[],False,,imihnevich,,,[],,,,text,t2_gtbhi7wu,False,False,"&gt; must be eligible to work in the US
+I'm in Ukraine, I'm not sure my hours would fit",74d9b3c7c6417054c48de1acb771052eae0564e9,True,False,,,,,0,1647159708,,0,{},i0gyx3v,False,t3_tbrm72,False,True,t1_i0dvbd8,/r/haskell/comments/tbrm72/associate_level_haskellelm_job/i0gyx3v/,1647159719,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+55.0,[],False,,tomejaguar,,,[],,,,text,t2_45sug,False,False,"Sure, but firstly it's not particularly slow in the first place and secondly it's not clear there's a single transition between working and non-working. I want to find the most recent one.",09742bd0981b9e43883b82a04767782384b4c897,True,False,,,,,0,1647156053,,0,{},i0guesl,False,t3_tbn46e,False,True,t1_i0gceip,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0guesl/,1647156068,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+56.0,[],False,,Akangka,,,[],,,,text,t2_b0zqvos,False,False,"&gt;Haskell's base library is quite slim
+
+\*chuckles\* no. However, Haskell standard libraries provide advanced features that specifically require Haskell runtime, and common typeclasses.",84f2c2921291b4056a4fe262b8233c75059b19fc,True,False,,,,,0,1647154204,,0,{},i0gs0fq,False,t3_tcjwvv,False,True,t3_tcjwvv,/r/haskell/comments/tcjwvv/haskell_almost_standard_libraries_is_now_complete/i0gs0fq/,1647154220,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+57.0,[],False,,brandonchinn178,,,[],,,,text,t2_ognt1qc,False,False,"As much as possible, I'd try to break up the test into two test cases. Most of the time, it works out much better that way, e.g. if for certain inputs you know the result is one way.
+
+But if thats not possible, I would do something similar to the other commenter, but more concrete:
+
+    testSometimesEqual :: [Double] -&gt; Bool
+    testSometimesEqual xs = percentTrue (zipWith (==) (map f xs) xs) &gt; 0.1
+
+    testSometimesLess :: [Double] -&gt; Bool
+    testSometimesLess xs = percentTrue (zipWith (&lt;) (map f xs) xs) &gt; 0.6
+
+    percentTrue :: [Bool] -&gt; Double
+    percentTrue xs = length (filter id xs) / length xs",8989d76b8ce1050abb048ae625f35262e2f1a3bc,True,False,,,,,0,1647152354,,0,{},i0gpfrt,False,t3_tcwird,False,True,t3_tcwird,/r/haskell/comments/tcwird/sometimes_for_quickcheck_verify_that_an/i0gpfrt/,1647152366,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+58.0,[],False,,CoAnalyticSet,,,[],,,,text,t2_8hsjqz5m,False,False,"I see, thanks! I wasn't even aware that GHC supports boxed types then!",fdca0215023d10d15f34772770a90142782f1117,True,False,,,,,0,1647152067,,0,{},i0gp0nw,True,t3_tcmtk2,False,True,t1_i0g7f3z,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0gp0nw/,1647152082,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+59.0,[],False,,CoBuddha,,,[],,,,text,t2_12byxs,False,False,"Yeah honestly I think it's a sweetspot for nearly all web apps where you have a global ""clock"" and don't want to think about plumbing. I just long for the finer grained control of full FRP for things like realtime (in principle)",b407348eb4f3d56c6240d69cc24a05283c63507e,True,False,,,,,0,1647148317,,0,{},i0gj8p9,True,t3_tc7g4q,False,True,t1_i0f2drg,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0gj8p9/,1647148328,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+60.0,[],False,,xdavidliu,,,[],,,,text,t2_57oangqz,False,True,"I'm using ghc on macOS with an M1 macbook pro 14 inch, and I have the exact same problem as OP",3fddd16be8a02a12b152d49db60bf808ee69ea81,True,False,,,,,0,1647146603,,0,{},i0ggfvg,False,t3_ph2ge2,False,True,t3_ph2ge2,/r/haskell/comments/ph2ge2/ghci_problem_with_arrow_key/i0ggfvg/,1647146616,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+61.0,[],False,,ludvikgalois,,,[],,,,text,t2_dul9o,False,False,"Naively, something along the lines of (warning: completely untested)
+
+    newtype Long a = Long a
+    
+    instance (Arbitrary a) =&gt; Arbitrary (Long a) where
+      shrink (Long x) = map Long (shrink x)
+      arbitrary = Long &lt;$&gt; scale (* 100) arbitrary
+    
+    validDistribution :: [Ordering] -&gt; Bool
+    validDistribution = &lt;something here&gt;
+    
+    prop_fHasValidDistribution :: Long [T] -&gt; Bool
+    prop_fHasValidDistribution (Long xs) = validDistribution $ map (\x -&gt; compare (f x) x) xs
+
+will probably work (`Long` probably needs tweaking, but by default quickcheck probably won't generate long enough lists for meaningful distributions)",eebacf3a14b476828726075f125b7eda281c50ae,True,False,,,,,0,1647145954,,0,{},i0gfbyk,False,t3_tcwird,False,True,t3_tcwird,/r/haskell/comments/tcwird/sometimes_for_quickcheck_verify_that_an/i0gfbyk/,1647145975,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+62.0,[],False,,lgastako,,,[],,,,text,t2_1mp2i,False,False,Surely binary division would be faster.,01a068b19b630fcb64f0ec80a17e5d6084ae44c5,True,False,,,,,0,1647144264,,0,{},i0gceip,False,t3_tbn46e,False,True,t1_i09wwip,/r/haskell/comments/tbn46e/out_of_memory_when_building_productprofunctors/i0gceip/,1647144281,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+63.0,[],False,,imsekun,,,[],,,,text,t2_96x7erfk,False,False,"- [Initial proposal](https://gist.github.com/Kleidukos/729fd6a091307e0929f7519126b4a6c8)
+- [RFC](https://github.com/haskell/cabal/issues/7906)",8585e1a44f7d0c67545218f088408afb7afa0799,True,False,,,,,0,1647143050,,0,{},i0ga7v2,False,t3_tcbdr4,False,True,t1_i0ewz9x,/r/haskell/comments/tcbdr4/calling_zig_from_haskell/i0ga7v2/,1647143066,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+64.0,[],False,,PM_ME_UR_OBSIDIAN,,,[],,,,text,t2_lyb3e,False,False,"Boxed/unboxed is not a Haskell specific concept. A boxed value is one that you hold a pointer to, corresponding to a reference type; an unboxed value is one you hold directly, corresponding to a value type.",6961a17b08e9bbd44eeb58070ea1fa0a597d4938,True,False,,,,,0,1647141533,,0,{},i0g7f3z,False,t3_tcmtk2,False,True,t1_i0exwxi,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0g7f3z/,1647141546,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+65.0,[],False,,zzantares,,,[],,,,text,t2_17rsc1gc,False,False,"Scala.js' Laminar is very good, very compostable with a basic set of ""primitives"" but the ecosystem there last time I checked was basically non-existent.",fc2297a6493499fdd7238dca1eefd49f4838dc67,True,False,,,,,0,1647140734,,0,{},i0g5yfh,False,t3_tc7g4q,False,True,t3_tc7g4q,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0g5yfh/,1647140746,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+66.0,[],False,,thomasjm4,,,[],,,,text,t2_ye2d7h4,False,False,Ooh someone tried it and it seems like it worked! https://github.com/haskell-servant/servant/issues/986#issuecomment-1065996140,899e35c9097b2472923bfa0b398752b1a6d9afd4,True,False,,,,,0,1647135872,,0,{},i0fwogr,False,t3_t8rwe2,False,True,t1_i07uj05,/r/haskell/comments/t8rwe2/named_routes_in_servant/i0fwogr/,1647135887,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+67.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,Thanks everyone for all the help on CI. My hopefully last question is how to get `nix shell --run` to preserve the exit code of the inner command? Failures are being incorrectly treated as success.,ce4b8466f5085f95ccd2f903d2688c41b2041963,True,False,,,,,0,1647123246,,0,{},i0f6p0y,False,t3_t3zw0x,False,True,t3_t3zw0x,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0f6p0y/,1647123257,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+68.0,[],False,,ShalokShalom,,,[],,,,text,t2_gehcq,False,False,"Yeah, that's true. Doesn't say anything negative on their Elm architecture. Which also got emulated and implemented by lots of other projects.",57a6b14514ddc43de9b813b1497988d610031a93,True,False,,,,,0,1647121273,,0,{},i0f2drg,False,t3_tc7g4q,False,True,t1_i0f1zm4,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0f2drg/,1647121286,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+69.0,[],False,,Saulzar,,,[],,,,text,t2_34ipx,False,False,"The Elm FRP was always a little half baked, it was never very well integrated.",c5a9aaf490699a681012f1f400feba01e856ec67,True,False,,,,,0,1647121094,,0,{},i0f1zm4,False,t3_tc7g4q,False,True,t1_i0cdo04,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0f1zm4/,1647121107,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+70.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"**Haskell**-by-the-Report does not make such a distinction.
+
+GHC makes the distinction in order to generate better code.  It also exposes the distinction so that authors that are willing to depend on GHC-specifics can provide that information to the optimizer instead of having it synthesize from the Haskell code.",e55d6d47fe798b6620ed693f6432438aa7f28e8d,True,False,,,,,0,1647120771,,0,{},i0f19nc,False,t3_tcmtk2,False,True,t1_i0exwxi,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0f19nc/,1647120783,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+71.0,[],False,,CoAnalyticSet,,,[],,,,text,t2_8hsjqz5m,False,False,"Makes sense, thanks",7f0b4c1628a05a5d2077934f91201e66030ed29f,True,False,,,,,0,1647119302,,0,{},i0exzdo,True,t3_tcmtk2,False,True,t1_i0edso3,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0exzdo/,1647119317,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+72.0,[],False,,CoAnalyticSet,,,[],,,,text,t2_8hsjqz5m,False,False,Boxed and unboxed types? It feels like there is an endless amount of haskell to learn about! Thanks for your answer,6f9d537d3a5ba12642517fc0d243bbe0b6c96886,True,False,,,,,0,1647119272,,0,{},i0exwxi,True,t3_tcmtk2,False,True,t1_i0edaxj,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0exwxi/,1647119287,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+73.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,"Sorry I should be more clear.
+
+We can fully run our system locally, including testing and everything. It’s just all done in interpreted mode via the repl. No one bothers to do a full compile locally because it takes a lot longer for minimal gain.
+
+My only main complaint is that jsaddle is a little wonky, and we of course have to use jsaddle locally as interpreted GHCJS isn’t a thing.",308e7fefbe3bb05f1d9d3684dbfc27503ca2a64d,True,False,,,,,0,1647119105,,0,{},i0exjf8,False,t3_t3zw0x,False,True,t1_i0evibg,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0exjf8/,1647119116,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+74.0,[],False,,ocramz_,,,[],,,,text,t2_jaolcjrr,False,False,curious to know more,7f87b44d1d20ba0211dc81ae604d4c9a019d66fa,True,False,,,,,0,1647118858,,0,{},i0ewz9x,False,t3_tcbdr4,False,True,t1_i0eb1q8,/r/haskell/comments/tcbdr4/calling_zig_from_haskell/i0ewz9x/,1647118876,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+75.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"I'm not a stake holder, so certainly ignore me as you will, but I've always found projects that I can't compile and test _on my developer system_ end up with much more rework, defects, and debt.
+
+If you can't afford a CI doing smoke testing before merging, I'd be suspicious you'll be able to continue delivering value at the current pace/velocity.",8af34459e97b8c122858ec97f5732796106d6859,True,False,,,,,0,1647118188,,0,{},i0evibg,False,t3_t3zw0x,False,True,t1_i0erct0,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0evibg/,1647118205,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+76.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,"Until recently we had a very small dev team, particularly relative to scope, so just didn’t have time to do too much.
+
+Typechecking / warning checking is main first step of CI. Next will add some smoke tests most likely, but even those will be repl based to save a whole bunch of time. Proper staging server at some point too, but that’ll be after the PR but before the deploy to prod.",ef825956163bb48d60b42f726ba873753a274b4b,True,False,,,,,0,1647116317,,0,{},i0erct0,False,t3_t3zw0x,False,True,t1_i0e2wu7,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0erct0/,1647116328,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+77.0,[],False,,wavemode,,,[],,,,text,t2_g37k8,False,False,One thing Elm did right was making common mistakes like this produce very easy to understand error messages,b616d3068a506cf2d7a63c9277bbf4509e39c904,True,False,,,,,0,1647114214,,0,{},i0emkxm,False,t3_tc6dyw,False,True,t1_i0bok1z,/r/haskell/comments/tc6dyw/how_do_i_specify_the_type_inside_function/i0emkxm/,1647114231,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+78.0,[],False,,qseep,,,[],,,,text,t2_3f3i3,False,False,Call every zig for great justice!,379f2ce3a6e8ffab739403d94ffc0d33ac64e48f,True,False,,,,,0,1647114049,,0,{},i0em7dt,False,t3_tcbdr4,False,True,t3_tcbdr4,/r/haskell/comments/tcbdr4/calling_zig_from_haskell/i0em7dt/,1647114066,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+79.0,[],False,,idkabn,,,[],,,,text,t2_4cgeo3ah,False,False,"Very true, though a difference between the type errors you speak about and the multiplicity errors I was speaking about is that you *can* localise type errors by providing annotations. I cannot add an annotation to a variable stating that it must be used linearly. Instead, I can only add an annotation to its *continuation* (which I must then reify into a lambda, which changes the structure of the program) in order to specify that it is linear.
+
+&gt; I want to say that there are some ""hidden"" Haskell implementations out there that do have ""correct blame"", but I haven't heard anyone bragging out it in some time.
+
+Helium exists primarily for the purpose of diagnostics research, and explicitly attempts, using heuristics, to assign blame to the correct link in the chain of mutually inconsistent constraints. However, I'm not too sure how active development is on it.",ee3a183ffdb7f935a3af413e0258dff0a0f17451,True,False,,,,,0,1647111011,,0,{},i0eeybi,False,t3_tap2nu,False,False,t1_i0dp5h1,/r/haskell/comments/tap2nu/what_is_the_longterm_status_of_xlineartypes/i0eeybi/,1647111024,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+80.0,[],False,,tomejaguar,,,[],,,,text,t2_45sug,False,False,"Basically it's for consistency.  If there is a zero tuple `()` and n-ary tuples for n &gt;=2 `(a1, ..., an)` then for consistency there really ought to be *something* that provides a 1-ary tuple. Consistency can be useful for code generation applications, for example. But the occasions where it is actually useful for a user to use it are very few and far between. I've never used it, for example, and I don't expect ever to.",543dd2bfadd947c2bd4b454a79f6bf9698b80fdf,True,False,,,,,0,1647110533,,0,{},i0edso3,False,t3_tcmtk2,False,True,t3_tcmtk2,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0edso3/,1647110553,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+81.0,[],False,,LivewareIssue,,,[],,,,text,t2_4gx6zuj6,False,False,"Edit: In case anybody has a similar issue in future, I have a working solution for keeping track of source-positions while parsing (but have yet to discover how it will perform when scaled)  
+
+
+* While Megaparsec supports getting the current source-position, it's calculated on-demand and the docs warn explicitly against this use case (calling on every lexeme)
+* Megaparsec *does* however support user-defined stream types
+* We can implement a zipper-like wrapper over Text and give it Stream instance that keeps track of the current line/column as the parser consumes input (e.g. increment the line number every time we consume a newline)
+* By defining our JSON structure as a recursion-scheme, we can use the base functor + the cofree comonad (i.e. `Cofree JSONF (Cursor,Cursor)`) to represent our source-position-annotated JSON
+* Parsers can be defined without any position-tracking logic and then lifted to produce annotated JSON by getting the current position before and after the lifted parser is run.
+
+I'll report back if this proves unperformant and would still love to hear if there's a more elegant solution out there",e8d3553eb5ff936fc372023ee31e76e0c36a3ecb,True,False,,,,,0,1647110344,,0,{},i0edcd3,True,t3_tbumkw,False,True,t3_tbumkw,/r/haskell/comments/tbumkw/implementing_a_json_linter_with_line_column/i0edcd3/,1647110362,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+82.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"`Solo a` has one more bottom value than `a`; it's hardly ever relevant.
+
+An identity functor is useful for higher-kinded data, and data types ala carte, and general algebraic manipulation of functors.  But, it needs a name (can't be an `type` alias) to get various `instance`s.  `Identity` is usually used for this, but in some special cases, it could be important that whether that ""extra bottom"" exists or not.
+
+Also, in GHC there's different treatment of boxed and unboxed types.  I think maybe `Identity` can only be applied to boxed types, were `Solo` can be applied to any type.  (The result of applying `Identity` or `Solo` is always boxed.)
+
+&gt; why isn't there some behind-the-scene-syntactic-sugar-magic to use the usual brackets notation for tuples also for singleton tuples
+
+That's a hell of a lot more work that a new datatype.  New syntax is always always incompatible with a close reading of the report, where as adding new data types is completely in line with the report.  Even if you completely discard the report, new syntax is still a lot bigger change to GHC that just defining a new ""pure Haskell"" data type.",b3717184e2ec9644d600bcd70a3a92005c38a402,True,False,,,,,0,1647110327,,0,{},i0edaxj,False,t3_tcmtk2,False,True,t3_tcmtk2,/r/haskell/comments/tcmtk2/what_is_the_point_of_solo_beginner_question/i0edaxj/,1647110343,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+83.0,[],False,,ltielen,,,[],,,,text,t2_1q2pxsi,False,False,"That's true, but I heard somewhere that `Setup.hs` will be replaced with a new mechanism soon. (@technoempress on twitter knows more)",ce43c837f3093df5157fe0f8f494d0da0498d5c4,True,False,,,,,0,1647109388,,0,{},i0eb1q8,True,t3_tcbdr4,False,True,t1_i0e60c9,/r/haskell/comments/tcbdr4/calling_zig_from_haskell/i0eb1q8/,1647109404,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+84.0,[],False,,KilliBatson,,,[],,,,text,t2_2b9poxzn,False,False,Or the other way around and put your cabal stuff in build.zig,d7dd2915304bffc11d5943cf7dc0846728c6ef28,True,False,,,,,0,1647107834,,0,{},i0e7ajn,False,t3_tcbdr4,False,True,t1_i0e60c9,/r/haskell/comments/tcbdr4/calling_zig_from_haskell/i0e7ajn/,1647107849,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+85.0,[],False,,brandonchinn178,,,[],,,,text,t2_ognt1qc,False,False,"If you want to be _extra fancy_, you could add `zig build` to Setup.hs as a cabal hook to run automatically everytime you build the Haskell",1955d293723c45e630723128fbdedf80b2512e87,True,False,,,,,0,1647107300,,0,{},i0e60c9,False,t3_tcbdr4,False,True,t3_tcbdr4,/r/haskell/comments/tcbdr4/calling_zig_from_haskell/i0e60c9/,1647107319,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+86.0,[],False,,tom-md,,,[],,,,text,t2_7b2si,False,False,Your CI doesn't include quickcheck or similar testing? I'm amazed there's a CI pipeline that depends only on type checking.,1ddb6d1d10568cd6d15c26713f36eb4e849233c2,True,False,,,,,0,1647106218,,0,{},i0e2wu7,False,t3_t3zw0x,False,True,t1_i0cszya,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0e2wu7/,1647106234,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+87.0,[],False,,Auslegung,,,[],,,,text,t2_w1gcn,False,False,But it is remote… ?? Not sure if you’re serious,9f14f3674059a3f3315ad31f15c9984d31a7e682,True,False,,,,,0,1647103339,,0,{},i0dvbd8,True,t3_tbrm72,False,True,t1_i0cl6k9,/r/haskell/comments/tbrm72/associate_level_haskellelm_job/i0dvbd8/,1647103355,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+88.0,[],False,,Auslegung,,,[],,,,text,t2_w1gcn,False,False,It’s written that way because it is USA only. Sorry I don’t know of a more clear way to say it,ea4d4da355d686d042068bed22020e2713c89830,True,False,,,,,0,1647103307,,0,{},i0dv8nu,True,t3_tbrm72,False,True,t1_i0crfkw,/r/haskell/comments/tbrm72/associate_level_haskellelm_job/i0dv8nu/,1647103319,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+89.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"&gt; Which is correct, but doesn't tell me anything about where the actual error is. What variable was at the beginning of the chain(s?) of non-linearity inferences that led to this mismatch? Tell me that instead (or at least, in addition to the current error).
+
+This is actually a problem with GHC error messages independent of linear types.  It does print as error, but it doesn't really have ""correct blame"" so it doesn't always point toward the two (or more) annotations / primitive inferences that tell you what to change.
+
+One of the reasons behind the idiomatic practice of putting signatures on everything top-level is partially because it improves error messages.  And, in fact there's many a time where I needed to throw around some type annotations in order to move an error around to the place where I actually understood what was wrong.  (Unfortunately, sometimes this means having to turn on ScopedTypeVariables or even RankNTypes temporarily; we shouldn't need extensions to ""fully"" annotate our programs.)
+
+I want to say that there are some ""hidden"" Haskell implementations out there that do have ""correct blame"", but I haven't heard anyone bragging out it in some time. I think maybe it was /u/augustss that was last bragging about the quality of error messages from some other Haskell(-ish?) system.",01c4ea68f1391a404432e3a1f51d79998347b952,True,False,,,,,0,1647100690,,0,{},i0dp5h1,False,t3_tap2nu,False,True,t1_i0cksr9,/r/haskell/comments/tap2nu/what_is_the_longterm_status_of_xlineartypes/i0dp5h1/,1647100707,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+90.0,[],False,,someacnt,,,[],,,,text,t2_euebihog,False,False,"Yea, honestly I agree. But meh, I see many ppl who are allergic to math in this way.",cd63807bc02049eba9bd55ddd1eed0277c93a82f,True,False,,,,,0,1647099919,,0,{},i0dndub,False,t3_t3zw0x,False,True,t1_i0dn1nc,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0dndub/,1647099933,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+91.0,[],False,,bss03,,,[],,,,text,t2_e3mbb,False,True,"That sounds really close to a ""too true Scotsman"" argument...  Almost like to you redefining ""hard"" to mean, things I want people to depend on, but that I don't find particularly difficult.",81aa01221c5516880fdd3831180c00e502128c08,True,False,,,,,0,1647099765,,0,{},i0dn1nc,False,t3_t3zw0x,False,True,t1_i0cm9fz,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0dn1nc/,1647099776,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+92.0,[],False,,ocharles,,,[],,,,text,t2_9ojk6,False,False,"Another FRP implementation that I think is quite simple is `reactive-banana`. Heinrich recently refactored the module hierarchy to stratify it based on low-level, mid-level and high-level abstractions: https://github.com/HeinrichApfelmus/reactive-banana/tree/master/reactive-banana/src/Reactive/Banana/Prim",c43f2903c275ba0ddd96ed890ccdaca8ed7b0ca0,True,False,,,,,0,1647095033,,0,{},i0dd3nd,False,t3_tc7g4q,False,True,t1_i0c1sk8,/r/haskell/comments/tc7g4q/any_haskelllike_languages_with_native_frp/i0dd3nd/,1647095044,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+93.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,"/u/hhoeflin this is going to be the easiest answer
+
+```
+fib :: Int -&gt; Integer
+fib = memoize $ \case
+    0 -&gt; 0
+    1 -&gt; 1
+    n -&gt; fib (n - 2) + fib (n - 1)
+```",c86a049b735c10fe0a5e184e322c50b8d01292f8,True,False,,,,,0,1647085327,,0,{},i0cxt44,False,t3_t8k46o,False,True,t1_hzpgsox,/r/haskell/comments/t8k46o/memoization_in_haskell/i0cxt44/,1647085341,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+94.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,"Wow I should go to bed. `echo "":q"" | cabal repl` works totally fine. Thanks!",552cc459be70f57edd2ad5d21df48e48e3626fa8,True,False,,,,,0,1647083926,,0,{},i0cw3w0,False,t3_t3zw0x,False,True,t1_i0cuyo5,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0cw3w0/,1647083936,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+95.0,[],False,,sjakobi,,,[],,,,text,t2_sbvuw,False,False,"Here is GHC's CI script: https://gitlab.haskell.org/ghc/ghc/-/blob/e40cf4ef6cab8e02fcd34efdf98f1715bfa7315c/.gitlab-ci.yml#L501-527
+
+It seems that you can send `:q` to the REPL so it quits once ready?!",1c3c72988c823784e902f5ae344f7f8a52ca822d,True,False,,,,,0,1647082968,,0,{},i0cuyo5,False,t3_t3zw0x,False,True,t1_i0ctqwz,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0cuyo5/,1647082980,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+96.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,I assume that would still leave a CI process stuck in the repl though right? (Which is fine for ghcid but not so good for CI).,446557205f529f8dbf46f1d621e176537d89d678,True,False,,,,,0,1647081924,,0,{},i0ctqwz,False,t3_t3zw0x,False,True,t1_i0ctkte,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0ctqwz/,1647081940,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+97.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,It’s worth noting for the OP that EnvT is not a monad and does not have a legal monad instance.,57a15b6a9f7237e81d5f47488e8794e7df85f6d4,True,False,,,,,0,1647081807,,0,{},i0ctlv7,False,t3_tb9hqr,False,True,t1_i087ftu,/r/haskell/comments/tb9hqr/why_is_writert_defined_as_writert_runwritert_m_a/i0ctlv7/,1647081823,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+98.0,[],False,,sjakobi,,,[],,,,text,t2_sbvuw,False,False,"These are the options that `ghcid` uses by default:
+
+```
+$ ghcid
+Loading cabal repl --repl-options=-fno-code --repl-options=-fno-break-on-exception --repl-options=-fno-break-on-error --repl-options=-v1 --repl-options=-ferror-spans --repl-options=-j
+...",1edd3f4b2d63d615a68c5f294165a1a602dc2fb9,True,False,,,,,0,1647081781,,0,{},i0ctkte,False,t3_t3zw0x,False,False,t1_i0cszya,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0ctkte/,1647081794,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],
+99.0,[],False,,Tysonzero,,,[],,,,text,t2_7ckb4,False,False,"Anyone know how to get cabal to build something in interpreted mode, or even just typecheck only?
+
+Compiling to assembly is totally unneeded until we hit prod/staging. The runtime perf improvements are massively outweighed by the two orders of magnitude slowdown in compilation time. 
+
+It’s ok if it’s some hacky “go into repl, kill it once it loads, exit code 0 if no type errors or warnings” kinda thing.
+
+Would improve our CI times massively.",bb654adf3fafa884cf716ed7fa0f3b1231fa3e84,True,False,,,,,0,1647081273,,0,{},i0cszya,False,t3_t3zw0x,False,True,t3_t3zw0x,/r/haskell/comments/t3zw0x/monthly_hask_anything_march_2022/i0cszya/,1647081290,1,False,True,False,haskell,t5_2qh36,r/haskell,public,,0,[],

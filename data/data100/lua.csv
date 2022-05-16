@@ -1,0 +1,1478 @@
+,all_awardings,allow_live_comments,author,author_flair_css_class,author_flair_richtext,author_flair_text,author_flair_type,author_fullname,author_is_blocked,author_patreon_flair,author_premium,awarders,can_mod_post,contest_mode,created_utc,domain,full_link,gildings,id,is_created_from_ads_ui,is_crosspostable,is_meta,is_original_content,is_reddit_media_domain,is_robot_indexable,is_self,is_video,link_flair_background_color,link_flair_richtext,link_flair_text_color,link_flair_type,locked,media_only,no_follow,num_comments,num_crossposts,over_18,parent_whitelist_status,permalink,pinned,post_hint,preview,pwls,retrieved_on,score,selftext,send_replies,spoiler,stickied,subreddit,subreddit_id,subreddit_subscribers,subreddit_type,thumbnail,thumbnail_height,thumbnail_width,title,total_awards_received,treatment_tags,upvote_ratio,url,url_overridden_by_dest,whitelist_status,wls,link_flair_template_id,link_flair_text,media_metadata,gallery_data,is_gallery,crosspost_parent,crosspost_parent_list,media,media_embed,secure_media,secure_media_embed,removed_by_category,author_flair_background_color,author_flair_text_color,edited,banned_by
+0.0,[],False,SoCalSurferDude,,[],,text,t2_i421b,False,False,False,[],False,False,1642959130,i.redd.it,https://www.reddit.com/r/lua/comments/sayuv9/uploading_flashing_the_web_based_lua_ide_to_an/,{},sayuv9,False,True,False,False,True,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/sayuv9/uploading_flashing_the_web_based_lua_ide_to_an/,False,image,"{'enabled': True, 'images': [{'id': 'NHTm9mAKl4x2Qu0QdObrnVGDuqB1OexOOgZ2P6Ze4Go', 'resolutions': [{'height': 57, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=a6f7f6deb24905105ab66e14f25c793b19561bc8', 'width': 108}, {'height': 115, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=e23f76a3bef2e69e4f6b9d39ff10f3ba4c8a5d03', 'width': 216}, {'height': 171, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=4136750c9cf04114fc78d9ddbb3d1362a8824d19', 'width': 320}, {'height': 342, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=a35a2805787989e51590f82c7f778f35ac650616', 'width': 640}], 'source': {'height': 476, 'url': 'https://preview.redd.it/d6oered63hd81.gif?format=png8&amp;s=35f24081c2248187c397e4da8a4cc2af2d431c01', 'width': 890}, 'variants': {'gif': {'resolutions': [{'height': 57, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=108&amp;crop=smart&amp;s=922a6fe7bedb15a52285d8fc14580c4fd2a64086', 'width': 108}, {'height': 115, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=216&amp;crop=smart&amp;s=712e4691cc007d419ba8eda58e0ab7e553f8702e', 'width': 216}, {'height': 171, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=320&amp;crop=smart&amp;s=51eafcd14387b7bfc713d8caeed82ffa4168f905', 'width': 320}, {'height': 342, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=640&amp;crop=smart&amp;s=6f1f94d3ef4a5320889ddd5028654fbd49bdd71e', 'width': 640}], 'source': {'height': 476, 'url': 'https://preview.redd.it/d6oered63hd81.gif?s=4a923233988db31b1d3daaf27bcac4e7f3611345', 'width': 890}}, 'mp4': {'resolutions': [{'height': 57, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=108&amp;format=mp4&amp;s=79f52ba4e88337d9ffc8bf43cf90bc8e07edfe1b', 'width': 108}, {'height': 115, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=216&amp;format=mp4&amp;s=3f10349781fb86ea4bb6149e9dcc83d36d494ffd', 'width': 216}, {'height': 171, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=320&amp;format=mp4&amp;s=38e889c398b672219cb399f61f734504a4ce5dc6', 'width': 320}, {'height': 342, 'url': 'https://preview.redd.it/d6oered63hd81.gif?width=640&amp;format=mp4&amp;s=b6104dd89ef32af0d94dc8b9b94ae21acdabeeb1', 'width': 640}], 'source': {'height': 476, 'url': 'https://preview.redd.it/d6oered63hd81.gif?format=mp4&amp;s=26933a58c1a2286d845e6b065cce4e1eb2387d71', 'width': 890}}}}]}",6,1642959141,1,,True,False,False,lua,t5_2qjla,14171,public,image,74.0,140.0,Uploading (flashing) the web based Lua IDE to an ESP32 microcontroller,0,[],1.0,https://i.redd.it/d6oered63hd81.gif,https://i.redd.it/d6oered63hd81.gif,all_ads,6,,,,,,,,,,,,,,,,
+1.0,[],False,SoCalSurferDude,,[],,text,t2_i421b,False,False,False,[],False,False,1642958953,realtimelogic.com,https://www.reddit.com/r/lua/comments/says6o/uploading_the_web_based_lua_ide_to_an_esp32/,{},says6o,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/says6o/uploading_the_web_based_lua_ide_to_an_esp32/,False,,,6,1642958964,1,,True,False,False,lua,t5_2qjla,14171,public,default,,,Uploading the web based Lua IDE to an ESP32 microcontroller,0,[],1.0,https://realtimelogic.com/downloads/sharkssl/ESP32/,https://realtimelogic.com/downloads/sharkssl/ESP32/,all_ads,6,,,,,,,,,,,,,,,,
+2.0,[],False,SoCalSurferDude,,[],,text,t2_i421b,False,False,False,[],False,False,1642958775,i.redd.it,https://www.reddit.com/r/lua/comments/saypvw/uploading_the_the_web_based_lua_ide_to_an_esp32/,{},saypvw,False,True,False,False,True,True,False,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/saypvw/uploading_the_the_web_based_lua_ide_to_an_esp32/,False,image,"{'enabled': True, 'images': [{'id': 'CDiI-OCs6eYtX3SZkRvP5t3DhjwJO0Ih7ha4i45LQcY', 'resolutions': [{'height': 57, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=32cbf9102cf218ca9b8c6bd00b73e9f2722ab705', 'width': 108}, {'height': 115, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=fcc09830e3f4a5ba6a7b4fee093e5bf422a9a657', 'width': 216}, {'height': 171, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=e2d47860a0ce51cd7ffcf596ac4aa35f40897312', 'width': 320}, {'height': 342, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=7feddc072f5d698711c70ed15f47d2283036b54e', 'width': 640}], 'source': {'height': 476, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?format=png8&amp;s=040da5b09d0fcba3de67d0bae068598c1915b2cd', 'width': 890}, 'variants': {'gif': {'resolutions': [{'height': 57, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=108&amp;crop=smart&amp;s=2bc89a6f42dbed9fd8142becf34cd5323f655f22', 'width': 108}, {'height': 115, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=216&amp;crop=smart&amp;s=8bd4bdbd085143c258077f4113bdcc5e48ada067', 'width': 216}, {'height': 171, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=320&amp;crop=smart&amp;s=2caa062d2b8b54f91082003a712226a41ec7321a', 'width': 320}, {'height': 342, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=640&amp;crop=smart&amp;s=3f4dd482a5d0280b18f337848a722c84dd739086', 'width': 640}], 'source': {'height': 476, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?s=c08ea43b0295ef1292ceee4fd58f14d369d812a5', 'width': 890}}, 'mp4': {'resolutions': [{'height': 57, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=108&amp;format=mp4&amp;s=bdb127963c3f029bb38e1786734556dd5bbdd5ac', 'width': 108}, {'height': 115, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=216&amp;format=mp4&amp;s=19ef2667e64718406d9476040447345018f8f590', 'width': 216}, {'height': 171, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=320&amp;format=mp4&amp;s=930fc66ce83944e91df457f06d721639fb3a37a5', 'width': 320}, {'height': 342, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?width=640&amp;format=mp4&amp;s=a29bddd8f9489e26ba499e6116d6e688bd4a416b', 'width': 640}], 'source': {'height': 476, 'url': 'https://preview.redd.it/sjjbfumx1hd81.gif?format=mp4&amp;s=69af36a9304e763fa394268a6867e1c22106e998', 'width': 890}}}}]}",6,1642958786,1,,True,False,False,lua,t5_2qjla,14171,public,image,74.0,140.0,Uploading the the web based Lua IDE to an ESP32 microcontroller,0,[],1.0,https://i.redd.it/sjjbfumx1hd81.gif,https://i.redd.it/sjjbfumx1hd81.gif,all_ads,6,,,,,,,,,,,,,,,,
+3.0,[],False,asioud,,[],,text,t2_2bt5cxlo,False,False,False,[],False,False,1642955589,self.lua,https://www.reddit.com/r/lua/comments/saxhl2/from_python_to_lua/,{},saxhl2,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/saxhl2/from_python_to_lua/,False,,,6,1642955600,1,"I’m new to Lua programming and I was wondering if anyone of you guys knew a video that would help me learn Lua but without the beginner explanations (like the if’s and while’s). A video that would help one learn Lua while considering that the watcher has a bit of knowledge in python programming. (this is for programming in Roblox btw)
+
+Thank you.",True,False,False,lua,t5_2qjla,14171,public,self,,,From Python to Lua,0,[],1.0,https://www.reddit.com/r/lua/comments/saxhl2/from_python_to_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+4.0,[],False,asioud,,[],,text,t2_2bt5cxlo,False,False,False,[],False,False,1642954810,self.lua,https://www.reddit.com/r/lua/comments/sax6s2/from_python_to_lua/,{},sax6s2,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/sax6s2/from_python_to_lua/,False,,,6,1642954820,1,,True,False,False,lua,t5_2qjla,14171,public,self,,,From python to lua,0,[],1.0,https://www.reddit.com/r/lua/comments/sax6s2/from_python_to_lua/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+5.0,[],False,IAMOort,,[],,text,t2_a0059amd,False,False,False,[],False,False,1642940914,self.lua,https://www.reddit.com/r/lua/comments/sasmkc/pattern_custom_rgba_tag/,{},sasmkc,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/sasmkc/pattern_custom_rgba_tag/,False,,,6,1642940924,1,"So, I am horrible with patterns. I've got help here before and you guys were great; so I'll try once again.
+
+I have a string which allows colors to be specified within the string.
+
+**Example String:**
+
+    local foo = '&lt;c=25,175,100&gt;[My Tag]&lt;/c&gt;'
+
+I am trying to create a pattern that extracts the RGB colors. The closest I got was:
+
+    local b = string.match( foo, ""%d-,-%d-,-%d-&gt;"" )
+
+**Currently Returns:**
+
+&gt;25,175,100&gt;
+
+Which leaves the **&gt;** at the end. I've tried everything from removing the **-&gt;**, as well as adding  **.** at the end for (any character).
+
+&amp;#x200B;
+
+**Expected Behavior:**
+
+&gt;local foo   = '&lt;c=25,175,100&gt;\[My Tag\]&lt;/c&gt;'  
+&gt;  
+&gt;local b       = string.match( foo, ""%d-,-%d-,-%d-&gt;"" )  
+&gt;  
+&gt;print( b )  
+&gt;  
+&gt;\&gt; 25,175,100
+
+&amp;#x200B;
+
+Sorry for such a noob question, but really, anything to do with patterns / regex, and my brain dies.",True,False,False,lua,t5_2qjla,14169,public,self,,,"Pattern, custom rgba tag",0,[],1.0,https://www.reddit.com/r/lua/comments/sasmkc/pattern_custom_rgba_tag/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+6.0,[],False,EngineerSmith,,[],,text,t2_3udqg8q8,False,False,False,[],False,False,1642888764,self.lua,https://www.reddit.com/r/lua/comments/sad9lo/is_division_consistent_across_architectures_in/,{},sad9lo,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/sad9lo/is_division_consistent_across_architectures_in/,False,,,6,1642888775,1,"I'm doing weighted tables which I tally between 0 and 1  
+```lua
+local tbl = {
+    {value=""a"", weight=7},
+    {value=""b"", weight=1},
+  }
+local total = 0
+for _, t in ipairs(tbl) do
+  total = total + t.weight
+end
+local runningTotal = 0
+for _, t in ipairs(tbl) do
+  t.weight = (t.weight / total) + runningTotal -- will `t.weight / total` return the same value
+  runningTotal = t.weight
+end -- I already understand that the last t.weight may not equal 1, but that's acceptable as that can be corrected separately
+```
+Will `t.weight` be evaluated the same on all architectures, or should I keep weight as an integer and get a random integer than a random decimal between 0 and 1 (I'm using a random module which will be consistent across architectures so that part won't be an issue)",True,False,False,lua,t5_2qjla,14164,public,self,,,Is division consistent across architectures in luajit2.1,0,[],1.0,https://www.reddit.com/r/lua/comments/sad9lo/is_division_consistent_across_architectures_in/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+7.0,[],False,ItsMakar,,[],,text,t2_7uo4xrhu,False,False,False,[],False,False,1642876342,self.lua,https://www.reddit.com/r/lua/comments/sa8tmq/how_to_convert_string_to_table/,{},sa8tmq,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/sa8tmq/how_to_convert_string_to_table/,False,,,6,1642876352,1,"i have string  
+
+{\[""test""\]=""""}
+
+but i need get table from it",True,False,False,lua,t5_2qjla,14162,public,self,,,how to convert string to table?,0,[],1.0,https://www.reddit.com/r/lua/comments/sa8tmq/how_to_convert_string_to_table/,,all_ads,6,,,,,,,,,,,,,,,,
+8.0,[],False,ItsMakar,,[],,text,t2_7uo4xrhu,False,False,False,[],False,False,1642869259,self.lua,https://www.reddit.com/r/lua/comments/sa68la/how_can_i_make_the_value_in_the_table_get_like/,{},sa68la,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/sa68la/how_can_i_make_the_value_in_the_table_get_like/,False,,,6,1642869270,1,"&amp;#x200B;
+
+https://preview.redd.it/lf449gb9o9d81.png?width=286&amp;format=png&amp;auto=webp&amp;s=2a78cff2deebfac1797f7301fbda3842ba131386",True,False,False,lua,t5_2qjla,14161,public,self,10.0,140.0,"how can i make the value in the table get like this: table[""1""][""2""]?",0,[],1.0,https://www.reddit.com/r/lua/comments/sa68la/how_can_i_make_the_value_in_the_table_get_like/,,all_ads,6,,,"{'lf449gb9o9d81': {'e': 'Image', 'id': 'lf449gb9o9d81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/lf449gb9o9d81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=abf3f6ace697d85484275c8eeec0d7e15e5cf869', 'x': 108, 'y': 7}, {'u': 'https://preview.redd.it/lf449gb9o9d81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=bd20702a1137555a6c084819f623d1ed5608c983', 'x': 216, 'y': 15}], 's': {'u': 'https://preview.redd.it/lf449gb9o9d81.png?width=286&amp;format=png&amp;auto=webp&amp;s=2a78cff2deebfac1797f7301fbda3842ba131386', 'x': 286, 'y': 21}, 'status': 'valid'}}",,,,,,,,,,,,,
+9.0,[],False,Sadapy,,[],,text,t2_4i45x4x0,False,False,False,[],False,False,1642779547,self.lua,https://www.reddit.com/r/lua/comments/s9diev/simple_lua_help_to_spit_out_table/,{},s9diev,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s9diev/simple_lua_help_to_spit_out_table/,False,,,6,1642779558,1,"I'm a python programmer, and i have a small problem. I have a lua file that contains a table i need to get data from. I've been able to successfully parse a standard table using structure recognition but i fall short when it comes to functions.
+
+I'm looking for a quick way to spit out (print or write to file) a table.
+
+How would you go about this in lua? Is it more complicated than a quick answer? I'd rather not halt my program dev to learn lua enough to do this at the moment.
+
+Don't necessarily need code, or anything like that. Just would like to know how i would go about that. Thanks~ Sorry if this is incorrect usage of this sub &lt;3",True,False,False,lua,t5_2qjla,14160,public,self,,,Simple lua help to spit out table,0,[],1.0,https://www.reddit.com/r/lua/comments/s9diev/simple_lua_help_to_spit_out_table/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+10.0,[],False,STEIN197,,[],,text,t2_4bk7pqhq,False,False,False,[],False,False,1642777088,github.com,https://www.reddit.com/r/lua/comments/s9cl9m/instantiatable_flexible_array_implementation_with/,{},s9cl9m,False,True,False,False,False,True,False,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/s9cl9m/instantiatable_flexible_array_implementation_with/,False,link,"{'enabled': False, 'images': [{'id': '1f2sKkkhNf8V4yNb2R-nQtNZ5WTpAhfLqQRBBYr3P7k', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8cf9aa10ffa4075d4c249b9a05077207aa53aafd', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=decfa1836c23f149dcfc8686a344c47d2f5682c5', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e3ba9a30d32868069d2816dc54acab5e5e5793d8', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cc999b0d622ca18c990bac5ff2f00000c0daefd', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1874771653eab7ce1378db7e41fd03536dd935ff', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c3266a3a8679a412ad7df33bf83698e7f22e2ca3', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/RM-b8xWXDlpIkZ-YvAJJaZaTTBmG1HrWLJWh_5yqag0.jpg?auto=webp&amp;s=279b9fc6fd34f9da4967b7409ee4f1f4425647b5', 'width': 1200}, 'variants': {}}]}",6,1642777099,1,,True,False,False,lua,t5_2qjla,14160,public,default,70.0,140.0,Instantiatable flexible array implementation with familiar methods for Lua,0,[],1.0,https://github.com/stein197/luarray,https://github.com/stein197/luarray,all_ads,6,d42b72de-6cb5-11ea-9825-0e8e23137cb9,Library,,,,,,,,,,,,,,
+11.0,[],False,ProfessionalFront366,,[],,text,t2_8qc300rp,False,False,False,[],False,False,1642745864,self.lua,https://www.reddit.com/r/lua/comments/s9450q/help_with_luamacros/,{},s9450q,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/s9450q/help_with_luamacros/,False,,,6,1642745875,1,"I'm not sure if this is the right subreddit, but I have a LuaMacros code (below) to use my second keyboard as a macro board. I assigned each button to a F13, F14 etc. using its button number, but I cannot get it to work and keep posting an ERROR: Invalid Key Name. It works for some of my keys but not the others. if there is anyone that can help me solve this problem please let me know.
+
+Thanks
+
+\-- assign logical name to macro keyboard
+
+lmc\_assign\_keyboard('MACROS');
+
+&amp;#x200B;
+
+\-- define callback for whole device
+
+lmc\_set\_handler('MACROS',function(button, direction)
+
+  if (direction == 1) then return end  -- ignore down
+
+if (button == 49 ) then lmc\_send\_keys( '{F13}')
+
+elseif (button == 50 ) then lmc\_send\_keys( '{F14}')
+
+elseif (button == 51 ) then lmc\_send\_keys( '{F15}')
+
+elseif (button == 52 ) then lmc\_send\_keys( '{F16}')
+
+elseif (button == 53 ) then lmc\_send\_keys( '{F17}')
+
+elseif (button == 54 ) then lmc\_send\_keys( '{F18}')
+
+elseif (button == 55 ) then lmc\_send\_keys( '{F19}')
+
+elseif (button == 56 ) then lmc\_send\_keys( '{F20}')
+
+elseif (button == 57 ) then lmc\_send\_keys( '{F21}')
+
+elseif (button == 189) then lmc\_send\_keys( '{F22}')
+
+elseif (button == 190) then lmc\_send\_keys( '{F23}')
+
+elseif (button == 191) then lmc\_send\_keys( '{F24}')
+
+elseif (button == 48 ) then lmc\_send\_keys( '{F25}')
+
+elseif (button == 187) then lmc\_send\_keys( '{F26}')
+
+elseif (button == 81 ) then lmc\_send\_keys( '{F27}')
+
+elseif (button == 87 ) then lmc\_send\_keys( '{F28}')
+
+elseif (button == 69 ) then lmc\_send\_keys( '{F29}')
+
+elseif (button == 82 ) then lmc\_send\_keys( '{F30}')
+
+elseif (button == 84 ) then lmc\_send\_keys( '{F31}')
+
+elseif (button == 89 ) then lmc\_send\_keys( '{F32}')
+
+elseif (button == 85 ) then lmc\_send\_keys( '{F33}')
+
+elseif (button == 73 ) then lmc\_send\_keys( '{F34}')
+
+elseif (button == 79 ) then lmc\_send\_keys( '{F35}')
+
+elseif (button == 80 ) then lmc\_send\_keys( '{F36}')
+
+elseif (button == 219) then lmc\_send\_keys( '{F37}')
+
+elseif (button == 221) then lmc\_send\_keys( '{F38}')
+
+elseif (button == 220) then lmc\_send\_keys( '{F39}')
+
+elseif (button == 65 ) then lmc\_send\_keys( '{F40}')
+
+elseif (button == 83 ) then lmc\_send\_keys( '{F41}')
+
+elseif (button == 68 ) then lmc\_send\_keys( '{F42}')
+
+elseif (button == 70 ) then lmc\_send\_keys( '{F43}')
+
+elseif (button == 71 ) then lmc\_send\_keys( '{F44}')
+
+elseif (button == 72 ) then lmc\_send\_keys( '{F45}')
+
+elseif (button == 74 ) then lmc\_send\_keys( '{F46}')
+
+elseif (button == 75 ) then lmc\_send\_keys( '{F47}')
+
+elseif (button == 76 ) then lmc\_send\_keys( '{F48}')
+
+elseif (button == 186) then lmc\_send\_keys( '{F49}')
+
+elseif (button == 222) then lmc\_send\_keys( '{F50}')
+
+elseif (button == 90 ) then lmc\_send\_keys( '{F51}')
+
+elseif (button == 88 ) then lmc\_send\_keys( '{F52}')
+
+elseif (button == 67 ) then lmc\_send\_keys( '{F53}')
+
+elseif (button == 86 ) then lmc\_send\_keys( '{F54}')
+
+elseif (button == 66 ) then lmc\_send\_keys( '{F55}')
+
+elseif (button == 78 ) then lmc\_send\_keys( '{F56}')
+
+elseif (button == 77 ) then lmc\_send\_keys( '{F57}')
+
+elseif (button == 188) then lmc\_send\_keys( '{F58}')
+
+elseif (button == 32 ) then lmc\_send\_keys( '{F59}')
+
+else print('Not yet assigned: ' .. button)
+
+  end
+
+end)",True,False,False,lua,t5_2qjla,14159,public,self,,,Help with LuaMacros,0,[],1.0,https://www.reddit.com/r/lua/comments/s9450q/help_with_luamacros/,,all_ads,6,,,,,,,,,,,,,,,,
+12.0,[],False,Bla7kCaT,,[],,text,t2_dz3bs,False,False,False,[],False,False,1642707692,self.lua,https://www.reddit.com/r/lua/comments/s8r65c/lua_function_similar_to_keywait_in_autohotkey/,{},s8r65c,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/s8r65c/lua_function_similar_to_keywait_in_autohotkey/,False,,,6,1642707702,1,"Hello, i am looking to have a key hold down itself down as long as I'm holding a key. this function is called KeyWait in autohotkey, but does this function exist elsewhere under another name?
+
+https://www.autohotkey.com/docs/commands/KeyWait.htm
+
+```
+    if getForegroundProcess()==getOpenedProcessID() then
+      mouse_event(MOUSEEVENTF_WHEEL, 0, 0, 40, 0)
+      KEYWAIT_ALTERNATIVE_SUDO_CODE(VK_UP)
+    end
+  end, VK_UP)
+```",True,False,False,lua,t5_2qjla,14156,public,self,,,Lua function similar to KeyWait in autohotkey?,0,[],1.0,https://www.reddit.com/r/lua/comments/s8r65c/lua_function_similar_to_keywait_in_autohotkey/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+13.0,[],False,Bla7kCaT,,[],,text,t2_dz3bs,False,False,False,[],False,False,1642694636,self.lua,https://www.reddit.com/r/lua/comments/s8m9tm/send_single_mouse_wheel_up_when_up_arrow_is/,{},s8m9tm,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/s8m9tm/send_single_mouse_wheel_up_when_up_arrow_is/,False,,,6,1642694647,1,"hello, i am trying make the up arrow do a single mouse wheel scroll up, and the down arrow do a single mouse wheel scroll down. i can find plenty of documentation on VK keys for key strokes, but not so much on how to do this for mouse wheel actions.
+
+if anyone could help me here it would be GREATLY appreciated! thanks",True,False,False,lua,t5_2qjla,14155,public,self,,,send single mouse wheel up when up arrow is pressed?,0,[],1.0,https://www.reddit.com/r/lua/comments/s8m9tm/send_single_mouse_wheel_up_when_up_arrow_is/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+14.0,[],False,Useful-Character4412,,[],,text,t2_7kefcftu,False,False,False,[],False,False,1642689435,self.lua,https://www.reddit.com/r/lua/comments/s8kerx/im_struggling_to_figure_out_how_to_get_wxlua_setup/,{},s8kerx,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s8kerx/im_struggling_to_figure_out_how_to_get_wxlua_setup/,False,,,6,1642689445,1,I am struggling to understand the installation instructions for wxLua and I cant find a video tutorial anywhere. Is there a very simple tutorial or could someone try to help me understand what to do to get it setup and working? I'm targeting windows btw.,True,False,False,lua,t5_2qjla,14155,public,self,,,Im struggling to figure out how to get wxLua setup,0,[],1.0,https://www.reddit.com/r/lua/comments/s8kerx/im_struggling_to_figure_out_how_to_get_wxlua_setup/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+15.0,[],False,WebShaker93,,[],,text,t2_hajshfuz,False,False,False,[],False,False,1642688799,self.lua,https://www.reddit.com/r/lua/comments/s8k6gl/does_lua_eval_constant/,{},s8k6gl,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s8k6gl/does_lua_eval_constant/,False,,,6,1642688810,1,"Hi.
+
+I'd like to know if
+
+it t &lt; 64 \* 64 then  
+...  
+end
+
+run as fast as 
+
+it t &lt; 4096 then  
+...  
+end
+
+?
+
+Thank's",True,False,False,lua,t5_2qjla,14155,public,self,,,Does Lua eval constant,0,[],1.0,https://www.reddit.com/r/lua/comments/s8k6gl/does_lua_eval_constant/,,all_ads,6,,,,,,,,,,,,,,,,
+16.0,[],False,Bla7kCaT,,[],,text,t2_dz3bs,False,False,False,[],False,False,1642686855,self.lua,https://www.reddit.com/r/lua/comments/s8jilt/send_keystroke_using_lua/,{},s8jilt,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/s8jilt/send_keystroke_using_lua/,False,,,6,1642686865,1,"Hello, my game doesn't support CTRL + A to select all text. however you can HOME, then SHIFT + END to essentially do the same thing.
+
+is this something that can be done via Lua? where pressing CTRL+A = HOME, SHIFT+END?
+
+I will be using Cheat Engine to run this Lua script, if that affects anything.
+
+any guidance or direction would be greatly appreciated!
+thanks so much!",True,False,False,lua,t5_2qjla,14155,public,self,,,send keystroke using Lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/s8jilt/send_keystroke_using_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+17.0,[],False,benbebop,,[],,text,t2_1ctly1mq,False,False,False,[],False,False,1642619005,self.lua,https://www.reddit.com/r/lua/comments/s7xn0n/why_is_ioread_not_reading_entire_file/,{},s7xn0n,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s7xn0n/why_is_ioread_not_reading_entire_file/,False,self,"{'enabled': False, 'images': [{'id': 'fgADtrRVPwqqtXIOIsqSlWQUG53E803-0FtyQwdlEvw', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=5f4d51f1a2368cd4bcca33959edb0519e6b2a439', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ca04cfb0c7cd634cae04fe703c9fca4af165536a', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27464a72cad626ab0ebe1ec027d693197a0bfc46', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b90b39f698c0ab40f790c2e18d23b61c0ce3f00e', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=40becaca564432b33a9e4632cce80e25b07cb2e8', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e42288d16371f6d1eeedebf55916d50c6d1789b9', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/acdLqQhpwZ4QuznneabWJnzC0VN37HTWQ-eLduzKDps.jpg?auto=webp&amp;s=db660db43d1793a42dbc3b67bb89ea5c6a16f1c0', 'width': 1200}, 'variants': {}}]}",6,1642619017,1,"I'm pretty experienced with luau but just recently started coding with regular lua. So I don't know much about the io library.
+
+I've got a file named fileaddresses.dat that I'm storing some data that I compressed with [lualzw](https://github.com/Rochet2/lualzw). I noticed that it wasn't getting the entire file, so I made this test script.
+
+    print(_VERSION)
+    
+    local fa = io.open(""fileaddresses.dat"", ""r"")
+    
+    fa:seek(""set"", 0)
+    
+    print(#fa:read(""*a""))
+    
+    print(fa:seek(""end""))
+    
+    error(nil)
+
+it outputs
+
+&gt;Lua 5.4  
+&gt;  
+&gt;193  
+&gt;  
+&gt;42046  
+&gt;  
+&gt;nil
+
+so clearly something is wrong. Read is only getting the first 200 or so characters of the file, while seek is correctly showing the file is 42k characters long. So the problem must be with io.read().
+
+I've tried searching this up but I got no results.",True,False,False,lua,t5_2qjla,14146,public,self,,,Why is io.read not reading entire file?,0,[],1.0,https://www.reddit.com/r/lua/comments/s7xn0n/why_is_ioread_not_reading_entire_file/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+18.0,[],False,IntroductionOk4947,,[],,text,t2_76mqfxb3,False,False,False,[],False,False,1642618597,self.lua,https://www.reddit.com/r/lua/comments/s7xgv8/best_way_to_learn_lua/,{},s7xgv8,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/s7xgv8/best_way_to_learn_lua/,False,,,6,1642618608,1,"Hey, Im looking for a way to learn lua with some exercises, as best on a website, because I dont like to learn with videos...
+
+Could you recommend me some?
+
+Btw: Im already into Python, If this helps :)",True,False,False,lua,t5_2qjla,14146,public,self,,,Best way to learn lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/s7xgv8/best_way_to_learn_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+19.0,[],False,SP4C3_SH0T,,[],,text,t2_gylw5ahb,False,False,False,[],False,False,1642610811,self.lua,https://www.reddit.com/r/lua/comments/s7ue6b/ok_zfl_had_to_change_the_name/,{},s7ue6b,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s7ue6b/ok_zfl_had_to_change_the_name/,False,self,"{'enabled': False, 'images': [{'id': 'OiXcMXYXDbuCpwSKUmwTz0OauSxQnKjWkCewMyIANGI', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=7c304d319fbceaa4431252c99b0c861b71b1becd', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e8e8d1eac49d7d6a3b898738f5819353c7289f5f', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=06fb8eee73be21899375b316f063887d846a457b', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41474d18654226ed907aef1508327d100052748e', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=349dd4e8eb00c1490c6b4a4811521bfe649d2e40', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0d37e322b41264d0213becbd4827b0543a14fe15', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/94KEDDWBIQcVb066Ef1WKWFSONRfOvx0okyLSyBI48U.jpg?auto=webp&amp;s=a32b1f3c7d0ad93262199977b25d1df8a2d98453', 'width': 1200}, 'variants': {}}]}",6,1642610821,1,Ok so found out someone already had a lua wrapper for zenith call lenity but I seem to be going about it differently then them and I'm gonna run with that names theres thou so zenith for lua zfl I only got a bit done here's the GitHub link https://github.com/EwasteSolution/zfl wip any help is appreciated,True,False,False,lua,t5_2qjla,14145,public,self,,,Ok zfl had to change the name,0,[],1.0,https://www.reddit.com/r/lua/comments/s7ue6b/ok_zfl_had_to_change_the_name/,,all_ads,6,d42b72de-6cb5-11ea-9825-0e8e23137cb9,Library,,,,,,,,,,,,,,
+20.0,[],False,Discord_LxiBot,,[],,text,t2_4czbway6,False,False,False,[],False,False,1642552006,self.lua,https://www.reddit.com/r/lua/comments/s7ci96/pcsi_a_soonopensource_command_handler_with_luau/,{},s7ci96,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,1,0,False,all_ads,/r/lua/comments/s7ci96/pcsi_a_soonopensource_command_handler_with_luau/,False,,,6,1642552017,1,"So far I have developed a luac command, luadbg (dumps and examines bytecode info), and a luajit command (compiles and interprets at the same time)  
+Is there any other open source lua/luau utility that I could implement as a command? I was looking into Lua assembly, and some other languages that can be compiled into bytecode  
+
+
+https://preview.redd.it/ujkdyujvfjc81.png?width=1159&amp;format=png&amp;auto=webp&amp;s=4d5a55288c531ccae47b0bf6a2c4ffca67296a63
+
+https://preview.redd.it/g2pnlcaagjc81.png?width=1162&amp;format=png&amp;auto=webp&amp;s=bd0e0236eaae2a982e250ce13f2fc0bcce21d1c1
+
+https://preview.redd.it/c7be8rwrgjc81.png?width=899&amp;format=png&amp;auto=webp&amp;s=826b73283ac15fe5cdfd2462fa9e0b30ceda07ac
+
+https://preview.redd.it/849a1l8lfjc81.png?width=670&amp;format=png&amp;auto=webp&amp;s=a7995e84d5c984638b749617df48e0dec23002ff
+
+This was all executed in modulescripts developed on Rojo, outputted on a surfacegui and inputted using a keyboard (ingame)",True,False,False,lua,t5_2qjla,14144,public,self,50.0,140.0,"Pcsi, a soon-opensource command handler with luau utilities in Roblox",0,[],1.0,https://www.reddit.com/r/lua/comments/s7ci96/pcsi_a_soonopensource_command_handler_with_luau/,,all_ads,6,257e3edc-6cb6-11ea-9d3c-0e0d7197b4fb,Project,"{'849a1l8lfjc81': {'e': 'Image', 'id': '849a1l8lfjc81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/849a1l8lfjc81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=e830680bfc4df6f295eec9a8fb8c60465b136606', 'x': 108, 'y': 90}, {'u': 'https://preview.redd.it/849a1l8lfjc81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8fb8cacffcd55883a80f5d3f0b5d3f25141ec86b', 'x': 216, 'y': 180}, {'u': 'https://preview.redd.it/849a1l8lfjc81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=836828d244261d97432c3d1925c283dba5419cfc', 'x': 320, 'y': 266}, {'u': 'https://preview.redd.it/849a1l8lfjc81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5681f9e12a13434e7ef0f0230b8cdd9543012dd1', 'x': 640, 'y': 533}], 's': {'u': 'https://preview.redd.it/849a1l8lfjc81.png?width=670&amp;format=png&amp;auto=webp&amp;s=a7995e84d5c984638b749617df48e0dec23002ff', 'x': 670, 'y': 559}, 'status': 'valid'}, 'c7be8rwrgjc81': {'e': 'Image', 'id': 'c7be8rwrgjc81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/c7be8rwrgjc81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=45394c2cf31622d5f3ea58f06894b838cf69c229', 'x': 108, 'y': 21}, {'u': 'https://preview.redd.it/c7be8rwrgjc81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9b1ecf98784f7663737e7b888ab4705031eb13b9', 'x': 216, 'y': 42}, {'u': 'https://preview.redd.it/c7be8rwrgjc81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f62aa9f045025c16221dc8dc41e80e5a845f11ec', 'x': 320, 'y': 63}, {'u': 'https://preview.redd.it/c7be8rwrgjc81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a87fb6475e6eef500744c000fa82119f85f6737', 'x': 640, 'y': 126}], 's': {'u': 'https://preview.redd.it/c7be8rwrgjc81.png?width=899&amp;format=png&amp;auto=webp&amp;s=826b73283ac15fe5cdfd2462fa9e0b30ceda07ac', 'x': 899, 'y': 177}, 'status': 'valid'}, 'g2pnlcaagjc81': {'e': 'Image', 'id': 'g2pnlcaagjc81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=2a1bd23809b76f14d5e5b7c443e622d3632d67d4', 'x': 108, 'y': 39}, {'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c216230e1203d35709d317b9a4a93a08ca74f1d4', 'x': 216, 'y': 78}, {'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=37ca8d81d90f785d72f8c1f1d8da8060e966119c', 'x': 320, 'y': 115}, {'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe541562e717cb94aa2b6f0415247292bb4866ec', 'x': 640, 'y': 231}, {'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=f3958f9e05a711ee43ece996c828d09934c880e0', 'x': 960, 'y': 346}, {'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=66aacb22d42961d6eb25746529d34d9593551a99', 'x': 1080, 'y': 390}], 's': {'u': 'https://preview.redd.it/g2pnlcaagjc81.png?width=1162&amp;format=png&amp;auto=webp&amp;s=bd0e0236eaae2a982e250ce13f2fc0bcce21d1c1', 'x': 1162, 'y': 420}, 'status': 'valid'}, 'ujkdyujvfjc81': {'e': 'Image', 'id': 'ujkdyujvfjc81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=c2520f56713c0e81b98f97140466469297fd0fd3', 'x': 108, 'y': 38}, {'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=b8ece6de2c3e4335cc30b62333734d49722aa49b', 'x': 216, 'y': 77}, {'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5084f762aa455c8c38c07610ad56e3f6143a6a2d', 'x': 320, 'y': 114}, {'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc7f1657b78f6d9376ddc4746d9ef0e833115503', 'x': 640, 'y': 229}, {'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=29c4fafb2c3ee6a07d64b40f69adee596c7eb8e2', 'x': 960, 'y': 344}, {'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2baed2f50b40a3791d0ea98c29b42c750dc7257d', 'x': 1080, 'y': 387}], 's': {'u': 'https://preview.redd.it/ujkdyujvfjc81.png?width=1159&amp;format=png&amp;auto=webp&amp;s=4d5a55288c531ccae47b0bf6a2c4ffca67296a63', 'x': 1159, 'y': 416}, 'status': 'valid'}}",,,,,,,,,,,,,
+21.0,[],False,lhauckphx,,[],,text,t2_xkqal,False,False,False,[],False,False,1642524477,self.lua,https://www.reddit.com/r/lua/comments/s71uai/question_about_compiled_bytecode_via_luac/,{},s71uai,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s71uai/question_about_compiled_bytecode_via_luac/,False,,,6,1642524488,1,"How ‘secure’ is the resulting output from compiling lua source code via luac?
+
+We need to distribute some lua code with our application and want to keep prying eyes away. Not looking for something to secure nuclear launch codes or credit cards, but want to non-trivial to decompile to keep prying eyes away.",True,False,False,lua,t5_2qjla,14143,public,self,,,Question About Compiled Bytecode (via luac)..,0,[],1.0,https://www.reddit.com/r/lua/comments/s71uai/question_about_compiled_bytecode_via_luac/,,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,
+22.0,[],False,SP4C3_SH0T,,[],,text,t2_gylw5ahb,False,False,False,[],False,False,1642449886,self.lua,https://www.reddit.com/r/lua/comments/s6ddmh/vin_decode/,{},s6ddmh,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s6ddmh/vin_decode/,False,,,6,1642449897,1,Ok so app white Lua back end bash and zenity I'm.thinking for the front I got bout 3/4 of the back end written not debuged uses luajit lua.sec for https cjson for handling the Json salt for saving some tables penlight for various functions  uses NHTSA vehicle API so far that's it I was looking for some more free resources for vehicle info hard to find and I haven't done don't plan on doing unless there's interest cus there are a lot of features I really want am.even thinking of making a free car color code API if I can't find one and I can figure it out but ya I'm bout to get back to work and I'll give y'all the link shortly,True,False,False,lua,t5_2qjla,14140,public,self,,,Vin_decode,0,[],1.0,https://www.reddit.com/r/lua/comments/s6ddmh/vin_decode/,,all_ads,6,257e3edc-6cb6-11ea-9d3c-0e0d7197b4fb,Project,,,,,,,,,,,,,,
+23.0,[],False,evandrolg,,[],,text,t2_op9pz,False,False,False,[],False,False,1642439328,github.com,https://www.reddit.com/r/lua/comments/s68ywe/immutable_a_tiny_library_that_makes_easy_to_work/,{},s68ywe,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s68ywe/immutable_a_tiny_library_that_makes_easy_to_work/,False,link,"{'enabled': False, 'images': [{'id': '1vaOQhCwNQvIpQMx9g0uo--t-A9Pe5K0m8xtMfqiNxg', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=958d853fd20002403f81acbfb6755242fac9f924', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f3738830a58a491fbd17600fde5008e43fcba5a4', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff3143d91bd3f29905e40d578d399a1ebb3b8c08', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4be497a6eba1f2daf0497129e959a2246b0695cd', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=a3ca2ec4278ccd39f66f1a3fd0f332f306865cff', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a179f0ef10a27c5f26d6c45818adaf0c66b10f6b', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/iDo0RF7mwB_R2FsrbFENj1ErXb0lrBGbqpG2f3kYLKY.jpg?auto=webp&amp;s=8c89e52d98953e2b6c3847332b0ce327aa58cc85', 'width': 1200}, 'variants': {}}]}",6,1642439338,1,,True,False,False,lua,t5_2qjla,14140,public,default,70.0,140.0,immutable - a tiny library that makes easy to work with immutable data,0,[],1.0,https://github.com/EvandroLG/immutable,https://github.com/EvandroLG/immutable,all_ads,6,,,,,,,,,,,,,,,,
+24.0,[],False,dunrix,,[],,text,t2_izdve,False,False,False,[],False,False,1642429358,self.lua,https://www.reddit.com/r/lua/comments/s654md/are_strings_poorly_optimized_in_lua/,{},s654md,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s654md/are_strings_poorly_optimized_in_lua/,False,,,6,1642429368,1,"Not sure if I miss something but I did expected Lua, esp. LuaJIT will outperform generally slower languages like plain CPython also in basic string operations. It however didn't applied at my humble microbenchmark:
+
+    function bench_sconc1(s,cnt)
+       local cs = """"
+       while cs:len() &lt;= cnt do
+          cs = cs..s
+       end
+       return cs
+    end
+    
+    function bench_sconc2(s, cnt)
+       local ts = {}
+       while #ts &lt;= cnt do
+          table.insert(ts, s)
+       end
+       return table.concat(ts)
+    end
+
+    print(bench_sconc2(""!"", 50000000):len() &gt; 50000000)
+    -- Lua 5.4.3 x86_64-linux 
+    -- 4.55user 0.33system 0:04.89elapsed 99%CPU (0avgtext+0avgdata 1148364maxresident)k
+0inputs+0outputs (0major+286730minor)pagefaults 0swaps
+
+    -- LuaJIT 2.1.0-beta3 x86_64-linux
+    -- 8.08user 0.15system 0:08.24elapsed 99%CPU (0avgtext+0avgdata 624056maxresident)k
+0inputs+0outputs (0major+155651minor)pagefaults 0swaps
+
+As you can see, plain Lua is faster in this case about 40% then LuaJIT but consumes whopping 1.14 GB of memory, while LuaJIT takes about 620 MB.
+I don't mention first benchmark results, where basic string concatenation operator `..` is used, because test didn't ended even after 60 seconds. It hovever needs much less memory then table build-up from second benchmark.
+
+For a comparison, straightforward Python example, where string type is more complex utf8(!) then Lua's basic bytestring:
+
+    def bench_sconc1(s, cnt):
+       cs = """"
+       while len(cs) &lt;= cnt:
+          cs = cs + s
+       return cs
+    
+    print(len(bench_sconc1(""!"", 50_000_000)) &gt; 50000000)
+
+    # CPython 3.10.1 x86_64-linux
+    # 4.80user 0.02system 0:04.82elapsed 99%CPU (0avgtext+0avgdata 56932maxresident)k
+0inputs+0outputs (0major+13256minor)pagefaults 0swaps
+
+Similar runtime like Lua 5.4.3, while much less memory resources were taken 57 MB vs 1,1 GB.
+
+Is the 2nd example idiomatic to Lua when handling really large amounts of string concatenations?",True,False,False,lua,t5_2qjla,14141,public,self,,,Are strings poorly optimized in Lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/s654md/are_strings_poorly_optimized_in_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+25.0,[],False,Unhappy-Key7837,,[],,text,t2_d41ol0v2,False,False,False,[],False,False,1642425302,self.lua,https://www.reddit.com/r/lua/comments/s63sfn/whats_wrong_with_this_script/,{},s63sfn,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s63sfn/whats_wrong_with_this_script/,False,,,6,1642425313,1," the point of this is to make a balloon float up in the air. what am I missing or is wrong? 
+
+local All = script.Parent.Model:GetChildren()
+
+for A = 1,#All do
+
+	if All\[A\].Name \~= ""Main"" then
+
+		local NewWeld = Instance.new(""Weld"")
+
+		NewWeld.Name = ""Weld""
+
+		NewWeld.Part0,NewWeld.Part1 = All\[A\],script.Parent.Model.Main
+
+		NewWeld.C0 = All\[A\].CFrame:inverse()
+
+		NewWeld.C1 = script.Parent.Model.Main.CFrame:inverse()
+
+		NewWeld.Parent = script.Parent.Model.Main
+
+	end
+
+end
+
+local NewWeld = Instance.new(""Motor6D"")
+
+NewWeld.Name = ""Motor6D""
+
+NewWeld.Part0,NewWeld.Part1 = script.Parent.Model.Main,script.Parent.Ref
+
+NewWeld.C0 = script.Parent.Model.Main.CFrame:inverse()
+
+NewWeld.C1 = script.Parent.Ref.CFrame:inverse()
+
+NewWeld.Parent = script.Parent.Ref
+
+while true do
+
+	game:GetService(""TweenService""):Create(NewWeld,TweenInfo.new(2,0),
+
+	{C1 = script.Parent.Ref.CFrame:inverse()\*CFrame.new(75,0,0)}):Play()
+
+	wait(2)
+
+	game:GetService(""TweenService""):Create(NewWeld,TweenInfo.new(2,0),
+
+	{C1 = script.Parent.Ref.CFrame:inverse()\*CFrame.new(0,0,0)}):Play()
+
+	wait(2)
+
+end",True,False,False,lua,t5_2qjla,14141,public,self,,,Whats wrong with this script?,0,[],1.0,https://www.reddit.com/r/lua/comments/s63sfn/whats_wrong_with_this_script/,,all_ads,6,,,,,,,,,,,,,,,,
+26.0,[],False,Ok-Resolution8566,,[],,text,t2_cukwa4ez,False,False,False,[],False,False,1642366345,self.lua,https://www.reddit.com/r/lua/comments/s5la00/lua_love2d_and_android_dev/,{},s5la00,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/s5la00/lua_love2d_and_android_dev/,False,,,6,1642366355,1,"I have a quick question regarding Lua coding on an Android OS. this really is going to be related to the Love2D framework application available on the Google Play Store.
+
+Okay, so...
+
+Currently on the other side of the country, for a vacation/family funeral, and I decided to take my Samsung Tab S4 with me since my 7lb gaming computer would have been too heavy and too valuable to lose or break. I found that the Love2D framework for game programming was available on Android, along with a music tracker and software for pixel art/animation.
+
+I paid the $3 for QuickEdit+ to use as a text editor and the Lua/Love2D Hello World command does work when saved as main.lua file.
+
+Question: has anyone used a text editor on mobile and was there anything else ""needed"" for it to work? i.e do I need to install the Lua binary in some way and place them into the QuickEdit application folder? (I've tried copying a couple of examples that work on Windows/Linux, but the functions are not registering and wondering if I'm doing something wrong as part of the setup)",True,False,False,lua,t5_2qjla,14133,public,self,,,"Lua, Love2D, and Android Dev",0,[],1.0,https://www.reddit.com/r/lua/comments/s5la00/lua_love2d_and_android_dev/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+27.0,[],False,SP4C3_SH0T,,[],,text,t2_gylw5ahb,False,False,False,[],False,False,1642311583,self.lua,https://www.reddit.com/r/lua/comments/s54qiy/has_anyone_tried_squirrel/,{},s54qiy,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s54qiy/has_anyone_tried_squirrel/,False,,,6,1642311593,1,I just downloaded and am currently looking at the documentation for squirrel programming language has any one tried it is it worth learning it's got its roots in Lua it's object oriented out the box and it looks Interesting just asking options,True,False,False,lua,t5_2qjla,14132,public,self,,,Has anyone tried squirrel,0,[],1.0,https://www.reddit.com/r/lua/comments/s54qiy/has_anyone_tried_squirrel/,,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,
+28.0,[],False,MadGuineaFowl,,[],,text,t2_dwsj1663,False,False,False,[],False,False,1642285065,self.lua,https://www.reddit.com/r/lua/comments/s4vvx3/question_how_can_i_solve_the_problem_the_cwd_can/,{},s4vvx3,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s4vvx3/question_how_can_i_solve_the_problem_the_cwd_can/,False,,,6,1642285076,1,"&amp;#x200B;
+
+https://preview.redd.it/i5k4528hexb81.png?width=968&amp;format=png&amp;auto=webp&amp;s=cbaa26c83554ebba1b9731873ed1b8587b49076b
+
+Is there a code to add?
+
+I can't find the solution in my local language.
+
+What should I add .json to Lua interpreter?",True,False,False,lua,t5_2qjla,14132,public,self,103.0,140.0,"(Question) How can I solve the problem?: ""The 'cwd' can not be resolved...""",0,[],1.0,https://www.reddit.com/r/lua/comments/s4vvx3/question_how_can_i_solve_the_problem_the_cwd_can/,,all_ads,6,,,"{'i5k4528hexb81': {'e': 'Image', 'id': 'i5k4528hexb81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/i5k4528hexb81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=e50577bbb44bc791bac27e6a96847634591573e8', 'x': 108, 'y': 79}, {'u': 'https://preview.redd.it/i5k4528hexb81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=eda12965a1c23f1ac7d0da1ded94902b77c3be84', 'x': 216, 'y': 159}, {'u': 'https://preview.redd.it/i5k4528hexb81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=742f1cfcc182a2e2aa85e6e12793d2bee10cb4b7', 'x': 320, 'y': 235}, {'u': 'https://preview.redd.it/i5k4528hexb81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=90efb922b35b1fcc9127a40bbfbd474dab9e1502', 'x': 640, 'y': 471}, {'u': 'https://preview.redd.it/i5k4528hexb81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=60ea6bf04906f9cc58e7da73baf134f7747d8c43', 'x': 960, 'y': 707}], 's': {'u': 'https://preview.redd.it/i5k4528hexb81.png?width=968&amp;format=png&amp;auto=webp&amp;s=cbaa26c83554ebba1b9731873ed1b8587b49076b', 'x': 968, 'y': 713}, 'status': 'valid'}}",,,,,,,,,,,,,
+29.0,[],False,bensanm,,[],,text,t2_1tfawtwl,False,False,False,[],False,False,1642271397,self.lua,https://www.reddit.com/r/lua/comments/s4qqk9/a_little_luascriptable_sideproject_that_now/,{},s4qqk9,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s4qqk9/a_little_luascriptable_sideproject_that_now/,False,self,"{'enabled': False, 'images': [{'id': 'wDlC449OtQMaq6RIDdlyaTCdWE0lr92iK2mUCG6D5Kw', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/TcMvaXpwp7GLh6Dkki2sUaZmAmXf4aa_-W-AxxF-l_0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2698448edaac91d09d63f8d1bb4d3785fcd569cb', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/TcMvaXpwp7GLh6Dkki2sUaZmAmXf4aa_-W-AxxF-l_0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=600919785077002c32c58c6db4a811cc2baf7767', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/TcMvaXpwp7GLh6Dkki2sUaZmAmXf4aa_-W-AxxF-l_0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4fccf51c49cf600c753ab2d43d7fba9c9194760b', 'width': 320}], 'source': {'height': 512, 'url': 'https://external-preview.redd.it/TcMvaXpwp7GLh6Dkki2sUaZmAmXf4aa_-W-AxxF-l_0.jpg?auto=webp&amp;s=4b24f9942cbc69b61d52303b63c070a394a28f24', 'width': 512}, 'variants': {}}]}",6,1642271408,1,"Available for download at [http://www.fireflytech.org](http://www.fireflytech.org). Just added ""Publish as Windows EXE"" and ""Publish as Linux AppImage""  support to the lua-scriptable side-project game editor / engine / sdk - no external  tooling or code compilation in an attempt to create a friction-free  experience. Here's the Windows EXE publish: [https://youtu.be/c8qOzdgCL-g](https://youtu.be/c8qOzdgCL-g) and the linux AppImage publish: [https://youtu.be/1pHfCOsyqM4](https://youtu.be/1pHfCOsyqM4) Have done the same for Android APK publish - again no tooling but that needs some polish.",True,False,False,lua,t5_2qjla,14128,public,self,,,A little (lua-scriptable) side-project that now publishes micro apps as windows executables and linux AppImages,0,[],1.0,https://www.reddit.com/r/lua/comments/s4qqk9/a_little_luascriptable_sideproject_that_now/,,all_ads,6,,,,,,,,,,,,,,,,
+30.0,[],False,Jimsocks499,,[],,text,t2_ohbir,False,False,False,[],False,False,1642268660,self.lua,https://www.reddit.com/r/lua/comments/s4pp94/capitalizing_a_letter_if_it_is_the_first_letter/,{},s4pp94,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s4pp94/capitalizing_a_letter_if_it_is_the_first_letter/,False,,,6,1642268671,1,"I am polishing up an extension I wrote for a game called Fantasy Grounds, and it has an ""auto-capitalization"" feature I wrote into it for an end-user.  Basically, if the end user surrounds a single letter with parentheses i.e.: (a)  then the code will look to see if that letter in the string is preceded by punctuation or not, and capitalize it if so, removing the parenthesis regardless.
+
+The problem is, I ALSO want it to do this at the beginning of a new line, with no punctuation or spaces beforehand.  I can't seem to get this to work.  Suggestions?  
+
+Here is the code:
+
+    function performCapitalize(sOriginal)
+        -- Look for (t) syntax within rolled results, where ""t"" is any
+        -- starting letter of a word, and capitalize it if it begins a sentence.   
+        local textToReplace
+        local replacementText
+        local sOutput = sOriginal
+    
+        for sTag, punctuation, spaces, frontTag, letterToCap, backTag, eTag in sOutput:gmatch(""()([%%.%?%!])(%s+)(%()(%a)(%))()"") do
+            if punctuation == ""."" or punctuation == ""?"" or punctuation == ""!"" then
+                punctuation = punctuation:gsub(""%."", ""%%."")
+                punctuation = punctuation:gsub(""%?"", ""%%?"")
+                punctuation = punctuation:gsub(""%!"", ""%%!"")
+    
+                textToReplace = punctuation .. spaces .. ""%("" .. letterToCap .. ""%)""
+                letterToCap = letterToCap:upper()
+                replacementText = punctuation .. spaces .. letterToCap
+    
+                sOutput = sOutput:gsub(textToReplace, replacementText)
+            end
+        end
+    
+        for sTag, frontTag, letterToCap, backTag, eTag in sOutput:gmatch(""()(%()(%a)(%))()"") do
+            textToReplace = ""%("" .. letterToCap .. ""%)""
+            replacementText = letterToCap
+            sOutput = sOutput:gsub(textToReplace, replacementText)
+        end
+    
+        return sOutput
+    end
+
+Do I maybe need to add this check in the second ""for"" statement?  So before it removes the parenthesis, it checks one more time just to see if NOTHING comes before the pattern?   How could I even check that?
+
+Thanks in advance for the help!!!",True,False,False,lua,t5_2qjla,14128,public,self,,,"Capitalizing a letter, if it is the first letter of a new line",0,[],1.0,https://www.reddit.com/r/lua/comments/s4pp94/capitalizing_a_letter_if_it_is_the_first_letter/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+31.0,[],False,KA33690000009,,[],,text,t2_bsfdp437,False,False,False,[],False,False,1642237512,self.lua,https://www.reddit.com/r/lua/comments/s4gax3/how_to_make_a_game_in_lua/,{},s4gax3,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s4gax3/how_to_make_a_game_in_lua/,False,,,6,1642237523,1,Hi how to start making games in lua?,True,False,False,lua,t5_2qjla,14128,public,self,,,How to make a game in lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/s4gax3/how_to_make_a_game_in_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+32.0,[],False,__VGD__,,[],,text,t2_4wvsx253,False,False,False,[],False,False,1642129746,self.lua,https://www.reddit.com/r/lua/comments/s3hnjm/logic_help_how_do_i_look_through_a_table_and_test/,{},s3hnjm,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/s3hnjm/logic_help_how_do_i_look_through_a_table_and_test/,False,,,6,1642129757,1,"Say I have a list of strings and another list of strings.... how can I get a return saying one has all elements in another? 
+
+    table1 = {'cat','dog','bunny','horse','pig','cow','rat'} -- List A
+    table2 = {'cat','bunny','horse','crow','cow','mudskipper'} -- List B
+    searchList = {'cow','mudskipper','horse'}
+    
+    -- SudoCode --------
+    -- table1/searchList == false (cow, mudskipper and horse ARE NOT in table1)
+    -- table2/searchList == true (cow, mudskipper and horse ARE ALL in table2)
+
+I'm having trouble working out the logic of this without looping through the entire table for each entry in the searchList...",True,False,False,lua,t5_2qjla,14121,public,self,,,"[Logic Help] - How do I look through a table and test each element and match that to a list, if it finds everything on the list, it returns true?",0,[],1.0,https://www.reddit.com/r/lua/comments/s3hnjm/logic_help_how_do_i_look_through_a_table_and_test/,,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,
+33.0,[],False,Kimater,,[],,text,t2_q6f53,False,False,False,[],False,False,1642108092,self.lua,https://www.reddit.com/r/lua/comments/s39p9p/need_help_with_inserting_values_to_a_table/,{},s39p9p,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s39p9p/need_help_with_inserting_values_to_a_table/,False,,,6,1642108103,1,"Hello guys, I need help with a thing I know its very simple but I don't know how to do it, I have a function which get some values and the one that call for the values, but I just don't know how to insert the values to the table.
+
+I'll write an example, I have this values:
+
+    peer_id = 12345
+    entry_id = hello
+    value = 54321
+
+And the function which should return 54321 is this one:
+
+     return my_values[peer_id][entry_id] 
+
+So I think? the table should look like this:
+
+    my_values = {
+       12345 = {
+          hello = 54321
+       }
+    }
+
+BUT how do insert/create the table? I have Penlight Lua Libraries incase that helps.
+
+&amp;#x200B;
+
+THANKS YOU",True,False,False,lua,t5_2qjla,14123,public,self,,,Need help with inserting values to a table (Penlight Lua Libraries),0,[],1.0,https://www.reddit.com/r/lua/comments/s39p9p/need_help_with_inserting_values_to_a_table/,,all_ads,6,ffcc9da0-6cb5-11ea-bbae-0eeb4e357add,Third Party API,,,,,,,,,,,,,,
+34.0,[],False,MinecraftLibrarian,,[],,text,t2_591o8quh,False,False,False,[],False,False,1642079327,self.lua,https://www.reddit.com/r/lua/comments/s2z2mj/rgb_keyboard_manipulation_question/,{},s2z2mj,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s2z2mj/rgb_keyboard_manipulation_question/,False,,,6,1642079337,1,"In Terraria, when you fight the Moon Lord, and you have a RGB keyboard, the animation of an eye will play on your keyboard. How do i do this with Lua? Because i think this would be a great addition to a project im working on.",True,False,False,lua,t5_2qjla,14118,public,self,,,rgb keyboard manipulation question,0,[],1.0,https://www.reddit.com/r/lua/comments/s2z2mj/rgb_keyboard_manipulation_question/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+35.0,[],False,PauloSantoro,,[],,text,t2_3xavnnzg,False,False,False,[],False,False,1642026290,self.lua,https://www.reddit.com/r/lua/comments/s2is4h/looking_for_an_easy_app_creator_where_i_could/,{},s2is4h,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s2is4h/looking_for_an_easy_app_creator_where_i_could/,False,,,6,1642026301,1,"I'm not a coder, but a friend made the scripts that I need in Lua years ago. Now I just need an easy app creator that let me access the scripts.
+
+I just looked at Glide and Bubble, for example, but they don't work with scripts. Is there anyone that does, please?
+
+In other words: I wish an app creator (site/tool/app) where I can draw the look of my app (images, text), insert some buttons and then tell it to run xxyyzz.lua script when user click some button.
+
+Thank you for any help!",True,False,False,lua,t5_2qjla,14111,public,self,,,Looking for an easy app creator where I could embed Lua script,0,[],1.0,https://www.reddit.com/r/lua/comments/s2is4h/looking_for_an_easy_app_creator_where_i_could/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+36.0,[],False,DanceGuilty4813,,[],,text,t2_ask6ygfc,False,False,False,[],False,False,1641863090,reddit.com,https://www.reddit.com/r/lua/comments/s10246/got_issue_with_a_lua_files/,{},s10246,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s10246/got_issue_with_a_lua_files/,False,,,6,1641863101,1,,True,False,False,lua,t5_2qjla,14105,public,default,69.0,140.0,got issue with a LUA files,0,[],1.0,https://www.reddit.com/gallery/s10246,https://www.reddit.com/gallery/s10246,all_ads,6,,,"{'9y7dvdp5kya81': {'e': 'Image', 'id': '9y7dvdp5kya81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=09f4bf9357725aa851f0fc0e5c70df716c1e821a', 'x': 108, 'y': 2}, {'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=b00fad40b48f20ce722545b89043502771388e20', 'x': 216, 'y': 4}, {'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e9b2b41ca72c33f809c14b8e97538b2ed376a3aa', 'x': 320, 'y': 5}, {'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aaf6d3349394aa49bf43bbdff21331e5cbb35a19', 'x': 640, 'y': 11}, {'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=ff79e1658d2a1e679de0b51a7a460b8891962af2', 'x': 960, 'y': 17}, {'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d06fecb8a69bcb9a3b7fd842ff513a272e74d691', 'x': 1080, 'y': 20}], 's': {'u': 'https://preview.redd.it/9y7dvdp5kya81.png?width=1667&amp;format=png&amp;auto=webp&amp;s=bad394eded8a9336e608ae974b806afbacd23967', 'x': 1667, 'y': 31}, 'status': 'valid'}, 'm60e4v32kya81': {'e': 'Image', 'id': 'm60e4v32kya81', 'm': 'image/jpg', 'p': [{'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=0d36cfa967359e12fe6c5cd5bb756ebcbaf0932c', 'x': 108, 'y': 53}, {'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=a2156251b999d3c0823152ba89d06df6f7e45f81', 'x': 216, 'y': 106}, {'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=55eceaf5f3672f118aa5f25627915ce76c7e652b', 'x': 320, 'y': 158}, {'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4e74c818f5c55564b631d33252e576c002319df', 'x': 640, 'y': 316}, {'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=6dc7454ee9599cee4729565510751e924f1ba685', 'x': 960, 'y': 475}, {'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2085d82856c18f421246fc79213d37f097102b8e', 'x': 1080, 'y': 534}], 's': {'u': 'https://preview.redd.it/m60e4v32kya81.jpg?width=1760&amp;format=pjpg&amp;auto=webp&amp;s=eaa6f6f8f29b9df9855f9de0576ebd986a6f0a4f', 'x': 1760, 'y': 871}, 'status': 'valid'}}","{'items': [{'id': 101251367, 'media_id': 'm60e4v32kya81'}, {'id': 101251368, 'media_id': '9y7dvdp5kya81'}]}",True,,,,,,,,,,,
+37.0,[],False,Nrse24,,[],,text,t2_ot7lbt7,False,False,False,[],False,False,1641846919,self.lua,https://www.reddit.com/r/lua/comments/s0ttj6/hello_everyone_im_new_here_and_i_wanted_to_join/,{},s0ttj6,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s0ttj6/hello_everyone_im_new_here_and_i_wanted_to_join/,False,,,6,1641846930,1,,True,False,False,lua,t5_2qjla,14100,public,self,,,Hello everyone I’m new here and I wanted to join because my 10 year old wants to learn how to code using LUA. I don’t know much about these things. But does anyone here know about any kid friendly classes programs to help learn?,0,[],1.0,https://www.reddit.com/r/lua/comments/s0ttj6/hello_everyone_im_new_here_and_i_wanted_to_join/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+38.0,[],False,Dragon20C,,[],,text,t2_52czm0yn,False,False,False,[],False,False,1641808494,self.lua,https://www.reddit.com/r/lua/comments/s0gh2h/trying_to_make_a_minimax_algorithm_but_things/,{},s0gh2h,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/s0gh2h/trying_to_make_a_minimax_algorithm_but_things/,False,,,6,1641808504,1,"I make this quick I made 2 posts on stackoverflow a week apart each, the second time I actually understood the code more or less and I am still having issues, Like things not printing but erroring out down the line which should of been caught by a early function but it doesnt which makes no sense to me.
+
+&amp;#x200B;
+
+here is the code I added some comments
+
+&amp;#x200B;
+
+    local board_data = {top_L= "" "", top_M = "" "", top_R= "" "", mid_L= "" "", mid_M= "" "", mid_R= "" "", low_L= "" "", low_M= "" "",
+low_R= "" ""}
+
+local location = {""top"",""mid"",""low""}
+local position = {""_L"",""_M"",""_R""}
+
+local function _draw_board() -- Draws the games table
+ print(
+ board_data[""top_L""]..""┃""..board_data[""top_M""]..""┃""..board_data[""top_R""]..""\n""..
+ ""------\n""..
+ board_data[""mid_L""]..""┃""..board_data[""mid_M""]..""┃""..board_data[""mid_R""]..""\n""..
+ ""------\n""..
+ board_data[""low_L""]..""┃""..board_data[""low_M""]..""┃""..board_data[""low_R""]..""\n""
+    )
+end
+
+local function _check_if_position_exists_and_is_empty(_input) -- Checks if the user has entered a valid position and that it is empty
+ return board_data[_input] == "" ""
+end
+
+local function _check_win_condition(board,current_turn) --Checks if the current player has won
+ for i = 1, 3 do --Firstly checks each rows
+ if board[location[i]..position[1]] == current_turn and board[location[i]..position[2]] == current_turn and board[location[i]..position[3]] == current_turn then
+ return true --Then checks collums
+ elseif board[location[1]..position[i]] == current_turn and board[location[2]..position[i]] == current_turn and board[location[3]..position[i]] == current_turn then
+ return true 
+ end -- Then checks diagonals
+ if board[location[1]..position[1]] == current_turn and board[location[2]..position[2]] == current_turn and board[location[3]..position[3]] == current_turn then
+ return true
+ elseif board[location[3]..position[1]] == current_turn and board[location[2]..position[2]] == current_turn and board[location[1]..position[3]] == current_turn then
+ return true
+ end
+ end
+end
+
+local function check_tie_condition(array)
+ local is_not_empty = 0
+ for i = 1,3 do
+ if array[location[i]..position[1]] ~= "" "" and array[location[i]..position[2]] ~= "" "" and array[location[i]..position[3]] ~= "" "" then
+ is_not_empty = is_not_empty + 3
+ end
+ end
+ if is_not_empty == 9 then
+ return true
+ end
+ return false
+end
+
+local function get_array_size(array)
+ local count = 0
+ for i in pairs(array) do
+ count = count + 1
+ end
+ return count
+end
+
+local function find_empty_slots(board)
+ local key_array = {""top_L"",""top_M"",""top_R"",""mid_L"",""mid_M"",""mid_R"",""low_L"",""low_M"",""low_R""}
+ local empty_slots = {}
+ for a in pairs(key_array) do
+ if board[key_array[a]] == "" "" then
+ table.insert(empty_slots,key_array[a])
+ end
+ end
+ return empty_slots
+end
+
+local function minimax(board,current_player) -- MINIMAX ai
+ local avaliable_slots = find_empty_slots(board)
+ local size_of_array = get_array_size(avaliable_slots)
+ --_draw_board()
+ print(size_of_array)
+ if _check_win_condition(board,""X"") then
+ return {score = -1}
+ elseif _check_win_condition(board,""O"") then
+ return {score = 1}
+ elseif check_tie_condition(board) then --Why does this not get called WTF, the board is full so CALL IT!
+ print(""This should be called"")
+ return {score = 0}
+ end
+ print(size_of_array == 0) -- Why does this stop printing wtf
+ _draw_board() -- Why does the board stop putting values im so confused whats going on!
+
+ local allTestPlayInfos = {}
+
+ for i = 1, size_of_array do
+ local currentTestPlayInfo = {}
+ local index = avaliable_slots[i]
+ board[index] = current_player
+ if current_player == ""O"" then
+ local x_result = minimax(board,""X"")
+ currentTestPlayInfo[""score""] = x_result[""score""]
+ else
+ local o_result = minimax(board,""O"")
+ currentTestPlayInfo[""score""] = o_result[""score""] --Why does the score in the array get asigned a nil value it shouldnt be NIL!
+ board[index] = "" ""
+ currentTestPlayInfo[""index""] = index
+ table.insert(allTestPlayInfos,i,currentTestPlayInfo)
+ end
+ end
+ local bestTestPlay = {}
+ if current_player == ""O"" then
+ local best_score = -700
+ for i = 1, get_array_size(allTestPlayInfos) do
+ if allTestPlayInfos[i][""score""] &gt; best_score then
+ best_score = allTestPlayInfos[i][""score""]
+ bestTestPlay = i --allTestPlayInfos[i][""index""]
+ end
+ end
+ else
+ local best_score = 700
+ for i = 1, get_array_size(allTestPlayInfos) do
+ if allTestPlayInfos[i][""score""] &lt; best_score then
+ best_score = allTestPlayInfos[i][""score""]
+ bestTestPlay = i --allTestPlayInfos[i][""index""]
+ end
+ end
+ end
+ return allTestPlayInfos[bestTestPlay]
+end
+
+local function _game() --The main loop of the game -- THIS IS A MESS but it should work at the moment!
+ local current_turn = ""O"" -- it holds two states X or O
+ print(""Please select a position from the board, to access the top row, type top_position position being L, M , R e.g top_L \n"")
+ _draw_board()
+ while true do
+ print(""Player "" ..current_turn.. "" is selected!"")
+ if current_turn == ""O"" then -- Checks if its Os turn/AI and make it play the minimax function
+ local play = minimax(board_data,""O"")
+ print(play)
+ break
+ --current_turn = ""X""
+ else -- Else its the players turn
+ local Input = io.read()
+ if _check_if_position_exists_and_is_empty(Input) then
+ board_data[Input] = current_turn
+ _draw_board()
+ if _check_win_condition(board_data,current_turn) then
+ print(""Player ""..current_turn .. "" Has won this game!"")
+ break
+ elseif check_tie_condition(board_data) then
+ print(""The game has ended at a tie!"")
+ break
+ end
+ if current_turn == ""X"" then -- Switch to the other player
+ current_turn = ""O""
+ elseif current_turn == ""O"" then
+ current_turn = ""X""
+ end
+ 
+ else
+ print(""\nThat wasnt a command in the table or the slot wasnt empty!, example top_L, mid_R, low_M \n"")
+ end
+ end
+end
+ end
+ 
+
+_game()
+
+
+
+I get the error : lua: /mnt/1TB SSD/Lua Projects/Tic Tac Toe/main.lua:96: attempt to index a nil value (local 'o\_result')
+
+&amp;#x200B;
+
+This is because the return value is somehow a nil value because the board is full but the first 3 functions are there to catch it BUT IT DOESN'T and I don't know why!",True,False,False,lua,t5_2qjla,14093,public,self,,,trying to make a minimax algorithm but things aren't working correctly,0,[],1.0,https://www.reddit.com/r/lua/comments/s0gh2h/trying_to_make_a_minimax_algorithm_but_things/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+39.0,[],False,LeoStark84,,[],,text,t2_5djhp8ks,False,False,False,[],False,False,1641751640,reddit.com,https://www.reddit.com/r/lua/comments/rzxi4e/wtfandroidtermuxlua53/,{},rzxi4e,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rzxi4e/wtfandroidtermuxlua53/,False,,,6,1641751651,1,,True,False,False,lua,t5_2qjla,14087,public,default,140.0,140.0,wtf=android+termux+lua53,0,[],1.0,https://www.reddit.com/gallery/rzxi4e,https://www.reddit.com/gallery/rzxi4e,all_ads,6,,,"{'vdvfmk60dpa81': {'e': 'Image', 'id': 'vdvfmk60dpa81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/vdvfmk60dpa81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=905b2163a6714c28126da26cb16b3d10472708cb', 'x': 108, 'y': 216}, {'u': 'https://preview.redd.it/vdvfmk60dpa81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=88ba728b1545e68caac8937f7ddd39fc4e89325e', 'x': 216, 'y': 432}, {'u': 'https://preview.redd.it/vdvfmk60dpa81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f4f6d7ca6f5c8a4a37f68c08490b308e16a26d50', 'x': 320, 'y': 640}, {'u': 'https://preview.redd.it/vdvfmk60dpa81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df8e5e8c5184050e70f44158e95514df45b72793', 'x': 640, 'y': 1280}], 's': {'u': 'https://preview.redd.it/vdvfmk60dpa81.png?width=720&amp;format=png&amp;auto=webp&amp;s=6c70c86c2acc383d7f6c227c8b6d31c3d40bd634', 'x': 720, 'y': 1640}, 'status': 'valid'}, 'xppbddd0dpa81': {'e': 'Image', 'id': 'xppbddd0dpa81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/xppbddd0dpa81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=910deb4146bb96e959e6da8df20c1cea44988152', 'x': 108, 'y': 216}, {'u': 'https://preview.redd.it/xppbddd0dpa81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a0faa176f3511eb524cc249a927d868ac85ebad6', 'x': 216, 'y': 432}, {'u': 'https://preview.redd.it/xppbddd0dpa81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2bebbb96a762b5a84d8d958436338776969a70ee', 'x': 320, 'y': 640}, {'u': 'https://preview.redd.it/xppbddd0dpa81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27dfc210e2bf5598796a18c2090163005a3cbc84', 'x': 640, 'y': 1280}], 's': {'u': 'https://preview.redd.it/xppbddd0dpa81.png?width=720&amp;format=png&amp;auto=webp&amp;s=5888bf3e623a4bdd0eceac8e7d246b9fe0cedcbb', 'x': 720, 'y': 1640}, 'status': 'valid'}}","{'items': [{'id': 100855425, 'media_id': 'vdvfmk60dpa81'}, {'id': 100855426, 'media_id': 'xppbddd0dpa81'}]}",True,,,,,,,,,,,
+40.0,[],False,FOSSilized_D43mon,,[],,text,t2_5xlxc1up,False,False,False,[],False,False,1641688961,self.lua,https://www.reddit.com/r/lua/comments/rzexai/vis_api_strings_are_valid_but_ioopen_says_they/,{},rzexai,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rzexai/vis_api_strings_are_valid_but_ioopen_says_they/,False,self,"{'enabled': False, 'images': [{'id': 'MxstY2YpruQkqiaelpNnrcox1G8tS7JPpzRAjPbk4Lw', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=972144252aedfd88650d5e1077452cd9a1c60d5f', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=22b22e179f757e37b234eb0912f3d4555d1e3e6f', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7eaece280d50746f6d21d60cc7b39092beae3ee', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca3056c029938d68c3072d19606a5c8d6e064ac1', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=64b89bf0767898fc8023fe07eee2a0e57d68bf18', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cbf83662efe0275c7cf699fabbd6bc41e5345089', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/KpQvS5n6PsY_CsTWNxeGQEnBxeOTBF2ZRt_kpyV0UWU.jpg?auto=webp&amp;s=746d7dd8321ab7a69c3f6cdfd1c019738d832fa4', 'width': 1200}, 'variants': {}}]}",6,1641688971,1,"I am working on writing an implementation of the [backup](https://github.com/roguh/vis-backup/blob/master/backup.lua) plugin for the [vis text editor](https://github.com/martanne/vis/tree/master/), but keep running into a very annoying issue.
+
+In [my implementation](https://gitlab.com/FOSSilized_Daemon/dotfiles/-/blob/editor-vis/src/home/.config/vis/lua/module/file/backup.lua) I have added a few more configuration options as to make the plugin a bit more *full*. In addition to this I also reworked some formatting and cleaned up a few thing, but there is a problem. In the `vis.events.subscribe(vis.events.FILE_SAVE_PRE, function(file, path)` function I have a section where I open both the `backup_file` and `path`, `path` being the current file you are saving and defined by the `vis` [Lua API](http://martanne.github.io/vis/doc/) but every time my plugin gets run I get an error:
+
+   Error, Line 61 io.read argument 1 is nil and should be a string
+
+As you can see in my code I have debugging print statements and can verify that variables **do** hold their proper data and paths. I have done some googling, but can not figure out why this is occurring. I figured I would ask here as it seems to be something related to the Lua library `io`. I have no idea why this is happening and was hoping that someone could expand on this for me. Thank you for your time.",True,False,False,lua,t5_2qjla,14083,public,self,,,"[vis API] Strings are valid, but io.open says they are empty.",0,[],1.0,https://www.reddit.com/r/lua/comments/rzexai/vis_api_strings_are_valid_but_ioopen_says_they/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+41.0,[],False,__VGD__,,[],,text,t2_4wvsx253,False,False,False,[],False,False,1641670089,self.lua,https://www.reddit.com/r/lua/comments/rz7r45/how_can_i_extract_from_a_string_into_a_table/,{},rz7r45,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/rz7r45/how_can_i_extract_from_a_string_into_a_table/,False,,,6,1641670099,1,"If I have a string like (Ally) (Human) (Warrior) or something like this... is there a simple way to extract Ally, Human and Warrior into a table...
+
+    string=""(Ally) (Human) (Warrior)""
+    --do some magic
+    t[1] = 'Ally'
+    t[2] = 'Human'
+    t[3] = 'Warrior'
+
+Thanks!",True,False,False,lua,t5_2qjla,14083,public,self,,,How can I extract from a string into a table things inside multiple parenthesis?,0,[],1.0,https://www.reddit.com/r/lua/comments/rz7r45/how_can_i_extract_from_a_string_into_a_table/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+42.0,[],False,Manu_Strong,,[],,text,t2_bgm876li,False,False,False,[],False,False,1641667488,self.lua,https://www.reddit.com/r/lua/comments/rz6qwj/how_to_specify_large_integer_literals_in_a/,{},rz6qwj,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rz6qwj/how_to_specify_large_integer_literals_in_a/,False,,,6,1641667498,1,"Hi  I'm new to Lua  
+I wanted to know if there is any way to separate int large number digits in Lua, for example in python
+
+     1000 == 1_000; 1_000_000 == 1000000  
+
+In Lua how would it be? 
+
+Thanks in advance",True,False,False,lua,t5_2qjla,14082,public,self,,,How to specify large integer literals in a readable way?,0,[],1.0,https://www.reddit.com/r/lua/comments/rz6qwj/how_to_specify_large_integer_literals_in_a/,,all_ads,6,,,,,,,,,,,,,,,,
+43.0,[],False,Ok-Resolution8566,,[],,text,t2_cukwa4ez,False,False,False,[],False,False,1641606707,self.lua,https://www.reddit.com/r/lua/comments/ryo9ur/android_text_editor/,{},ryo9ur,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/ryo9ur/android_text_editor/,False,,,6,1641606717,1,"Hello everyone, just got a quick question.
+
+I'm actually heading out on vacation for the next week and want to practice learning some Lua. Problem is that I don't want to carry my heavy laptop that only has a 2hour battery life. 
+
+I've been doing a few things on my Samsung tab S4 lately and found this app called QLua. Has anyone tried this or any other text editors on the Play Store that might be a good enough for when your away from your workstation.",True,False,False,lua,t5_2qjla,14080,public,self,,,Android Text Editor,0,[],1.0,https://www.reddit.com/r/lua/comments/ryo9ur/android_text_editor/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+44.0,[],False,Mingmongmang,,[],,text,t2_b8qvsu9,False,False,False,[],False,False,1641566265,self.lua,https://www.reddit.com/r/lua/comments/ry8t58/string_match_to_match_the_exact_word/,{},ry8t58,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/ry8t58/string_match_to_match_the_exact_word/,False,,,6,1641566275,1,"Hi im new to lua scripting and i was very lost looking at the documentations..  
+
+
+I'm trying to use string.match to only match when the string is 'play' and for it to not match when the string consist of play but have additional alphabets such as 'playlist'.  
+
+
+how do you achieve something like this?",True,False,False,lua,t5_2qjla,14072,public,self,,,String match to match the exact word,0,[],1.0,https://www.reddit.com/r/lua/comments/ry8t58/string_match_to_match_the_exact_word/,,all_ads,6,,,,,,,,,,,,,,,,
+45.0,[],False,WebShaker93,,[],,text,t2_hajshfuz,False,False,False,[],False,False,1641475888,self.lua,https://www.reddit.com/r/lua/comments/rxeo3z/luacheck_and_class_definition/,{},rxeo3z,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rxeo3z/luacheck_and_class_definition/,False,,,6,1641475899,1,"Hello.
+
+I discover luacheck (I'm quite new to lua)
+
+I tried to luacheck this small object declaration I used
+
+&amp;#x200B;
+
+StdClass = {}
+
+
+
+function StdClass:new(o)
+
+o = o or {}
+
+setmetatable(o, self)
+
+self.\_\_index = self
+
+return o
+
+end
+
+
+
+function StdClass:init(value)
+
+self.value = value
+
+end
+
+&amp;#x200B;
+
+And I've got this kind of errors  
+
+
+testLib.lua:1:1: setting non-standard global variable 'StdClass'
+
+testLib.lua:3:10: mutating non-standard global variable 'StdClass'
+
+testLib.lua:10:10: mutating non-standard global variable 'StdClass'
+
+What does it meam ???",True,False,False,lua,t5_2qjla,14064,public,self,,,luaCheck and class definition,0,[],1.0,https://www.reddit.com/r/lua/comments/rxeo3z/luacheck_and_class_definition/,,all_ads,6,,,,,,,,,,,,,,,,
+46.0,[],False,nitekillerz,,[],,text,t2_6da1lxnn,False,False,False,[],False,False,1641420956,/r/lua/comments/rwyabs/hello_guys_im_working_with_some_old_code_and_i/,https://www.reddit.com/r/lua/comments/rwyabs/hello_guys_im_working_with_some_old_code_and_i/,{},rwyabs,False,True,False,False,False,True,False,True,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rwyabs/hello_guys_im_working_with_some_old_code_and_i/,False,hosted:video,"{'enabled': False, 'images': [{'id': 'rXfO4ZcYyNmOnHrVNuP4d7lIB0iNH1IoVL9oz7UVj28', 'resolutions': [{'height': 192, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=723c035f50ea38fea7e5272c92fa6fb697995d24', 'width': 108}, {'height': 384, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=04b2674b53608e7f0c3e98e0701bdd561ea5b34d', 'width': 216}, {'height': 568, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=c518706d8aca8e5ce9fe8a45d5da38ac2764f4b6', 'width': 320}, {'height': 1137, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=7ea1661f75b98a14b4ce67761f0d0e4a56c7e90d', 'width': 640}, {'height': 1706, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=3ed2f7020bdb2a3fad878f2ffecd3e7a792d6696', 'width': 960}, {'height': 1920, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=01096e078674e9cc1087f050840ed0458e458e00', 'width': 1080}], 'source': {'height': 1920, 'url': 'https://external-preview.redd.it/zTZ01KkcWrQy7PXwQGWvZUeuh8s6XlRZbTMY74gZ-u8.png?format=pjpg&amp;auto=webp&amp;s=e48cb7cd160996849b0a0989274256be951e27ef', 'width': 1080}, 'variants': {}}]}",6,1641420966,1,,True,False,False,lua,t5_2qjla,14061,public,default,140.0,140.0,"Hello guys, I’m working with some old code and I need to update this image. My knowledge in lua is like 3/10 so I am unsure of what type of image this is and how to convert one to this. Thanks!",0,[],1.0,https://v.redd.it/9zerxfgm1y981,https://v.redd.it/9zerxfgm1y981,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+47.0,[],False,WebShaker93,,[],,text,t2_hajshfuz,False,False,False,[],False,False,1641372805,self.lua,https://www.reddit.com/r/lua/comments/rwieaw/kind_of_define_in_lua/,{},rwieaw,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/rwieaw/kind_of_define_in_lua/,False,,,6,1641372815,1,"Hello.
+What method do you use to activate or deactivate certain parts of your code? 
+For example, what if you have debugging information that you don't want to show when you're in production?
+Are you adding a global variable 
+
+debugMode = true",True,False,False,lua,t5_2qjla,14058,public,self,,,Kind of define in lua,0,[],1.0,https://www.reddit.com/r/lua/comments/rwieaw/kind_of_define_in_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+48.0,[],False,Living_Wear_4320,,[],,text,t2_762hmwtq,False,False,False,[],False,False,1641354333,self.lua,https://www.reddit.com/r/lua/comments/rwd8d5/lua/,{},rwd8d5,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rwd8d5/lua/,False,,,6,1641354344,1," 
+
+Please ask how to delete the line read in the txt file
+
+This is how I read the line
+
+line = fh:read()
+
+if line == nil then break end
+
+    	count = count +1;  	inputText(line); 
+
+and how to delete lines in read txt file",True,False,False,lua,t5_2qjla,14056,public,self,,,lua,0,[],1.0,https://www.reddit.com/r/lua/comments/rwd8d5/lua/,,all_ads,6,,,,,,,,,,,,,,,,
+49.0,[],False,Living_Wear_4320,,[],,text,t2_762hmwtq,False,False,False,[],False,False,1641307720,self.lua,https://www.reddit.com/r/lua/comments/rvw1y6/please_ask_how_to_delete_the_line_read_in_the_txt/,{},rvw1y6,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rvw1y6/please_ask_how_to_delete_the_line_read_in_the_txt/,False,,,6,1641307730,1, Please ask how to delete the line read in the txt file,True,False,False,lua,t5_2qjla,14056,public,self,,,Please ask how to delete the line read in the txt file,0,[],1.0,https://www.reddit.com/r/lua/comments/rvw1y6/please_ask_how_to_delete_the_line_read_in_the_txt/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+50.0,[],False,Levno_710,,[],,text,t2_2rc0gce5,False,False,False,[],False,False,1641148267,self.lua,https://www.reddit.com/r/lua/comments/rufwj5/prometheus_an_open_source_lua_obfuscator_written/,{},rufwj5,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,2,0,False,all_ads,/r/lua/comments/rufwj5/prometheus_an_open_source_lua_obfuscator_written/,False,self,"{'enabled': False, 'images': [{'id': 'p3q66duvaczn30oxOit-b6MlQqa-1qbZua2hGdk3UPI', 'resolutions': [{'height': 56, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ac76192ec85f84249273cbd2bbc0fd907b130f34', 'width': 108}, {'height': 113, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f82642e68afe09f1216a3c76d9945060d56ad64a', 'width': 216}, {'height': 168, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9bb9c9977f73b7d83b379331eb3e27cd42a3c462', 'width': 320}, {'height': 336, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06d008c04c330cb662ec2acef0f7f936c8bd8481', 'width': 640}, {'height': 504, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7fd5221320cbdfa69df5017878a253d3db036a0b', 'width': 960}, {'height': 567, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=96dad2d90cde7795f430761f642369912c5fad61', 'width': 1080}], 'source': {'height': 630, 'url': 'https://external-preview.redd.it/zmcDYyI4awYmRGCOFXgbEEPKrKrNnIPZdU7ZPWB0h7Y.jpg?auto=webp&amp;s=be37780c7d15bcdd5238f5c9eccfe938448f0fa5', 'width': 1200}, 'variants': {}}]}",6,1641148278,1,"This is a side project of me.I would like to find out what other people think about it.
+
+There is also a [Getting Started Guide](https://levno-710.gitbook.io/prometheus/getting-started/installation).
+
+Note that support for LuaU is not fully completed yet.",True,False,False,lua,t5_2qjla,14043,public,self,,,"Prometheus, an open source lua obfuscator, written in pure Lua, capable of obfuscating Lua51 and Roblox's LuaU.",0,[],1.0,https://www.reddit.com/r/lua/comments/rufwj5/prometheus_an_open_source_lua_obfuscator_written/,,all_ads,6,,,,,,,,,,,,,,,,
+51.0,[],False,lyhokia,,[],,text,t2_5641isul,False,False,False,[],False,False,1641117890,self.lua,https://www.reddit.com/r/lua/comments/ru6p2q/creating_an_repl_in_lua/,{},ru6p2q,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/ru6p2q/creating_an_repl_in_lua/,False,self,"{'enabled': False, 'images': [{'id': 'F_iilMszo1sExZlUuWqNg2teCE1RM1XPLXimbYr3Pok', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c0762d684a42fb04ff20b404b264e6391b87024f', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=05f65410a3f81b6601c072360a634c179fd88162', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0b23a5980adae8d5772b8ddef1dd55f243a03568', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=330b1def4cc120b4fe7bcc87d073d733f80b3c75', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=dce97804ba4af7289d20ef17d71377646f28c711', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5d7aecd031c4ede7bf19df476a3640da07d0efd6', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/rEZm7jo3Qa9L-uWRqSAVN1K2EQ-As-rHQCpSVd733Eg.jpg?auto=webp&amp;s=dcff50b85be4103b17fa6c00ca5adb552f263506', 'width': 1200}, 'variants': {}}]}",6,1641117901,1,"I'm trying to create a REPL inside of neovim. I know there's already a [luarock library](https://github.com/hoelzro/lua-repl) avaliable, but it seems like to be standalone and requires user to manage luarocks, which is not avalable for all plugin managers. Also, I want this REPL capable of manipulating the internal state of neovim. Therefore I decided to implement my own REPL.
+
+The problem I am now facing is that, expressions and statements can not be treated the same way, as Lua is not an expression based language. 
+
+I've searched for some pieces of code like this [piece](https://gist.github.com/hoelzro/1265250/5068ecba14974eb26b52e3d13daa5afac8d6c913). 
+
+Bascially this just try to deal this in both way, but obviously this has problem, as the comments below said:
+```
+For example, I have some codes ""f()"" to evaluate, where f will through error, no matter what happens. it also change the internal state of lua. The above scripts will cause the internal state to change twice, which is obviously not correct.
+```
+
+Can anyone tell me how to fix this? Thanks a lot! BTW, I'm using LuaJIT 2.0.5.",True,False,False,lua,t5_2qjla,14039,public,self,,,Creating an REPL in Lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/ru6p2q/creating_an_repl_in_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+52.0,[],False,jersa56,,[],,text,t2_gh31zrgt,False,False,False,[],False,False,1641094618,self.lua,https://www.reddit.com/r/lua/comments/ru0k2c/lua_and_neovim/,{},ru0k2c,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/ru0k2c/lua_and_neovim/,False,,,6,1641094629,1,"I don't know if this question goes here, but here it goes: 
+
+I use lua to configure neovim and lua's own language doesn't ""fit "", I followed the lsp installation guide, but it tells me there is an executable cmd error. 
+
+I saw that one solution is to make the folder executable, I did it but it still doesn't work.
+
+I would be very grateful if someone could help me. 
+
+Thank you.",True,False,False,lua,t5_2qjla,14040,public,self,,,Lua and neovim,0,[],0.99,https://www.reddit.com/r/lua/comments/ru0k2c/lua_and_neovim/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+53.0,[],False,barklan,,[],,text,t2_10ltpx,False,False,False,[],False,False,1641056685,luabyexample.org,https://www.reddit.com/r/lua/comments/rtnfsa/lua_by_example_small_site_to_keep_lua_in_one_place/,{},rtnfsa,False,True,False,False,False,True,False,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/rtnfsa/lua_by_example_small_site_to_keep_lua_in_one_place/,False,,,6,1641056696,1,,True,False,False,lua,t5_2qjla,14040,public,default,,,Lua by Example - small site to keep Lua in one place,0,[],1.0,https://luabyexample.org/,https://luabyexample.org/,all_ads,6,,,,,,,,,,,,,,,,
+54.0,[],False,NoLink5243,,[],,text,t2_an2wp6zp,False,False,False,[],False,False,1641039655,self.lua,https://www.reddit.com/r/lua/comments/rtiedd/merge_multiple_lua_tables/,{},rtiedd,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/rtiedd/merge_multiple_lua_tables/,False,,,6,1641039665,1,"i have three tables
+local a ={'a','b','c'}
+local b = {'A','B','C'}
+local merge ={}
+
+how can i merge all values from a and b to the 'merge' table?",True,False,False,lua,t5_2qjla,14039,public,self,,,Merge multiple lua tables,0,[],1.0,https://www.reddit.com/r/lua/comments/rtiedd/merge_multiple_lua_tables/,,all_ads,6,,,,,,,,,,,,,,,,
+55.0,[],False,btwiusearchlinux,,[],,text,t2_37bnrdzm,False,False,False,[],False,False,1640906812,github.com,https://www.reddit.com/r/lua/comments/rsfdsa/paperwmspoon_tiling_scrollable_window_manager_for/,{},rsfdsa,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rsfdsa/paperwmspoon_tiling_scrollable_window_manager_for/,False,link,"{'enabled': False, 'images': [{'id': 'mQT7hG0XxhOMdBklxwg-5j7wjE3LSs9Kq8wszPTq2kM', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f37202d5ac3a64502d4537c4ee8cc02201ecf503', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0a2ba47b6375fdf8084821e005f02bee0b1c99b9', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=05f73c2372b85e00120e20bfdf8d96233eb3bfd2', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de61804dbfc41267d22601a6536ab924b970bd14', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1cbe8e8e36fed39f07c1adbafbb3bf803f115bd5', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7def1f9d078b596cf6a221685d45b1fee0213801', 'width': 1080}], 'source': {'height': 640, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?auto=webp&amp;s=a546efbc64ae638bd937357d8e5b43485f30a310', 'width': 1280}, 'variants': {}}]}",6,1640906822,1,,True,False,False,lua,t5_2qjla,14033,public,default,70.0,140.0,PaperWM.spoon tiling scrollable window manager for MacOS using Hammerspoon,0,[],1.0,https://github.com/mogenson/PaperWM.spoon,https://github.com/mogenson/PaperWM.spoon,all_ads,6,257e3edc-6cb6-11ea-9d3c-0e0d7197b4fb,Project,,,,t3_rsfae9,"[{'all_awardings': [], 'allow_live_comments': False, 'approved_at_utc': None, 'approved_by': None, 'archived': False, 'author': 'btwiusearchlinux', 'author_flair_background_color': None, 'author_flair_css_class': None, 'author_flair_richtext': [], 'author_flair_template_id': None, 'author_flair_text': None, 'author_flair_text_color': None, 'author_flair_type': 'text', 'author_fullname': 't2_37bnrdzm', 'author_is_blocked': False, 'author_patreon_flair': False, 'author_premium': False, 'awarders': [], 'banned_at_utc': None, 'banned_by': None, 'can_gild': True, 'can_mod_post': False, 'category': None, 'clicked': False, 'content_categories': None, 'contest_mode': False, 'created': 1640906550.0, 'created_utc': 1640906550.0, 'discussion_type': None, 'distinguished': None, 'domain': 'github.com', 'downs': 0, 'edited': False, 'gilded': 0, 'gildings': {}, 'hidden': False, 'hide_score': True, 'id': 'rsfae9', 'is_created_from_ads_ui': False, 'is_crosspostable': True, 'is_meta': False, 'is_original_content': False, 'is_reddit_media_domain': False, 'is_robot_indexable': True, 'is_self': False, 'is_video': False, 'likes': None, 'link_flair_background_color': '', 'link_flair_css_class': None, 'link_flair_richtext': [], 'link_flair_text': None, 'link_flair_text_color': 'dark', 'link_flair_type': 'text', 'locked': False, 'media': None, 'media_embed': {}, 'media_only': False, 'mod_note': None, 'mod_reason_by': None, 'mod_reason_title': None, 'mod_reports': [], 'name': 't3_rsfae9', 'no_follow': True, 'num_comments': 0, 'num_crossposts': 1, 'num_reports': None, 'over_18': False, 'parent_whitelist_status': 'all_ads', 'permalink': '/r/hammerspoon/comments/rsfae9/paperwmspoon_tiling_scrollable_window_manager/', 'pinned': False, 'post_hint': 'link', 'preview': {'enabled': False, 'images': [{'id': 'mQT7hG0XxhOMdBklxwg-5j7wjE3LSs9Kq8wszPTq2kM', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f37202d5ac3a64502d4537c4ee8cc02201ecf503', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0a2ba47b6375fdf8084821e005f02bee0b1c99b9', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=05f73c2372b85e00120e20bfdf8d96233eb3bfd2', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de61804dbfc41267d22601a6536ab924b970bd14', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1cbe8e8e36fed39f07c1adbafbb3bf803f115bd5', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7def1f9d078b596cf6a221685d45b1fee0213801', 'width': 1080}], 'source': {'height': 640, 'url': 'https://external-preview.redd.it/NtwjDgGLSeLWEOuARXN_1zQKoKYeCxCynrGHFqWHQMg.jpg?auto=webp&amp;s=a546efbc64ae638bd937357d8e5b43485f30a310', 'width': 1280}, 'variants': {}}]}, 'pwls': 6, 'quarantine': False, 'removal_reason': None, 'removed_by': None, 'removed_by_category': None, 'report_reasons': None, 'saved': False, 'score': 1, 'secure_media': None, 'secure_media_embed': {}, 'selftext': '', 'selftext_html': None, 'send_replies': True, 'spoiler': False, 'stickied': False, 'subreddit': 'hammerspoon', 'subreddit_id': 't5_3fi5h', 'subreddit_name_prefixed': 'r/hammerspoon', 'subreddit_subscribers': 553, 'subreddit_type': 'public', 'suggested_sort': None, 'thumbnail': 'default', 'thumbnail_height': 70, 'thumbnail_width': 140, 'title': 'PaperWM.spoon tiling scrollable window manager', 'top_awarded_type': None, 'total_awards_received': 0, 'treatment_tags': [], 'ups': 1, 'upvote_ratio': 1.0, 'url': 'https://github.com/mogenson/PaperWM.spoon', 'url_overridden_by_dest': 'https://github.com/mogenson/PaperWM.spoon', 'user_reports': [], 'view_count': None, 'visited': False, 'whitelist_status': 'all_ads', 'wls': 6}]",,,,,,,,,
+56.0,[],False,delta-samurai,,[],,text,t2_a73i4v0g,False,False,False,[],False,False,1640883758,self.lua,https://www.reddit.com/r/lua/comments/rs6hou/best_way_to_find_a_given_value_in_a_table/,{},rs6hou,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rs6hou/best_way_to_find_a_given_value_in_a_table/,False,,,6,1640883769,1,"Lets say I have a table {""apple"",""banana"",""cherry""}
+
+And I'd like to find which position in the table ""banana"" is, what would be the best way to go about this?
+
+My naive approach would be to loop over the table using a for i,v in pairs and then when v matched with my search term, return the index.",True,False,False,lua,t5_2qjla,14031,public,self,,,Best way to find a given value in a table?,0,[],1.0,https://www.reddit.com/r/lua/comments/rs6hou/best_way_to_find_a_given_value_in_a_table/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+57.0,[],False,Dragon20C,,[],,text,t2_52czm0yn,False,False,False,[],False,False,1640882279,self.lua,https://www.reddit.com/r/lua/comments/rs5xg3/what_would_you_do_different_on_my_code_of_tic_tac/,{},rs5xg3,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rs5xg3/what_would_you_do_different_on_my_code_of_tic_tac/,False,,,6,1640882289,1,"Hello everyone, I made a tic tac toe game, I come from python I coded in my early programming days and now I have tried using lua to make a tic tac toe game, I want to know how to make my code use more of luas features, at this point this can be made in almost all languages there is.
+
+&amp;#x200B;
+
+    local board_data = {top_L= "" "", top_M = "" "", top_R= "" "", mid_L= "" "", mid_M= "" "", mid_R= "" "", low_L= "" "", low_M= "" "",
+low_R= "" ""}
+
+local function _draw_board() -- Draws the games table
+ print(
+ board_data[""top_L""]..""┃""..board_data[""top_M""]..""┃""..board_data[""top_R""]..""\n""..
+ ""------\n""..
+ board_data[""mid_L""]..""┃""..board_data[""mid_M""]..""┃""..board_data[""mid_R""]..""\n""..
+ ""------\n""..
+ board_data[""low_L""]..""┃""..board_data[""low_M""]..""┃""..board_data[""low_R""]..""\n""
+    )   
+end
+
+local function _check_if_position_exists_and_is_empty(_input) -- Checks if the user has entered a valid position and that it is empty
+ for key,value in pairs(board_data) do
+ if key == _input and value == "" "" then
+ return true
+ end
+ end
+end
+
+local function _check_win_condition(current_turn) --Checks if the current player has won
+ local location = {""top"",""mid"",""low""}
+ local position = {""_L"",""_M"",""_R""}
+ for i = 1, 3 do
+ if board_data[location[i]..position[1]] == current_turn and board_data[location[i]..position[2]] == current_turn and board_data[location[i]..position[3]] == current_turn then
+ return true
+ elseif board_data[location[1]..position[i]] == current_turn and board_data[location[2]..position[i]] == current_turn and board_data[location[3]..position[i]] == current_turn then
+ return true
+ elseif board_data[location[1]..position[1]] == current_turn and board_data[location[2]..position[2]] == current_turn and board_data[location[3]..position[3]] == current_turn then
+ return true
+ elseif board_data[location[3]..position[1]] == current_turn and board_data[location[2]..position[2]] == current_turn and board_data[location[1]..position[3]] == current_turn then
+ return true
+ end
+ end
+end
+
+local function _game() --The main loop of the game
+ local current_turn = ""X"" -- it holds two states X or O
+ print(""Please select a position from the board, to access the top row, type top_position position being L, M , R e.g top_L \n"")
+ _draw_board()
+ while true do
+ print(""Player "" ..current_turn.. "" is selected!"")
+ local Input = io.read()
+ if _check_if_position_exists_and_is_empty(Input) then
+ board_data[Input] = current_turn
+ _draw_board()
+ if _check_win_condition(current_turn) then
+ print(""Player ""..current_turn .. "" Has won this game!"")
+ break
+ end
+ if current_turn == ""X"" then -- Switch to the other player
+ current_turn = ""O""
+ elseif current_turn == ""O"" then
+ current_turn = ""X""
+ end
+ 
+ else
+ print(""\nThat wasnt a command in the table or the slot wasnt empty!, example top_L, mid_R, low_M \n"")
+ end
+ end
+end
+
+_game()",True,False,False,lua,t5_2qjla,14031,public,self,,,What would you do different on my code of tic tac toe?,0,[],1.0,https://www.reddit.com/r/lua/comments/rs5xg3/what_would_you_do_different_on_my_code_of_tic_tac/,,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,
+58.0,[],False,Savings_Extent,,[],,text,t2_6lijxkvs,False,False,False,[],False,False,1640850344,self.lua,https://www.reddit.com/r/lua/comments/rrw1yx/simple_oop_classes_with_inheritance_14_lines_of/,{},rrw1yx,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rrw1yx/simple_oop_classes_with_inheritance_14_lines_of/,False,,,6,1640850354,1,"check it out in action  http://tpcg.io/ZD8ENK
+
+So I'm brand new to lua. I'm learning it for Computercraft (minecraft mod).
+
+I was looking for a way to create classes with class inheritance. I came up with this approach.
+
+Was wondering if anyone else has attempted this and what your thoughts were on the subject
+
+class implementation
+
+    class = function(newClass,parentClass)
+        local tmp = {}
+        newClass.__index = newClass
+        tmp.__index = tmp
+        setmetatable(tmp,newClass)
+        tmp.new = function(...)
+            local instance = {}
+            if parentClass ~=nil then instance.super = parentClass.constructor; end
+            setmetatable(instance,tmp)
+            instance:constructor(...)
+            return instance
+        end
+        return tmp
+    end
+
+creating a class
+
+    Animal = class({
+        name = ""Animal"";
+        age = 0;
+        constructor = function(self,species,name,age)
+            self.species = species
+            self.name = name
+            self.age = age
+        end;
+        speak = function(self)
+            print(""Hi I'm "" .. self.name)
+        end;
+        getAge = function(self)
+            return self.age
+        end;
+        getSpecies = function(self)
+            return self.species
+        end;
+    })
+
+creating an instance
+
+    omeba = Animal.new(""Omeba"",""meebs"",1)
+    omeba:speak()
+    output&gt;Hi I'm meebs
+
+extending a class
+
+    Dog = class({
+        constructor = function(self,name,age)
+            self:super(""K9"",name,age)
+        end;
+        speak = function(self)
+            print(""Ruff Ruff I'm"" .. self.name)
+        end;
+    },Animal)
+    
+    doggy = Dog.new(""buddy"",12)
+    doggy:speak()
+    output&gt;Ruff Ruff I'mbuddy",True,False,False,lua,t5_2qjla,14023,public,self,,,Simple OOP Classes with inheritance 14 lines of code,0,[],1.0,https://www.reddit.com/r/lua/comments/rrw1yx/simple_oop_classes_with_inheritance_14_lines_of/,,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,
+59.0,[],False,mblack42069,,[],,text,t2_60xp3pc5,False,False,False,[],False,False,1640817681,self.lua,https://www.reddit.com/r/lua/comments/rrkzuf/i_would_like_to_learn_lua_to_code_on_roblox_but_i/,{},rrkzuf,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/rrkzuf/i_would_like_to_learn_lua_to_code_on_roblox_but_i/,False,,,6,1640817692,1,,True,False,False,lua,t5_2qjla,14023,public,self,,,"I would like to learn lua to code on roblox, but i have absolutely no coding experience whatsoever. What recommended videos/websites are there for me to learn?",0,[],1.0,https://www.reddit.com/r/lua/comments/rrkzuf/i_would_like_to_learn_lua_to_code_on_roblox_but_i/,,all_ads,6,,,,,,,,,,,,,,,,
+60.0,[],False,veryniceperson123,,[],,text,t2_121ovcbf,False,False,False,[],False,False,1640780983,self.lua,https://www.reddit.com/r/lua/comments/rr74eb/idiomatic_way_to_differentiate_an_ordered_table/,{},rr74eb,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rr74eb/idiomatic_way_to_differentiate_an_ordered_table/,False,,,6,1640780994,1,,True,False,False,lua,t5_2qjla,14020,public,self,,,Idiomatic way to differentiate an ordered table from an unordered one?,0,[],1.0,https://www.reddit.com/r/lua/comments/rr74eb/idiomatic_way_to_differentiate_an_ordered_table/,,all_ads,6,,,,,,,,,,,,,,,,
+61.0,[],False,JayPlay71,,[],,text,t2_3vh2j9m5,False,False,False,[],False,False,1640717207,self.lua,https://www.reddit.com/r/lua/comments/rqmn5l/state_machine_not_updating_properly/,{},rqmn5l,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rqmn5l/state_machine_not_updating_properly/,False,self,"{'enabled': False, 'images': [{'id': 'UbdbpuHuVKKmFU2CF4wgOYdBjQ6csppDRdVG6zbaMdE', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=22bc80ddfbdef077407b758f558cc97b4c648b9c', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=33e869274fb25219a18347cbad0da1225b786f3f', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b5d2ae61280581946524891e6332f6d878d01213', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fefbf40a734f031a7e0db042ae69a7e334389ad', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f03321296b0e41c129604231abec457e0f57de2b', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0365bcd3a71ae0d86887cc4836f35ae619c86650', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/E_STLxHQG4MELVvAzYUfaEr5h7XtFApdjawEe-lpBr4.jpg?auto=webp&amp;s=ce557361caabbfa9c42a92aca9714d9ab49bdeb1', 'width': 1200}, 'variants': {}}]}",6,1640717217,1,"We made a game and are using a state machines, which flows from the Title Screen State, Player1SelectState, Player2SelectState, PlayState, GameOver State. The problem is during the Playstate, the characters are set to our last character option no matter what we pick, and the PlayState is only on screen for about a second. The condition for the state to change are if the health of any of the players are below zero, and none of the should below 0 at this point. Also, even if I hardcode specific values for the character class instead of having it dependent on the user picking them, it still sets everything to our last character. I included the github link below. I'm using love as the compiler.  
+
+
+[https://github.com/JayPlay71/Medieval-Mayhem](https://github.com/JayPlay71/Medieval-Mayhem)",True,False,False,lua,t5_2qjla,14014,public,self,,,State Machine not updating properly,0,[],1.0,https://www.reddit.com/r/lua/comments/rqmn5l/state_machine_not_updating_properly/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+62.0,[],False,eatonphil,,[],,text,t2_knt9w,False,False,False,[],False,False,1640700360,notes.eatonphil.com,https://www.reddit.com/r/lua/comments/rqgmpg/writing_a_minimal_lua_implementation_with_a/,{},rqgmpg,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rqgmpg/writing_a_minimal_lua_implementation_with_a/,False,,,6,1640700370,1,,True,False,False,lua,t5_2qjla,14012,public,default,,,Writing a minimal Lua implementation with a virtual machine from scratch in Rust,0,[],1.0,https://notes.eatonphil.com/lua-in-rust.html,https://notes.eatonphil.com/lua-in-rust.html,all_ads,6,,,,,,,,,,,,,,,,
+63.0,[],False,binaryfor,,[],,text,t2_kj0nv,False,False,False,[],False,False,1640629069,github.com,https://www.reddit.com/r/lua/comments/rptkk2/lua_in_erlang/,{},rptkk2,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rptkk2/lua_in_erlang/,False,link,"{'enabled': False, 'images': [{'id': 'nSFaI46Qx3b5zWATeLwJ2J6oavtQFwGMen0LKe8p3kM', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=7f7ecb641d01c39cc961630bcccbcce6cfdc605b', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b7075b727fa72790840c2da0abbb2f40c5896f74', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4c90304293ea3f01ac588f89ded65bde7de7a503', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e21ce1a7d1e19e41d8d2d3e3d10a3abbb60b958', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=ba2267b360342780a98461fb7a9876af9b19e4ca', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a13fc1a44d5e7e2efef926159a572a0ddb2a0e40', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/7H73n0JZrE-xS3_nj0PkfjMdCvRJIHlvqgCW7Wph5oo.jpg?auto=webp&amp;s=2950fab07fec96570bdabaf18ea9b22352cdd01e', 'width': 1200}, 'variants': {}}]}",6,1640629079,1,,True,False,False,lua,t5_2qjla,13999,public,default,70.0,140.0,Lua in Erlang,0,[],1.0,https://github.com/rvirding/luerl,https://github.com/rvirding/luerl,all_ads,6,,,,,,,,,,,,,,,,
+64.0,[],False,nemotheelephant,,[],,text,t2_9tc2njtb,False,False,False,[],False,False,1640590159,self.lua,https://www.reddit.com/r/lua/comments/rphumh/where_did_you_learn_lua/,{},rphumh,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,1,0,False,all_ads,/r/lua/comments/rphumh/where_did_you_learn_lua/,False,,,6,1640590170,1,"I've play gmod for a long time and have always struggled to find resources to learn lua, what did y'all use to learn?",True,False,False,lua,t5_2qjla,14000,public,self,,,Where did you learn lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/rphumh/where_did_you_learn_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+65.0,[],False,binaryfor,,[],,text,t2_kj0nv,False,False,False,[],False,False,1640565406,github.com,https://www.reddit.com/r/lua/comments/rpa51r/run_wrk_in_clusters_and_have_stats/,{},rpa51r,False,True,False,False,False,True,False,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/rpa51r/run_wrk_in_clusters_and_have_stats/,False,link,"{'enabled': False, 'images': [{'id': 'mIMCAOTvG-RUq_xeDgNaM-7xbwGb6-w3k4bo0Y_c3Uw', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6df61aad981a2623cb2d6688f777cb50809e50d7', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=522a9449750bd6825a90d53157401606a72b0f6d', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c4afff4a12c4189432f99defacf03a7490a7d2bb', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac8e8726e0044704e44cba4ea30172d3d825a7f5', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=53853d469a144665e7e777d6c4bf7f5d3bf9441a', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=88cf86250de3bda9d1cd3a8220599cb1fd654e37', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/4JW3H_FV-txLGiwZ3Yd5csTHAjYogYRM1qvwPXYt8wY.jpg?auto=webp&amp;s=3c72b37a0f3ce90e85c57cf8051f7a541b355915', 'width': 1200}, 'variants': {}}]}",6,1640565417,1,,True,False,False,lua,t5_2qjla,14001,public,default,70.0,140.0,run wrk in clusters and have stats,0,[],1.0,https://github.com/anio/wrk-utils,https://github.com/anio/wrk-utils,all_ads,6,,,,,,,,,,,,,,,,
+66.0,[],False,PlatinumWatch1623,,[],,text,t2_5z2cvjk6,False,False,False,[],False,False,1640550275,self.lua,https://www.reddit.com/r/lua/comments/rp4y7f/love2dattempt_to_perform_arithmetic_on_local_x1_a/,{},rp4y7f,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,1,0,False,all_ads,/r/lua/comments/rp4y7f/love2dattempt_to_perform_arithmetic_on_local_x1_a/,False,,,6,1640550286,1,"I'm making a game of connect in love2d(I don't know if I should post this to /r/love2d)
+
+I'm trying to get a specific rectangle to rotate 90 degrees when you left click on it,
+
+for this I make a function for distance to tell if the mouse pointer is close enough to a certain circle(switch1) when you click on it, and then call it in the love.update() function.
+
+the relevant code:
+
+    function love.update(dt)
+        local mousex = love.mouse.getX
+        local mousey = love.mouse.getY
+        local mouseToSwitch = distance(mousex, mousey, switch1x, switch1y)
+        if mouseToSwitch &lt; 50 and love.mouse.isDown(1) then
+            rec1dir = rec1dir + 90
+        end
+    end
+    function distance(x1, y1, x2, y2)
+        return math.sqrt( (x2 - x1)^2 + (y2 - y1)^2 )
+    end
+
+I run the game, and when I click anywhere inside the window I get this error:
+
+Error
+
+&amp;#x200B;
+
+main.lua:52: attempt to perform arithmetic on local 'x1' (a function value)
+
+Traceback
+
+main.lua:52: in function 'distance'
+
+main.lua:20: in function 'update'
+
+\[C\]: in function 'xpcall'
+
+&amp;#x200B;
+
+\*\*the line 52 mentioned in the error is line 10 in the code written above, and line 20 is line 4\*\*",True,False,False,lua,t5_2qjla,13999,public,self,,,(Love2d)Attempt to perform arithmetic on local 'x1' (a function value),0,[],1.0,https://www.reddit.com/r/lua/comments/rp4y7f/love2dattempt_to_perform_arithmetic_on_local_x1_a/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+67.0,[],False,gaspeeee,,[],,text,t2_cfcp45q,False,False,False,[],False,False,1640392885,self.lua,https://www.reddit.com/r/lua/comments/rnyq7w/weird_variables_i_need_help/,{},rnyq7w,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rnyq7w/weird_variables_i_need_help/,False,,,6,1640392896,1,"so when i run this code (the createlist function), i create 5 instances of the class testobject. The variable var1 should be different with each one of them, but its always the last number in the array.
+
+[the code](https://preview.redd.it/29sjm3344l781.png?width=411&amp;format=png&amp;auto=webp&amp;s=8cea338ae57cbb3048bfada225ce4946cfea4d28)
+
+&amp;#x200B;
+
+[the result, the 12345 numbers are the counter c, the 5 numbers are the i.var1, you can see that i print them at the end of the function](https://preview.redd.it/hrlh1cb54l781.png?width=87&amp;format=png&amp;auto=webp&amp;s=c05721d5436a4328f68dcf073e7dacdb06ba638c)
+
+i have no idea why the numbers get changed from what they are supposed to be to the last one. why are they all 5?",True,False,False,lua,t5_2qjla,13989,public,self,140.0,140.0,weird variables i need help,0,[],1.0,https://www.reddit.com/r/lua/comments/rnyq7w/weird_variables_i_need_help/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,"{'29sjm3344l781': {'e': 'Image', 'id': '29sjm3344l781', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/29sjm3344l781.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=482b82af9e636494c518f8ee30eaf7d5fe715e36', 'x': 108, 'y': 139}, {'u': 'https://preview.redd.it/29sjm3344l781.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8d4c670f6d07f9aa4c2f4db0c0c87781d5a512c0', 'x': 216, 'y': 279}, {'u': 'https://preview.redd.it/29sjm3344l781.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9e69eaca2fbbe295efc5f9218d956097f66cc0c9', 'x': 320, 'y': 414}], 's': {'u': 'https://preview.redd.it/29sjm3344l781.png?width=411&amp;format=png&amp;auto=webp&amp;s=8cea338ae57cbb3048bfada225ce4946cfea4d28', 'x': 411, 'y': 532}, 'status': 'valid'}, 'hrlh1cb54l781': {'e': 'Image', 'id': 'hrlh1cb54l781', 'm': 'image/png', 'p': [], 's': {'u': 'https://preview.redd.it/hrlh1cb54l781.png?width=87&amp;format=png&amp;auto=webp&amp;s=c05721d5436a4328f68dcf073e7dacdb06ba638c', 'x': 87, 'y': 114}, 'status': 'valid'}}",,,,,,,,,,,,,
+68.0,[],False,Many_Prize_450,,[],,text,t2_bf3zew7v,False,False,False,[],False,False,1640373598,self.lua,https://www.reddit.com/r/lua/comments/rnswkw/new_to_coding_i_use_visual_studio_code_when_i_try/,{},rnswkw,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/rnswkw/new_to_coding_i_use_visual_studio_code_when_i_try/,False,,,6,1640373609,1,"lua53 : The term 'lua53' is not recognized as the name of a cmdlet, function, script file, or 
+
+operable program. Check the spelling of the name, or if a path was included, verify that the     
+
+path is correct and try again.
+
+At line:1 char:1
+
+\+ lua53
+
+\+ \~\~\~\~\~
+
+\+ CategoryInfo          : ObjectNotFound: (lua53:String) \[\], CommandNotFoundException        
+
+\+ FullyQualifiedErrorId : CommandNotFoundException",True,False,False,lua,t5_2qjla,13988,public,self,,,"New to coding, i use visual studio code, when i try to execute this comes up, any help?",0,[],1.0,https://www.reddit.com/r/lua/comments/rnswkw/new_to_coding_i_use_visual_studio_code_when_i_try/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+69.0,[],False,gender_nihilism,,[],,text,t2_17b9ys,False,False,False,[],False,False,1640316745,self.lua,https://www.reddit.com/r/lua/comments/rncykh/how_would_i_go_about_having_an_array_for_every/,{},rncykh,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rncykh/how_would_i_go_about_having_an_array_for_every/,False,,,6,1640316755,1,"Hello.  I'm currently working on a little side project, and despite a lot of experience writing some pretty big programs, I have no idea how to do this.
+
+So, I have these two fighters, that are supposed to have six stats each.
+
+I want to store the amount of fighters in an array so I can dynamically resize it, because this is a kind of tournament simulation thingy.  But I also want to be able to have stats in an array for every character.  
+
+So like
+
+ `stats = {""str"", ""end"", ""con"", ""dex"", ""pwr"", ""spd""}`
+
+`fighters={""A"", ""B""}`
+
+and then apply a stats array like is shown above (but with numbers instead of the placeholder text) to every member of the fighter array.  I'd like to do this without needing file i/o, because I don't want a file for every fighter, I'd like to dynamically resize how many fighters there are and generate a slate of stats on the fly.  I am not using an API here, I don't think I'll ever make this a real game, I just wanted to give some kind of ""game"" development a shot, as a hobby.",True,False,False,lua,t5_2qjla,13989,public,self,,,how would I go about having an array for every item in an array?,0,[],1.0,https://www.reddit.com/r/lua/comments/rncykh/how_would_i_go_about_having_an_array_for_every/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+70.0,[],False,STEIN197,,[],,text,t2_4bk7pqhq,False,False,False,[],False,False,1640283749,self.lua,https://www.reddit.com/r/lua/comments/rn1utx/pairs_and_ipairs_metamethods_does_not_work_at_all/,{},rn1utx,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rn1utx/pairs_and_ipairs_metamethods_does_not_work_at_all/,False,,,6,1640283759,1,"I don't know what I do wrong. Basically the code looks like this:
+
+    local t = setmetatable({}, {__pairs = function (self)
+    print ""Message from __pairs()""
+        return function ()
+            ...
+        end
+end})
+for k, v in pairs(t) do
+    ...
+end
+
+The same for \_\_ipairs(). Overloaded metamethods aren't called at all - no console output, no custom iteration at all. Instead I get the result as if I iterate through a table without metatable. What's wrong?",True,False,False,lua,t5_2qjla,13984,public,self,,,__pairs() and __ipairs() metamethods does not work at all,0,[],1.0,https://www.reddit.com/r/lua/comments/rn1utx/pairs_and_ipairs_metamethods_does_not_work_at_all/,,all_ads,6,,,,,,,,,,,,,,,,
+71.0,[],False,blenls,,[],,text,t2_2rbkuq9v,False,False,False,[],False,False,1640194280,self.lua,https://www.reddit.com/r/lua/comments/rma6vs/where_can_i_start_learning_lua_for_free/,{},rma6vs,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rma6vs/where_can_i_start_learning_lua_for_free/,False,,,6,1640194291,1,,True,False,False,lua,t5_2qjla,13972,public,self,,,Where can i start learning Lua for free?,0,[],1.0,https://www.reddit.com/r/lua/comments/rma6vs/where_can_i_start_learning_lua_for_free/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+72.0,[],False,dunrix,,[],,text,t2_izdve,False,False,False,[],False,False,1640145061,self.lua,https://www.reddit.com/r/lua/comments/rlw9p4/module_paths_and_luarock_development_struggle/,{},rlw9p4,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,0,0,False,all_ads,/r/lua/comments/rlw9p4/module_paths_and_luarock_development_struggle/,False,,,6,1640145072,1,"As far as I know, Lua does not support relative imports. Functions like `require` or `dofile` resolve paths related to the *current working directory*, not to the actual position of a file from which they are invoked.
+
+`require` in addition resolves paths for installed modules by traversing `package.path` patterns.
+
+Now this begs the question, how to properly combine above described importing mechanism with local development of a Lua project, including some unit testing, locations for data files etc.
+
+For example, when working on a simple LuaRock project with a standard layout:
+
+    myproject
+      |-- myproject-0.0.1-1.rockspec
+      +-- tests
+      |      |-- unit_test.lua
+      +-- src
+              +-- bin
+               |      |-- myproject.lua
+               +-- models
+               |        |-- foo.lua
+               |        |-- bar.lua
+               |-- utils.lua
+
+ - how require `src/models/foo` from `tests/unit_test.lua` ?
+ - how require `src/models/bar` from `src/utils.lua` ?
+ - how execute `src/bin/myproject.lua` which imports `src/utils` ?
+
+I'd like to emphasize it should work from within a project tree *before* rock being installed globally or localy.",True,False,False,lua,t5_2qjla,13970,public,self,,,Module paths and Luarock development struggle,0,[],1.0,https://www.reddit.com/r/lua/comments/rlw9p4/module_paths_and_luarock_development_struggle/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+73.0,[],False,Nash8565,,[],,text,t2_awahfmjo,False,False,False,[],False,False,1639980214,self.lua,https://www.reddit.com/r/lua/comments/rkg8o9/background_colour_problem/,{},rkg8o9,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rkg8o9/background_colour_problem/,False,,,6,1639980225,1,"Does anyone know the code to set a background colour in Lua, I’m still new, can somebody tell me the code?",True,False,False,lua,t5_2qjla,13957,public,self,,,Background colour problem,0,[],1.0,https://www.reddit.com/r/lua/comments/rkg8o9/background_colour_problem/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+74.0,[],False,jaggerbust,,[],,text,t2_4skr11j4,False,False,False,[],False,False,1639889895,self.lua,https://www.reddit.com/r/lua/comments/rjpb4u/lua_and_asian_lao_font/,{},rjpb4u,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rjpb4u/lua_and_asian_lao_font/,False,,,6,1639889906,1,"Hi, does someone has experience with Asian fonts - how to show properly in Lua? 
+
+In the code I am working with it uses the MOAI SDK (for mobile) to call the Lua code. There are three places to work on the font: 
+
+1. Style:  set the font 
+
+function SetGlobalStyles()  
+ local mainFont = NewFont('assets/arial.ttf', 36)   
+ local mainFontLarge = NewFont('assets/planet.ttf', 56)  
+ local mainFontSmall = NewFont('assets/planet.ttf', 24)  
+ local mainFontTiny = NewFont('assets/planet.ttf', 18)  
+ local tickerFont = NewFont('assets/led.ttf', 32)  
+\-- PhetsarathOT  
+\-- Says2kl
+
+2. text 
+
+function NewFont(ttf, size)  
+ local charcodes = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789ຢຟໂຖຸູຄຕຈຂຊໍົໄຳພະິີຮນຍບລັຫກດເ້່າສວງຜປແອຶືທມໃຝໍ່ຫຼ-ຽໜຣີ້ິ້\*0ົ້ັ້;.,:໊໋!?%=(ຯxຶ້ື້ໆໝ$) .,:;!?()&amp;/-$%\*©\\ຕຜົນໄດ້ຮັບປະຈໍາເດືອນ""'  
+ local font = MOAIFont.new()  
+  font:loadFromTTF(ttf, charcodes, size)  
+ return font  
+ 
+
+3. the text itself I want to show 
+
+ local panel1 = NewGroup(panel1Pos\[1\].x, panel1Pos\[1\].y)  
+ local panel1Panel       = NewSprite(screen, ""mainmenu\_panel2"", sheet, 0, 0, panel1)  
+ local monthlyResText = NewText(screen, utf8(0x24)..""MONຫTHLY "" , whiteMainStyle, 20, 250, 400, 50, panel1)
+
+Issue: the Lao font is shown as a box 
+
+[screenshot ](https://preview.redd.it/13zv6o7fkf681.jpg?width=512&amp;format=pjpg&amp;auto=webp&amp;s=85545dfe27ffaa2be4f8770616f554f280e751b1)
+
+I changed the ttf language back and forth, I tried unicode of that language, however it is just shown as box, but not as the Asian character (in that case: ຫ ) . Any  ideas? 
+
+I use the old MOAI framework - Is it an issue of MOAI or is it an issue of Lua?   
+How can I enforce the latest Lua version to be used in the code? 
+
+Cheers",True,False,False,lua,t5_2qjla,13951,public,self,28.0,140.0,Lua and Asian (Lao) Font,0,[],1.0,https://www.reddit.com/r/lua/comments/rjpb4u/lua_and_asian_lao_font/,,all_ads,6,,,"{'13zv6o7fkf681': {'e': 'Image', 'id': '13zv6o7fkf681', 'm': 'image/jpg', 'p': [{'u': 'https://preview.redd.it/13zv6o7fkf681.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c58081ee8b9fcf4cb929fd1a5962d4422ed448ef', 'x': 108, 'y': 22}, {'u': 'https://preview.redd.it/13zv6o7fkf681.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3ea35f55f7c61068d1e2a97df2c381915f5d9d63', 'x': 216, 'y': 44}, {'u': 'https://preview.redd.it/13zv6o7fkf681.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=754653e12d440504a9c25cd98fa68f3df2ef9fab', 'x': 320, 'y': 66}], 's': {'u': 'https://preview.redd.it/13zv6o7fkf681.jpg?width=512&amp;format=pjpg&amp;auto=webp&amp;s=85545dfe27ffaa2be4f8770616f554f280e751b1', 'x': 512, 'y': 106}, 'status': 'valid'}}",,,,,,,,,,,,,
+75.0,[],False,bisixyf,,[],,text,t2_4exh37c7,False,False,False,[],False,False,1639873922,youtu.be,https://www.reddit.com/r/lua/comments/rjkl93/compile_c_to_lua_for_c20_fast_io_library_through/,{},rjkl93,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rjkl93/compile_c_to_lua_for_c20_fast_io_library_through/,False,rich:video,"{'enabled': False, 'images': [{'id': 'lOaB4MMXmKrIrd7DQYNtVjNur_pg-FD4aBFxoX-0qrI', 'resolutions': [{'height': 81, 'url': 'https://external-preview.redd.it/OqOIgiV2XlqXJYxVwA6UNihuelne_Nix6ZrY9NrSZ_k.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=da94b93f12de78a13ec412226685155ba14fa291', 'width': 108}, {'height': 162, 'url': 'https://external-preview.redd.it/OqOIgiV2XlqXJYxVwA6UNihuelne_Nix6ZrY9NrSZ_k.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=191ae776d9623c10d6a3d6165a009f1e4755f18f', 'width': 216}, {'height': 240, 'url': 'https://external-preview.redd.it/OqOIgiV2XlqXJYxVwA6UNihuelne_Nix6ZrY9NrSZ_k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=93dda6ec47809e97bc1bdede81f1fc10a137f637', 'width': 320}], 'source': {'height': 360, 'url': 'https://external-preview.redd.it/OqOIgiV2XlqXJYxVwA6UNihuelne_Nix6ZrY9NrSZ_k.jpg?auto=webp&amp;s=c44307b1b5400fbf6c36c0d1bd5fa9e7f5692fcd', 'width': 480}, 'variants': {}}]}",6,1639873933,1,,True,False,False,lua,t5_2qjla,13950,public,image,105.0,140.0,Compile C++ to lua for C++20 fast_io library through wasm2lua,0,[],1.0,https://youtu.be/_1Dob0kb8pw,https://youtu.be/_1Dob0kb8pw,all_ads,6,,,,,,,,"{'oembed': {'author_name': 'coshvji cujmlqef', 'author_url': 'https://www.youtube.com/channel/UCK6BDNv3oj-6toRNCtHHibA', 'height': 200, 'html': '&lt;iframe width=""356"" height=""200"" src=""https://www.youtube.com/embed/_1Dob0kb8pw?feature=oembed&amp;enablejsapi=1"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen&gt;&lt;/iframe&gt;', 'provider_name': 'YouTube', 'provider_url': 'https://www.youtube.com/', 'thumbnail_height': 360, 'thumbnail_url': 'https://i.ytimg.com/vi/_1Dob0kb8pw/hqdefault.jpg', 'thumbnail_width': 480, 'title': 'Compile C++ to lua for C++20 fast_io library through wasm2lua', 'type': 'video', 'version': '1.0', 'width': 356}, 'type': 'youtube.com'}","{'content': '&lt;iframe width=""356"" height=""200"" src=""https://www.youtube.com/embed/_1Dob0kb8pw?feature=oembed&amp;enablejsapi=1"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen&gt;&lt;/iframe&gt;', 'height': 200, 'scrolling': False, 'width': 356}","{'oembed': {'author_name': 'coshvji cujmlqef', 'author_url': 'https://www.youtube.com/channel/UCK6BDNv3oj-6toRNCtHHibA', 'height': 200, 'html': '&lt;iframe width=""356"" height=""200"" src=""https://www.youtube.com/embed/_1Dob0kb8pw?feature=oembed&amp;enablejsapi=1"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen&gt;&lt;/iframe&gt;', 'provider_name': 'YouTube', 'provider_url': 'https://www.youtube.com/', 'thumbnail_height': 360, 'thumbnail_url': 'https://i.ytimg.com/vi/_1Dob0kb8pw/hqdefault.jpg', 'thumbnail_width': 480, 'title': 'Compile C++ to lua for C++20 fast_io library through wasm2lua', 'type': 'video', 'version': '1.0', 'width': 356}, 'type': 'youtube.com'}","{'content': '&lt;iframe width=""356"" height=""200"" src=""https://www.youtube.com/embed/_1Dob0kb8pw?feature=oembed&amp;enablejsapi=1"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen&gt;&lt;/iframe&gt;', 'height': 200, 'media_domain_url': 'https://www.redditmedia.com/mediaembed/rjkl93', 'scrolling': False, 'width': 356}",,,,,
+76.0,[],False,storylover420,,[],,text,t2_3b8z743z,False,False,False,[],False,False,1639862618,self.lua,https://www.reddit.com/r/lua/comments/rjgyu0/want_to_learn/,{},rjgyu0,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rjgyu0/want_to_learn/,False,,,6,1639862628,1,"So I've decided I want to learn Lua, I'm learning JavaScript at school at the moment and I'm not good at it but I'm decent! So, anyways, do you guys know a good app/website/anything really to start learning Lua? I've been searching but I can't really find anything so I thought this subreddit has to know!",True,False,False,lua,t5_2qjla,13950,public,self,,,Want to learn.,0,[],1.0,https://www.reddit.com/r/lua/comments/rjgyu0/want_to_learn/,,all_ads,6,,,,,,,,,,,,,,,,
+77.0,[],False,BeneficialFee6209,,[],,text,t2_em7opju8,False,False,False,[],False,False,1639833110,self.lua,https://www.reddit.com/r/lua/comments/rj784q/how_to_import_c_functions_in_lua/,{},rj784q,False,False,False,False,False,False,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rj784q/how_to_import_c_functions_in_lua/,False,,,6,1639833121,1,[removed],True,False,False,lua,t5_2qjla,13951,public,self,,,How to import C++ functions in Lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/rj784q/how_to_import_c_functions_in_lua/,,all_ads,6,,,,,,,,,,,,reddit,,,,
+78.0,[],False,WorldlyJackfruit8502,,[],,text,t2_57lvc8u7,False,False,False,[],False,False,1639730719,self.lua,https://www.reddit.com/r/lua/comments/rid514/lua_g_hub_code_help/,{},rid514,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/rid514/lua_g_hub_code_help/,False,,,6,1639730730,1," 
+
+    EnablePrimaryMouseButtonEvents(true);
+    
+    function OnEvent(event, arg)
+        if IsMouseButtonPressed(3) then
+            PressMouseButton(4)
+            Sleep(200)
+            ReleaseMouseButton(4)
+    
+        end
+    end
+
+someone can help me here im using G hub and mouse g502 and what i want to do is when i click my left click it will send my X1 click on my mouse.
+
+for some reason both 4,5 not working with the PressMouseButton the only ones that work are 1,2,3,
+
+tnx.",True,False,False,lua,t5_2qjla,13945,public,self,,,lua G HUB code HELP,0,[],1.0,https://www.reddit.com/r/lua/comments/rid514/lua_g_hub_code_help/,,all_ads,6,,,,,,,,,,,,,,,,
+79.0,[],False,Rice7th,,[],,text,t2_a87hibne,False,False,False,[],False,False,1639609294,self.lua,https://www.reddit.com/r/lua/comments/rhbzbh/noob_here_what_are_the_advantages_of_lua/,{},rhbzbh,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rhbzbh/noob_here_what_are_the_advantages_of_lua/,False,,,6,1639609305,1,"Hi, im a noob here and i just wanted know what are the various advantages of lua, in comparation (for example) to python, javascript, c... (Etc..)
+Thanks.",True,False,False,lua,t5_2qjla,13943,public,self,,,[noob here] What are the advantages of Lua?,0,[],1.0,https://www.reddit.com/r/lua/comments/rhbzbh/noob_here_what_are_the_advantages_of_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+80.0,[],False,SteakUsual,,[],,text,t2_78j19q3a,False,False,False,[],False,False,1639418873,self.lua,https://www.reddit.com/r/lua/comments/rflyxs/can_someone_help_me_fix_an_error/,{},rflyxs,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rflyxs/can_someone_help_me_fix_an_error/,False,,,6,1639418883,1,"Hi, I am new to LUA and its only have been weeks since I've started learning it.\\
+
+I am trying to make a LUA script for a program and I stumbled across an error that i dont know how to fix, can anyone tell me what can i do?  
+
+
+Error: function at line 2096 has more than 60 upvalues--
+
+Code:
+
+    local aa = function()
+        local lp = EntityList:GetLocalPlayer()
+        local bOnGround = bit.band(lp:GetPlayer():GetProp(""m_fFlags""), bit.lshift(1, 0)) ~= 0
+        local Crouch = player:GetProp(""m_flDuckAmount"") &gt; 0.8
+        local invertedAA = AntiAim.GetInverterState()
+        local speed =
+            Vector.new(lp:GetProp(""m_vecVelocity[0]""), lp:GetProp(""m_vecVelocity[1]""), lp:GetProp(""m_vecVelocity[2]"")):Length2D(
+    
+        )
+        local neverloset = antiaimtype:Get() == 1
+        if neverloset then
+            if speed &lt; 3 then
+                inverter:Set(sinv:Get())
+                leftlimit:Set(sleft:Get())
+                rightlimit:Set(sright:Get())
+                fakeopt:Set(sfkopt:Get())
+                lbymode:Set(slby:Get())
+                freestd:Set(sfr:Get())
+                yawmod:Set(symod:Get())
+                yawmoddeg:Set(symoddeg:Get())
+                if (invertedAA) then
+                    yawadd:Set(syadd1:Get())
+                else
+                    yawadd:Set(syadd2:Get())
+                end
+            end
+            if speed &gt; 30 then
+                inverter:Set(winv:Get())
+                leftlimit:Set(wleft:Get())
+                rightlimit:Set(wright:Get())
+                fakeopt:Set(wfkopt:Get())
+                lbymode:Set(wlby:Get())
+                freestd:Set(wfr:Get())
+                yawmod:Set(wymod:Get())
+                yawmoddeg:Set(wymoddeg:Get())
+                if (invertedAA) then
+                    yawadd:Set(wyadd1:Get())
+                else
+                    yawadd:Set(wyadd2:Get())
+                end
+            end
+            if slowwalk:Get() then
+                inverter:Set(swinv:Get())
+                leftlimit:Set(swleft:Get())
+                rightlimit:Set(swright:Get())
+                fakeopt:Set(swfkopt:Get())
+                lbymode:Set(swlby:Get())
+                freestd:Set(swfr:Get())
+                yawmod:Set(swymod:Get())
+                yawmoddeg:Set(swymoddeg:Get())
+                if (invertedAA) then
+                    yawadd:Set(swyadd1:Get())
+                else
+                    yawadd:Set(swyadd2:Get())
+                end
+            end
+            if not bOnGround then
+                inverter:Set(ainv:Get())
+                leftlimit:Set(aleft:Get())
+                rightlimit:Set(aright:Get())
+                fakeopt:Set(afkopt:Get())
+                lbymode:Set(alby:Get())
+                freestd:Set(afr:Get())
+                yawmod:Set(aymod:Get())
+                yawmoddeg:Set(aymoddeg:Get())
+                if (invertedAA) then
+                    yawadd:Set(ayadd1:Get())
+                else
+                    yawadd:Set(ayadd2:Get())
+                end
+            end
+            if Crouch then
+                inverter:Set(cinv:Get())
+                leftlimit:Set(cleft:Get())
+                rightlimit:Set(cright:Get())
+                fakeopt:Set(cfkopt:Get())
+                lbymode:Set(clby:Get())
+                freestd:Set(cfr:Get())
+                yawmod:Set(cymod:Get())
+                yawmoddeg:Set(cymoddeg:Get())
+                if (invertedAA) then
+                    yawadd:Set(cyadd1:Get())
+                else
+                    yawadd:Set(cyadd2:Get())
+                end
+            end
+        end
+    end",True,False,False,lua,t5_2qjla,13923,public,self,,,can someone help me fix an error.,0,[],1.0,https://www.reddit.com/r/lua/comments/rflyxs/can_someone_help_me_fix_an_error/,,all_ads,6,,,,,,,,,,,,,,,,
+81.0,[],False,Tomip2000,,[],,text,t2_13s31r,False,False,False,[],False,False,1639416108,self.lua,https://www.reddit.com/r/lua/comments/rfkuyd/simple_presskey_macro_not_working_on_logitech_g/,{},rfkuyd,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/rfkuyd/simple_presskey_macro_not_working_on_logitech_g/,False,,,6,1639416119,1,"I am trying to make a Logitech GHub script which would press a single key at randomly varying intervals but it says: LOADED
+
+attempt to call a nil value Line Number:1
+
+any idea how to fix this?
+
+here's the script:
+
+PressKey(""g"")
+
+Sleep(math.random(50, 90)) 
+
+ReleaseKey(""g"")
+
+Sleep(math.random(50, 90))",True,False,False,lua,t5_2qjla,13923,public,self,,,Simple presskey macro not working on Logitech G HUB Lua API V2020.11,0,[],1.0,https://www.reddit.com/r/lua/comments/rfkuyd/simple_presskey_macro_not_working_on_logitech_g/,,all_ads,6,,,,,,,,,,,,,,,,
+82.0,[],False,_kiminara,,[],,text,t2_8g4ybwa9,False,False,False,[],False,False,1639363153,redditpagematrics.com,https://www.reddit.com/r/lua/comments/rf50pp/lua_subdirect_statistics/,{},rf50pp,False,True,False,False,False,True,False,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rf50pp/lua_subdirect_statistics/,False,link,"{'enabled': False, 'images': [{'id': '5q1AWqF1Hoi6JTTEm9eZZUBa0fLuAfDKrF8FWZfBT3Y', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/zsn20zo4A3dDF_gXBHDZZ4OjY0LHHksZf6tzgL-3dgM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f99baf7aabebe5a16c339451c44140f199080c5f', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/zsn20zo4A3dDF_gXBHDZZ4OjY0LHHksZf6tzgL-3dgM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d142ac16d77da522297a74390084f18a975746b7', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/zsn20zo4A3dDF_gXBHDZZ4OjY0LHHksZf6tzgL-3dgM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cbab6560cffdbec0c415aa2919a3cb62b4d23c51', 'width': 320}], 'source': {'height': 500, 'url': 'https://external-preview.redd.it/zsn20zo4A3dDF_gXBHDZZ4OjY0LHHksZf6tzgL-3dgM.jpg?auto=webp&amp;s=a299b13cd434f80ae23fad7d61ea2e26a4584858', 'width': 500}, 'variants': {}}]}",6,1639363164,1,,True,False,False,lua,t5_2qjla,13914,public,default,140.0,140.0,/lua Subdirect Statistics,0,[],1.0,https://redditpagematrics.com/r/lua,https://redditpagematrics.com/r/lua,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,
+83.0,[],False,Ocawesome101,,[],,text,t2_35ly8qcg,False,False,False,[],False,False,1639185256,ocawesome101.github.io,https://www.reddit.com/r/lua/comments/rdnwf7/preemptive_threading_coroutines_in_lua_without/,{},rdnwf7,False,True,False,False,False,True,False,False,,[],dark,text,False,False,False,1,0,False,all_ads,/r/lua/comments/rdnwf7/preemptive_threading_coroutines_in_lua_without/,False,,,6,1639185267,1,,True,False,False,lua,t5_2qjla,13893,public,default,,,"Pre-emptive threading (coroutines) in Lua, without the debug library",0,[],1.0,https://ocawesome101.github.io/lua-preemption.html,https://ocawesome101.github.io/lua-preemption.html,all_ads,6,257e3edc-6cb6-11ea-9d3c-0e0d7197b4fb,Project,,,,,,,,,,,,,,
+84.0,[],False,[deleted],,,,,,False,,,[],False,False,1638979552,i.redd.it,https://www.reddit.com/r/lua/comments/rbujpd/this_language_feels_like_a_parody_who_decided_to/,{},rbujpd,False,False,False,False,True,False,False,False,,[],dark,text,False,False,True,18,0,False,all_ads,/r/lua/comments/rbujpd/this_language_feels_like_a_parody_who_decided_to/,False,,,6,1639020886,0,[deleted],True,False,False,lua,t5_2qjla,13889,public,default,45.0,140.0,This language feels like a parody. Who decided to change AND and OR???,0,[],0.25,https://i.redd.it/76o78d63ec481.png,https://i.redd.it/76o78d63ec481.png,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,deleted,,dark,,
+85.0,[],False,ItsMakar,,[],,text,t2_7uo4xrhu,False,False,False,[],False,False,1638978984,self.lua,https://www.reddit.com/r/lua/comments/rbuc8x/i_cant_use_require/,{},rbuc8x,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,8,0,False,all_ads,/r/lua/comments/rbuc8x/i_cant_use_require/,False,,,6,1639020737,0,"in fact i can use it like
+
+require(""modulename"")
+
+test ()
+
+but I want to use it like require (""test"").test()
+
+but when trying to use it like this i get the error
+
+attempt to index a function value line 90
+
+line 90: 
+
+https://preview.redd.it/02ejjz0hcc481.png?width=644&amp;format=png&amp;auto=webp&amp;s=798049a07e764f14108f7a3540b8f938e9e585f7",True,False,False,lua,t5_2qjla,13889,public,self,5.0,140.0,i can't use require,0,[],0.29,https://www.reddit.com/r/lua/comments/rbuc8x/i_cant_use_require/,,all_ads,6,,,"{'02ejjz0hcc481': {'e': 'Image', 'id': '02ejjz0hcc481', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/02ejjz0hcc481.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=44ede3ea21d52cb8d53e032a77bf7a9abc7100da', 'x': 108, 'y': 3}, {'u': 'https://preview.redd.it/02ejjz0hcc481.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d684400894d8a9eec10c697d4f7d77142762f687', 'x': 216, 'y': 7}, {'u': 'https://preview.redd.it/02ejjz0hcc481.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=02b9d86cc8e93e921162f068d85485d0bcd2c2de', 'x': 320, 'y': 11}, {'u': 'https://preview.redd.it/02ejjz0hcc481.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d929d53aabe5fc41a9784100d13caedadb5b545', 'x': 640, 'y': 22}], 's': {'u': 'https://preview.redd.it/02ejjz0hcc481.png?width=644&amp;format=png&amp;auto=webp&amp;s=798049a07e764f14108f7a3540b8f938e9e585f7', 'x': 644, 'y': 23}, 'status': 'valid'}}",,,,,,,,,,,,,
+86.0,[],False,Colebor33,,[],,text,t2_5g2v52z8,False,False,False,[],False,False,1638974403,self.lua,https://www.reddit.com/r/lua/comments/rbsrqx/equivalent_to_1_from_javascript_in_lua/,{},rbsrqx,False,True,False,False,False,True,True,False,,[],dark,text,False,False,False,4,0,False,all_ads,/r/lua/comments/rbsrqx/equivalent_to_1_from_javascript_in_lua/,False,,,6,1639019598,0,,True,False,False,lua,t5_2qjla,13889,public,self,,,Equivalent to *-1 from javascript in lua?,0,[],0.17,https://www.reddit.com/r/lua/comments/rbsrqx/equivalent_to_1_from_javascript_in_lua/,,all_ads,6,,,,,,,,,,,,,,,,
+87.0,[],False,WebShaker93,,[],,text,t2_hajshfuz,False,False,False,[],False,False,1638915504,self.lua,https://www.reddit.com/r/lua/comments/rbb31a/intersection_segment_polygon/,{},rbb31a,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,12,0,False,all_ads,/r/lua/comments/rbb31a/intersection_segment_polygon/,False,,,6,1639007238,0,"This is the fastest code to calculate the intersection between a segment and a polygon i founded. While Lua is quite slow, any improvement is welcome.
+
+Update : This code has been ported from an Internet code and modified to reduce calculations!I am posting here to find out if anyone has a faster algorithm!
+
+    function geom:linePolygonIntersection(frx, fry, tox, toy, shape)
+      local s
+      local sax, say, sbx, sby
+      for s = 1, #shape, 2 do
+        sax = shape[s]
+        say = shape[s + 1]
+        if (s &lt; (#shape - 1)) then
+          sbx = shape[s + 2]
+          sby = shape[s + 3]
+        else
+          sbx = shape[1]
+          sby = shape[2]
+        end
+    
+        local c1, c2, c3
+        local dx1, dy1, dx2, dy2, num, t, u
+       
+        c1 = (toy - fry) * (sax - tox) - (tox - frx) * (say - toy)
+        if c1 &gt;= 0 then
+          c2 = (fry - toy) * (sbx - frx) - (frx - tox) * (sby - fry)
+    -- c1 and c2 both positive, possible intersection
+          if c2 &gt;= 0 then
+            c3 = (sby - say) * (tox - sbx) - (sbx - sax) * (toy - sby)  -- A B T
+    -- probable intersection because (frx, fry) is outside the polygon
+            if c3 &gt;= 0 then
+              dx1 = tox - frx
+              dy1 = toy - fry
+              dx2 = sbx - sax
+              dy2 = sby - say
+    
+              num = 1 / (-dx2 * dy1 + dx1 * dy2)
+              t = ( dx2 * (fry - say) - dy2 * (frx - sax)) * num;
+              if (t &gt; 0) then
+                x = frx + (t * dx1)
+                y = fry + (t * dy1)
+                return {edge = s, t = t, x = x, y = y}
+              end
+            end
+          end
+        end
+      end
+      return nil;
+    end
+
+After the remark from sprechen deutsch (sick), I looked to see if there was a way to reduce the calculations a bit further, and this version is better!
+
+    function geom:linePolygonIntersection(frx, fry, tox, toy, shape)
+      local s
+      local sax, say, sbx, sby
+      local dx1, dy1
+      dx1 = tox - frx
+      dy1 = toy - fry
+    
+      sbx = shape[1]
+      sby = shape[2]
+
+      local nbPoints
+      for s = 1, nbPoints, 2 do
+        sax = sbx
+        say = sby
+        if (s &lt; (nbPoints - 1)) then
+          sbx = shape[s + 2]
+          sby = shape[s + 3]
+        else
+          sbx = shape[1]
+          sby = shape[2]
+        end
+    
+        local c1, c2, c3
+        local dx2, dy2, num, t, u
+    
+        c1 = dy1 * (sax - tox) - dx1 * (say - toy)
+        if c1 &gt;= 0 then
+          c2 =  dx1 * (sby - fry) - dy1 * (sbx - frx)
+          if c2 &gt;= 0 then
+            dx2 = sbx - sax
+            dy2 = sby - say
+            c3 = dy2 * (tox - sbx) - dx2 * (toy - sby)
+            if c3 &gt;= 0 then
+              num = 1 / (-dx2 * dy1 + dx1 * dy2)
+              t = (dx2 * (fry - say) - dy2 * (frx - sax)) * num
+              if (t &gt; 0) then
+                x = frx + (t * dx1)
+                y = fry + (t * dy1)
+                return {edge = s, t = t, x = x, y = y}
+              end
+            end
+          end
+        end
+      end
+      return nil
+    end
+
+Maybe there is something even better to do !!!",True,False,False,lua,t5_2qjla,13889,public,self,,,Intersection Segment / Polygon,0,[],0.5,https://www.reddit.com/r/lua/comments/rbb31a/intersection_segment_polygon/,,all_ads,6,,,,,,,,,,,,,,,1638969464.0,
+88.0,[],False,[deleted],,,,,,False,,,[],False,False,1638914407,self.lua,https://www.reddit.com/r/lua/comments/rbao96/snippet_segment_polygon_intersection/,{},rbao96,False,False,False,False,False,False,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/rbao96/snippet_segment_polygon_intersection/,False,,,6,1639006949,1,,True,False,False,lua,t5_2qjla,13889,public,default,,,"Snippet : segment, polygon intersection.",0,[],1.0,https://www.reddit.com/r/lua/comments/rbao96/snippet_segment_polygon_intersection/,,all_ads,6,,,,,,,,,,,,deleted,,dark,,moderators
+89.0,[],False,QXJtaW5pdXM,,[],,text,t2_18tke561,False,False,False,[],False,False,1638869892,self.lua,https://www.reddit.com/r/lua/comments/ravg3t/how_to_pass_an_argument_into_a_function/,{},ravg3t,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,4,0,False,all_ads,/r/lua/comments/ravg3t/how_to_pass_an_argument_into_a_function/,False,,,6,1638869903,1,"Hi, I'm trying to pass a value from a `main` function into a `subfunction`.&lt;br&gt;
+```lua
+Test = {}
+
+function Test:SubFunction(arg1)
+	print(""SubFunction"")
+	print(arg1)
+end
+
+function Test:Main()
+	print(""Main"")
+	local a = 6
+	Test.SubFunction(a)
+end
+	
+return Test.Main()
+```
+
+I executed the code on: [https://www.tutorialspoint.com/lua\_terminal\_online.php](https://www.tutorialspoint.com/lua_terminal_online.php)
+
+And it returns the following:&lt;br&gt;
+```
+Main
+SubFunction
+nil
+```
+
+I expect that it prints out the value of `a` . Is this the right way to pass an argument to a function? Or am I missing something?",True,False,False,lua,t5_2qjla,13883,public,self,,,How to pass an argument into a function?,0,[],1.0,https://www.reddit.com/r/lua/comments/ravg3t/how_to_pass_an_argument_into_a_function/,,all_ads,6,,,,,,,,,,,,,,,,
+90.0,[],False,TkGreed,,[],,text,t2_1454n0,False,False,False,[],False,False,1638850727,self.lua,https://www.reddit.com/r/lua/comments/raqhku/new_to_learning_code_is_lua_the_right_option_to/,{},raqhku,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,5,0,False,all_ads,/r/lua/comments/raqhku/new_to_learning_code_is_lua_the_right_option_to/,False,,,6,1638850738,1,"I am attempting to create a script that I can run in Cheat Engine that will be a countdown timer that can increase every time a item is collected in game, but that executes a kill command upon reaching 0. Would I be best to try and write this in LUA?",True,False,False,lua,t5_2qjla,13882,public,self,,,"New to learning code, Is LUA the right option to make this?",0,[],1.0,https://www.reddit.com/r/lua/comments/raqhku/new_to_learning_code_is_lua_the_right_option_to/,,all_ads,6,,,,,,,,,,,,,,,,
+91.0,[],False,Cultural_Two_4964,,[],,text,t2_7t7up8ys,False,False,False,[],False,False,1638832298,self.lua,https://www.reddit.com/r/lua/comments/rakij2/coroutine_numpty_question/,{},rakij2,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,2,0,False,all_ads,/r/lua/comments/rakij2/coroutine_numpty_question/,False,,,6,1638832309,1,"Hello, I copied some code for a co-routine from the web which is basically: 
+
+`local function sleep(delay)`
+
+`local co = assert(coroutine.running(), ""Should be run in a coroutine"")`
+
+`window:setTimeout(function()`
+
+`assert(coroutine.resume(co))`
+
+`end, delay)`
+
+`coroutine.yield()`
+
+`end`  
+
+and later on I call this from a function called run() as follows: 
+
+`function run(canvas,ctx)`
+
+\--- read and do stuff here---
+
+`coroutine.wrap(function()`
+
+  `for frames=1,steps  do`
+
+`sleep(timelag)`
+
+`cb_move(canvas,ctx) &lt;-- this does more stuff`
+
+  `end`
+
+`end)()`
+
+`end` 
+
+If I click the button to call run() before the previous run has finished, everything updates according to any changes I have made to the parameters and the animation carries on seemingly OK. Now, if I do that a few times, I seem to get some slowing down or jumpiness and CPU usage goes up. I am not sure if this is my dodgy old computer or if there is something fundamentally wrong with this. I have not used co-routines before so I am sure there must be something wrong. Please let me know as I am a real numpty at all this. Thank you.",True,False,False,lua,t5_2qjla,13881,public,self,,,Coroutine numpty question.,0,[],1.0,https://www.reddit.com/r/lua/comments/rakij2/coroutine_numpty_question/,,all_ads,6,,,,,,,,,,,,,,,,
+92.0,[],False,Familiar_Ad_8919,,[],,text,t2_9hxqitqw,False,False,False,[],False,False,1638813756,self.lua,https://www.reddit.com/r/lua/comments/radfx7/is_there_an_interpretercompiler_i_can_just_put_in/,{},radfx7,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,15,0,False,all_ads,/r/lua/comments/radfx7/is_there_an_interpretercompiler_i_can_just_put_in/,False,,,6,1638813767,1,"im trying to implement a new programming language in lua, the problem where im stuck is portability,  i could just use luvi but it has very limited libraries that i can work with
+
+also if i want other people to use it i dont want to make it overwhelmingly hard to set up (c is a literal hell to do so)",True,False,False,lua,t5_2qjla,13878,public,self,,,is there an interpreter/compiler i can just put in a folder and use?,0,[],1.0,https://www.reddit.com/r/lua/comments/radfx7/is_there_an_interpretercompiler_i_can_just_put_in/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+93.0,[],False,IAMOort,,[],,text,t2_a0059amd,False,False,False,[],False,False,1638709757,self.lua,https://www.reddit.com/r/lua/comments/r9fecp/string_patterns_for_hex_colors/,{},r9fecp,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,6,0,False,all_ads,/r/lua/comments/r9fecp/string_patterns_for_hex_colors/,False,,,6,1638709768,1,"So, I have this weird issue with patterns / regex confusing the hell out of me. No matter how long I stare at charts to try and figure out the syntax; I always get something wrong.
+
+Since Lua 5.2 doesn't have regex; I'm trying to write a line to match a string to see if the string is a hex color.
+
+ 
+
+    function bIsHex( val )
+    val = val:gsub( '#', '' )
+    return ( string.match( val, '^%x%x%x' ) or string.match( val, '^%x%x%x%x%x%x' ) and true ) or false
+end
+
+So for example:
+
+bIsHex( 'FFFFFF' ) = should return **true**
+
+bIsHex( '#FFFFFF ') = **true**
+
+bIsHex ( 'FFF' ) = **true**
+
+bIsHex( 'jliawji' ) = **false**
+
+&amp;#x200B;
+
+But it appears that it's just returning true and false for random crap.
+
+I know this is probably going to be something stupid simple, but about the only thing I think I have right is that %x is used for hexadecimals.",True,False,False,lua,t5_2qjla,13875,public,self,,,String Patterns for Hex colors,0,[],1.0,https://www.reddit.com/r/lua/comments/r9fecp/string_patterns_for_hex_colors/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+94.0,[],False,eed00,,[],,text,t2_15eoib,False,False,False,[],False,False,1638611575,self.lua,https://www.reddit.com/r/lua/comments/r8meip/implementing_existing_lua_spellchecker_in_another/,{},r8meip,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,1,0,False,all_ads,/r/lua/comments/r8meip/implementing_existing_lua_spellchecker_in_another/,False,self,"{'enabled': False, 'images': [{'id': 'euUE_k9o_euzwgNONmIZMM026oeSTBH_ZdvLjtUNylg', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/z55b_0-_DYGZxjSO4sTVwBNIkMqkFCKvhcexHvELgV4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a3dfba29f9d19dc5dd95d58e68cd2ca48d0f6551', 'width': 108}], 'source': {'height': 128, 'url': 'https://external-preview.redd.it/z55b_0-_DYGZxjSO4sTVwBNIkMqkFCKvhcexHvELgV4.jpg?auto=webp&amp;s=6b590839e21b0f0e5d45a926d1c383c41316f7fd', 'width': 128}, 'variants': {}}]}",6,1638611586,1,"Hi everyone!  
+Lua beginner here. I was looking into the possibility of implementing an existing solution, [Textadept's Lua spellchecker](https://gitlab.com/rychly/textadept-spellchecker), as a plugin for [Xournalpp](https://github.com/xournalpp/xournalpp) (a supercharged C++ rewrite of Xournal, which is [extensible via Lua plugins](https://github.com/xournalpp/xournalpp/tree/master/plugins)).
+
+However, given the learning stage I am at, I do not have a good perspective on the feasibility of this task, and I am not certain of how to approach it. If anyone could give me some directions and tips on how to undertake this project, I would really be grateful.",True,False,False,lua,t5_2qjla,13871,public,self,,,Implementing existing Lua spellchecker in another sofware,0,[],1.0,https://www.reddit.com/r/lua/comments/r8meip/implementing_existing_lua_spellchecker_in_another/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+95.0,[],False,jersa56,,[],,text,t2_gh31zrgt,False,False,False,[],False,False,1638597350,self.lua,https://www.reddit.com/r/lua/comments/r8iykb/folders_and_require/,{},r8iykb,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,0,0,False,all_ads,/r/lua/comments/r8iykb/folders_and_require/,False,,,6,1638597361,1,"I am just passing my vim to lua configuration and I was told that in lua you could import folders, I don't know if you can tell me how to do it, it would help me a lot",True,False,False,lua,t5_2qjla,13870,public,self,,,Folders and require(' '),0,[],0.99,https://www.reddit.com/r/lua/comments/r8iykb/folders_and_require/,,all_ads,6,ef04b7d2-6cb5-11ea-b47f-0e4bf2b6cb79,Help,,,,,,,,,,,,,,
+96.0,[],False,allornothinghoney,,[],,text,t2_4seca6ro,False,False,False,[],False,False,1638595521,o3de.org,https://www.reddit.com/r/lua/comments/r8igrl/open_3d_engine_free_aaa_game/,{},r8igrl,False,True,False,False,False,True,False,False,,[],dark,text,False,False,False,1,0,False,all_ads,/r/lua/comments/r8igrl/open_3d_engine_free_aaa_game/,False,,,6,1638595532,1,,True,False,False,lua,t5_2qjla,13870,public,default,,,Open 3D Engine -- Free AAA Game Development/Multimedia production with Lua scripting,0,[],1.0,https://o3de.org/,https://o3de.org/,all_ads,6,,,,,,,,,,,,,,,,
+97.0,[],False,Cultural_Two_4964,,[],,text,t2_7t7up8ys,False,False,False,[],False,False,1638583726,self.lua,https://www.reddit.com/r/lua/comments/r8f0a0/fengari_question_about_button_clicks/,{},r8f0a0,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,4,0,False,all_ads,/r/lua/comments/r8f0a0/fengari_question_about_button_clicks/,False,,,6,1638583737,1,"Hello, I have a basic html button: 
+
+    &lt;button id=""test""&gt;Test&lt;/button&gt; 
+
+and in the lua script I have: 
+
+    testbutton=document:getElementById(""test"")
+    testbutton:addEventListener(""click"",testz(canvas,ctx))
+
+However, the callback function of the button (testz) always runs when the page is loaded, although the console shows fengari errors. I want the callback function to only run when I click the button, but it does not!!
+
+Any suggestions about how to sort this out or how to do this other ways would be much appreciated. 
+
+Complete numpty here, sorry!!",True,False,False,lua,t5_2qjla,13867,public,self,,,Fengari question about button clicks.,0,[],1.0,https://www.reddit.com/r/lua/comments/r8f0a0/fengari_question_about_button_clicks/,,all_ads,6,,,,,,,,,,,,,,,,
+98.0,[],False,Blueee121,,[],,text,t2_7gcb3mo8,False,False,False,[],False,False,1638577095,self.lua,https://www.reddit.com/r/lua/comments/r8cwm5/gmod_lua_coding/,{},r8cwm5,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,5,0,False,all_ads,/r/lua/comments/r8cwm5/gmod_lua_coding/,False,,,6,1638577105,1,I wanna make an entity shoot the player basically. Any ideas on how I can do that (Im fairly new to coding lua),True,False,False,lua,t5_2qjla,13866,public,self,,,Gmod LUA Coding,0,[],1.0,https://www.reddit.com/r/lua/comments/r8cwm5/gmod_lua_coding/,,all_ads,6,,,,,,,,,,,,,,,,
+99.0,[],False,NewSchoolBoxer,,[],,text,t2_dux0m,False,False,False,[],False,False,1638499865,self.lua,https://www.reddit.com/r/lua/comments/r7og92/which_version_of_lua_should_i_learn_for_video/,{},r7og92,False,True,False,False,False,True,True,False,,[],dark,text,False,False,True,13,0,False,all_ads,/r/lua/comments/r7og92/which_version_of_lua_should_i_learn_for_video/,False,,,6,1638499876,1,"I keep wanting to get into Lua for retro video game mechanics analysis. I know Java and did C++ and 8-bit assembly back in the day.
+
+From what I can find on my own, version 5.1 is relevant due to [LuaJIT being stuck on it](https://www.reddit.com/r/lua/comments/508f1y/should_i_learn_lua_51_2_or_3/) but argument to learn latest version (5.4) too. Bigger question to me is if there is a preferred version in video game space with libraries that I would want to study.
+
+I realize version is not the hugest deal. We aren't talking Python 2 vs 3. I was advising someone in Java that they can keep learning Java 8 when 18 is latest version because the last major changes came in 8 and it's commonly used to this day.
+
+Bigger point: **I don't want to video / website tutorial my way through this and skip the fundamentals. Do you have textbook recommendations?**",True,False,False,lua,t5_2qjla,13853,public,self,,,Which version of Lua should I learn for video game scripting or does it not really matter? Textbook recommendations?,0,[],1.0,https://www.reddit.com/r/lua/comments/r7og92/which_version_of_lua_should_i_learn_for_video/,,all_ads,6,f14f21c6-6cb5-11ea-b50e-0e11210696b7,Discussion,,,,,,,,,,,,,,

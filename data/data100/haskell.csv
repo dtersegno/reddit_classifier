@@ -1,0 +1,1180 @@
+,all_awardings,allow_live_comments,author,author_flair_css_class,author_flair_richtext,author_flair_text,author_flair_type,author_fullname,author_is_blocked,author_patreon_flair,author_premium,awarders,can_mod_post,contest_mode,created_utc,domain,full_link,gildings,id,is_created_from_ads_ui,is_crosspostable,is_meta,is_original_content,is_reddit_media_domain,is_robot_indexable,is_self,is_video,link_flair_background_color,link_flair_richtext,link_flair_template_id,link_flair_text,link_flair_text_color,link_flair_type,locked,media_only,no_follow,num_comments,num_crossposts,over_18,parent_whitelist_status,permalink,pinned,pwls,retrieved_on,score,selftext,send_replies,spoiler,stickied,subreddit,subreddit_id,subreddit_subscribers,subreddit_type,thumbnail,title,total_awards_received,treatment_tags,upvote_ratio,url,whitelist_status,wls,url_overridden_by_dest,post_hint,preview,thumbnail_height,thumbnail_width,media_metadata,removed_by_category,gallery_data,is_gallery,crosspost_parent,crosspost_parent_list,media,media_embed,secure_media,secure_media_embed
+0.0,[],False,emilypii,,[],,text,t2_rs0av,False,False,False,[],False,False,1648508706,self.haskell,https://www.reddit.com/r/haskell/comments/tqltwe/ann_base160320_base320220_base640424/,{},tqltwe,False,True,False,False,False,True,True,False,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tqltwe/ann_base160320_base320220_base640424/,False,6,1648508717,1,"Hello All,
+
+I'm pleased to announce that `base16`, `base32`, and `base64` have been updated to support GHC 9.2.x. In the most recent versions, due to GHC issue #20338 in which `targetByteOrder` was incorrect on Big Endian architectures, the required GHC version lower bound has been upped to GHC 8.10.x. In this version, GHC 8.10.x was silently patched to fix this behavior. 
+
+Cheers,
+Emily",True,False,False,haskell,t5_2qh36,69575,public,self,"[ANN] base16-0.3.2.0, base32-0.2.2.0, base64-0.4.2.4",0,[],1.0,https://www.reddit.com/r/haskell/comments/tqltwe/ann_base160320_base320220_base640424/,all_ads,6,,,,,,,,,,,,,,,
+1.0,[],False,g_difolco,,[],,text,t2_735ekc4l,False,False,False,[],False,False,1648500965,self.haskell,https://www.reddit.com/r/haskell/comments/tqj5ki/ann_bloodhound01900/,{},tqj5ki,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tqj5ki/ann_bloodhound01900/,False,6,1648500975,1,"As the new maintainer of [bloodhound](https://hackage.haskell.org/package/bloodhound) (a library to access to [ElasticSearch 7.x](https://www.elastic.co/elasticsearch/)), I'm proud to announce the `0.19.0.0`.
+
+The change log is short but the highlights are:
+ * GHC 9.0.1 &amp; GHC 9.2.1 support
+ * Migration to `aeson2`
+
+That's a modest restart.
+
+I'll try to be reactive to any feedback/contributions.",True,False,False,haskell,t5_2qh36,69575,public,self,[ANN] bloodhound-0.19.0.0,0,[],1.0,https://www.reddit.com/r/haskell/comments/tqj5ki/ann_bloodhound01900/,all_ads,6,,,,,,,,,,,,,,,
+2.0,[],False,sridfr,,[],,text,t2_f1wkk8ou,False,False,False,[],False,False,1648479814,eli.thegreenplace.net,https://www.reddit.com/r/haskell/comments/tqbba5/more_thoughts_on_the_expression_problem_in_haskell/,{},tqbba5,False,True,False,False,False,True,False,False,#646d73,[],b4fae568-5d7b-11eb-80e1-0e53f0c0c9d5,blog,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tqbba5/more_thoughts_on_the_expression_problem_in_haskell/,False,6,1648479824,1,,True,False,False,haskell,t5_2qh36,69574,public,default,More thoughts on the Expression Problem in Haskell,0,[],1.0,https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/,all_ads,6,https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/,,,,,,,,,,,,,,
+3.0,[],False,ricnorr,,[],,text,t2_17kso8nb,False,False,False,[],False,False,1648464903,self.haskell,https://www.reddit.com/r/haskell/comments/tq6myc/searching_for_opensource_project_for_training/,{},tq6myc,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tq6myc/searching_for_opensource_project_for_training/,False,6,1648464913,1,"Hi, I ended my Haskell course in the university and what to train/develop my skills in some opensource. I tried to contribute Pandoc, but writing one line-fixes is not interesting. Probably are there any beginners (or not) like me, who makes an opensource and developing is still alive? I could collaborate with you. I also hope, that you have a slack/telegram chat, to communicate about the project.",True,False,False,haskell,t5_2qh36,69571,public,self,Searching for opensource project for training skills,0,[],1.0,https://www.reddit.com/r/haskell/comments/tq6myc/searching_for_opensource_project_for_training/,all_ads,6,,,,,,,,,,,,,,,
+4.0,[],False,Odd-Fox-8410,,[],,text,t2_7pefb5kd,False,False,False,[],False,False,1648451819,self.haskell,https://www.reddit.com/r/haskell/comments/tq3p9p/what_do_i_need_to_start_writing_an_extension_or/,{},tq3p9p,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tq3p9p/what_do_i_need_to_start_writing_an_extension_or/,False,6,1648451830,1,"I've tried to look for tutorials on this, but I am quickly humbled by its difficulty. It seems to assume a lot of previous knowledge of writing programming languages. I am quite green in that area, so any resource suggestions should aim at a beginner.
+
+Have I just not found the right tutorial?
+
+What do I need to read, before I can understand the tutorials?
+
+This is one of the tutorials I tried to read: [https://wiki.haskell.org/A\_practical\_Template\_Haskell\_Tutorial](https://wiki.haskell.org/A_practical_Template_Haskell_Tutorial)",True,False,False,haskell,t5_2qh36,69569,public,self,What do I need to start writing an Extension or Template Haskell?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tq3p9p/what_do_i_need_to_start_writing_an_extension_or/,all_ads,6,,,,,,,,,,,,,,,
+5.0,[],False,Iceland_jack,,[],,text,t2_3qjdu,False,False,False,[],False,False,1648437221,self.haskell,https://www.reddit.com/r/haskell/comments/tpzy07/generic_applicative/,{},tpzy07,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tpzy07/generic_applicative/,False,6,1648437231,1,"The next release of base (4.17) will include the [`Generically1`](https://github.com/ghc/ghc/blob/master/libraries/base/changelog.md) newtype which can be used to derive `Applicative` and I really want to discuss challenges in pushing beyond that.
+
+This is an example of how to use `Generically1` to derive an instance:
+
+    type Foo :: Type -&gt; Type
+    data Foo a = Foo [a] a (Int -&gt; Int -&gt; Maybe a)
+      deriving stock Generic1
+      deriving (Functor, Applicative) via Generically1 Foo
+
+By the magic  of `Applicative` we get a backwards instance as a twofer via [`Backwards (Generically1 Foo)`](https://hackage.haskell.org/package/transformers-0.6.0.4/docs/Control-Applicative-Backwards.html). It runs the applicative effects in reverse order but this means that we always have at least two options unlike `DeriveFunctor` where the [instance is unique](https://stackoverflow.com/questions/19774904/are-functor-instances-unique).
+
+`Generically1` works for a lot of simple `Applicative`s but it does not work for sum types. This is disappointing because it leaves out lists, `ZipList`s, `NonEmpty`-lists, `Maybe`, `Either a` and `Free f`-like functors. None of them can be derived because it turns out to be very difficult to come up with an instance for [`Applicative (Sum f g)`](https://hackage.haskell.org/package/base-4.16.1.0/docs/Data-Functor-Sum.html)!
+
+This is discussed in the decade old blogpost [Abstracting with Applicatives](http://comonad.com/reader/2012/abstracting-with-applicatives/):
+
+&gt; The Functor instance is straightforward for Sum, but the applicative instance is puzzling. What should ""pure"" do? It needs to inject into either the left or the right, so clearly we need some form of ""bias"" in the instance. What we really need is the capacity to ""work in"" one side of the sum until compelled to switch over to the other, at which point we're stuck there. If two functors, F and G are in a relationship such that we can always send `f x -&gt; g x` in a way that ""respects"" fmap (that is to say, such that (`fmap f . fToG == ftoG . fmap f`) then we call this a natural transformation. The action that sends f to g is typically called ""eta"". (We actually want something slightly stronger called a ""monoidal natural transformation"" that respects not only the functorial action `fmap` but the applicative action `&lt;*&gt;`, but we can ignore that for now).
+&gt;
+&gt; Now we can assert that as long as there is a natural transformation between g and f, then Sum f g can be made an Applicative, like so:
+&gt; 
+&gt;     class Natural f g where
+&gt;       eta :: f a -&gt; g a
+&gt;     
+&gt;     instance (Applicative f, Applicative g, Natural g f) =&gt; Applicative (Sum f g) where
+&gt;       pure x = InR $ pure x
+&gt;       InL f &lt;*&gt; InL x = InL (f &lt;*&gt; x)
+&gt;       InR g &lt;*&gt; InR y = InR (g &lt;*&gt; y)
+&gt;       InL f &lt;*&gt; InR x = InL (f &lt;*&gt; eta x)
+&gt;       InR g &lt;*&gt; InL x = InL (eta g &lt;*&gt; x)
+
+This complicates the design space because these applicative morphisms overlap and clash with the Haskell typeclass system. What's the best way to model this? I'm not sure.
+
+/u/Syrak came up with a brilliant mechanism that not only derives `Applicative` but `Monad` for any free monad: [Generic free monad](https://gist.github.com/Lysxia/d1e8442bdb5552b373a98daef289dba1), featuring advanced use of [*generic-data-surgery*](https://hackage.haskell.org/package/generic-data-surgery). The bias is resolved by passing the name of the `pure` construtor as a type-level string. 
+
+    type Pipe :: Type -&gt; Type -&gt; Type -&gt; Type
+    data Pipe i o a
+      = Input (i -&gt; Pipe i o a)
+      | Output o (Pipe i o a)
+      | Return a
+      deriving stock Generic1
+
+      deriving (Functor, Applicative, Monad)
+      via GenericFreeMonad ""Return"" (Pipe i o)
+
+It is clear that `Applicative` requires more nuance than we are generally used to in deriving. The question is what interface should be presented. Do we expect users to micromanage applicative morphisms by hand or is it better to have specialised newtypes like `GenericFreeMonad ""Return""` that tackle one problem with minimal configuration.
+
+See also:
+
+* [Why is there no `-XDeriveApplicative` extension?](https://stackoverflow.com/questions/18861231/why-is-there-no-xderiveapplicative-extension/68650832)",True,False,False,haskell,t5_2qh36,69568,public,self,Generic Applicative,0,[],1.0,https://www.reddit.com/r/haskell/comments/tpzy07/generic_applicative/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': '31ur9GDECSaFIAG26ZoSyNMCQ--9kdWNjZbxEUTlHcw', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=876ebcaa54107f9189482f5964c2498f3cb0d29e', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5c7bcb02e3eccb7ad8fe0cfd30ad604c8fcf9e6b', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fd236098b710394e2f9d068360adae66a7ad46d8', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dca74380a25c7a78acb98b7c965bc7fd6b8ac9ee', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9ad76423a9be34a03295636486372b13e9ec03ec', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0ea330d8dad8a0a852a2cb1ed04c02bcc7ccae59', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/cw8SMwlYGr_7GA2sC92Kg-71VepbqiVrPg4yk0dS-BE.jpg?auto=webp&amp;s=fcd0dc49ab5524bcdea5976f1a619cf3a32fa9a0', 'width': 1200}, 'variants': {}}]}",,,,,,,,,,,,
+6.0,[],False,kvanberendonck,,[],,text,t2_du6nz,False,False,False,[],False,False,1648433729,github.com,https://www.reddit.com/r/haskell/comments/tpyxmy/githubwebhooks0160_released/,{},tpyxmy,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tpyxmy/githubwebhooks0160_released/,False,6,1648433739,1,,True,False,False,haskell,t5_2qh36,69568,public,default,github-webhooks-0.16.0 released,0,[],1.0,https://github.com/cuedo/github-webhooks/releases/tag/0.16.0,all_ads,6,https://github.com/cuedo/github-webhooks/releases/tag/0.16.0,link,"{'enabled': False, 'images': [{'id': 'Q_R8x-IBfOu8iaKaa1ipOgK0pSJ8KZxPZnmovTEM4sU', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e90ef99e1d825735a5d2bffb4260c42478b2d350', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=83e9dad61825409955e610da342820057b4c56fb', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3e4f928b798f2e3efc355038fa63403af73fbcd9', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22b91aacb93d047c849c9098b64ed19bd2a01777', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7840b3d6021dcc8cb02e2f3179fbc12edda36907', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f1ee2393b9052ee37f92e89e3752d8d0852752e4', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/ZiDRSdST9YJ4AWZwBX516xSwiK2pZS-dV7gd1v2kNzk.jpg?auto=webp&amp;s=fa92c5d8119ea077373c84ade69c306e1260161a', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+7.0,[],False,Droneslut,,[],,text,t2_wee7b,False,False,True,[],False,False,1648412573,self.haskell,https://www.reddit.com/r/haskell/comments/tpsbti/new_early_access_book_functional_programming_for/,{},tpsbti,False,True,False,False,False,True,True,False,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tpsbti/new_early_access_book_functional_programming_for/,False,6,1648412584,1,"There is a new Haskell book being published by No Starch Press called [Functional Programming for Physics Geeks](https://nostarch.com/functional-programming-physics-geeks) which just recently went into early access. The book is the culmination of the author's decades of experience teaching computational physics using functional programming and it covers Newtonian mechanics and electromagnetism all in Haskell, with emphasis on using strong static typing and compositionality to implement the core ideas of kinematics and dynamics. The author also has a library of code used in the book on Hackage [here](https://hackage.haskell.org/package/learn-physics).
+
+Personally I love books using Haskell in application areas that are outside the field of software engineering, like [van Eijck and Unger's Computational Semantics with Functional Programming](https://www.cambridge.org/core/books/computational-semantics-with-functional-programming/0D3BAC27C39751AE4FF7F08FCC1C1364), so I am very much looking forward to this book and I thought others might be too. Relive the horrors of undergrad physics, but this time in Haskell!
+
+I know that the author has written about using Haskell to teach physics before and has been working on this book for a while so maybe people have seen it before but didn't know it was slated to come out this year. The page for the book had been live for a little bit last year but then it disappeared. However it seems to be back up now because early access for the book has opened. The last time I talked to the author he said the goal date for publication was in May, but it seems to be pushed back to October this year.
+
+(NB I'm not involved in any way with the book, I'm just excited for it and hadn't seen it mentioned yet.)",False,False,False,haskell,t5_2qh36,69561,public,self,New Early Access Book: Functional Programming for Physics Geeks,0,[],1.0,https://www.reddit.com/r/haskell/comments/tpsbti/new_early_access_book_functional_programming_for/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': '9yAgeDh7pAWG9bSM4g2zWB0h9RVnxODuJGruOT6mKEk', 'resolutions': [{'height': 142, 'url': 'https://external-preview.redd.it/wBeUovtugjCFBaki6Td2HIuCMPRYlnhkyfo1LKwmkhk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a9a41e22ee95bcb3c32ec645507f3ab864782307', 'width': 108}, {'height': 285, 'url': 'https://external-preview.redd.it/wBeUovtugjCFBaki6Td2HIuCMPRYlnhkyfo1LKwmkhk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c40fad3daaaecc5f41ebadf4ae684ff71505c9fd', 'width': 216}, {'height': 422, 'url': 'https://external-preview.redd.it/wBeUovtugjCFBaki6Td2HIuCMPRYlnhkyfo1LKwmkhk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c3de3d76e0976c3aa2f28cbc0e612d11178270bf', 'width': 320}], 'source': {'height': 630, 'url': 'https://external-preview.redd.it/wBeUovtugjCFBaki6Td2HIuCMPRYlnhkyfo1LKwmkhk.jpg?auto=webp&amp;s=97085379aea11488b8c0338facd730283514d136', 'width': 477}, 'variants': {}}]}",,,,,,,,,,,,
+8.0,[],False,apshrestha,,[],,text,t2_33agbs09,False,False,False,[],False,False,1648408450,self.haskell,https://www.reddit.com/r/haskell/comments/tpqvm7/mindra_diagrams_and_gloss_for_the_masses/,{},tpqvm7,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tpqvm7/mindra_diagrams_and_gloss_for_the_masses/,False,6,1648408461,1,"https://github.com/rorokimdim/mindra
+
+I love Diagrams and Gloss libraries in haskell. I wanted to try making something that will enable anyone/me to use it in other programming languages for quick scripts – for drawing simple geometric shapes and animations.
+
+mindra talks via stdin/stdout, so integrating with it should be easy. So far I have one client library ([https://github.com/rorokimdim/mindra-clj](https://github.com/rorokimdim/mindra-clj)) for Clojure.
+
+I’m at the beginner level in haskell. I’d appreciate any kind of feedback (either on mindra or the haskell code in general). Thanks for reading!",True,False,False,haskell,t5_2qh36,69562,public,self,mindra: Diagrams and Gloss for the masses?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tpqvm7/mindra_diagrams_and_gloss_for_the_masses/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'hglFoxWXmwkFD9WpBl_rgkEJ3_wixw8Wnab_oGrUB2s', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=58afab326c3bb3d59c5873e987a356e7ce0ee061', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3bf40bb88cf02205fb4289b2b005ada704fcfaad', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8e7597261111a56bf2f810429581bd0035937955', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=643baeb5d7dd5f34ff65c9b6650a0c27e4450b9e', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=bbb717767b25c903f1be630352d7316acf7a2042', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=24c804e96a1dc6583ed350226657337251376aa6', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/ElqMNJzfdJ1AngqEv-TNQJsB1QirwllYNAtjEjKFIWM.jpg?auto=webp&amp;s=acc2ca8fcc7c9fee01d8a34ac8af840bffdf3186', 'width': 1200}, 'variants': {}}]}",,,,,,,,,,,,
+9.0,[],False,tomejaguar,,[],,text,t2_45sug,False,False,False,[],False,False,1648400598,self.haskell,https://www.reddit.com/r/haskell/comments/tpo6u8/breakage_and_deprecation_cycle_policies/,{},tpo6u8,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tpo6u8/breakage_and_deprecation_cycle_policies/,False,6,1648400609,1,"I've just published [Opaleye's API breakage policy](http://h2.jaguarpaw.co.uk/posts/opaleyes-api-breakage-policy/) inspired by @chrisdone's article on his [Immutable Publishing Policy](https://chrisdone.com/posts/ipp/).
+
+Does anyone know of any other articles on API breakage and deprecation cycle policies, in Haskell or any other language?  It would be great to collect them together so we can learn from them and reduce the costs of change on Haskell users.",True,False,False,haskell,t5_2qh36,69564,public,self,Breakage and deprecation cycle policies,0,[],1.0,https://www.reddit.com/r/haskell/comments/tpo6u8/breakage_and_deprecation_cycle_policies/,all_ads,6,,,,,,,,,,,,,,,
+10.0,[],False,BrunoBasher,,[],,text,t2_k39yslmw,False,False,False,[],False,False,1648353374,self.haskell,https://www.reddit.com/r/haskell/comments/tpby52/recursive_factorial_function_error/,{},tpby52,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tpby52/recursive_factorial_function_error/,False,6,1648353385,1," I am getting the error on line 23:
+
+Couldn't match expected type ‘Maybe Int’ with actual type ‘Int’ 
+
+    safeFact :: Int -&gt; Maybe Int
+    safeFact n
+        | n &lt; 0 = Nothing
+        | n == 0 = Just 1
+        | n == 1 = Just 1
+        | otherwise = n * safeFact (n - 1)",True,False,False,haskell,t5_2qh36,69556,public,self,Recursive Factorial Function Error,0,[],1.0,https://www.reddit.com/r/haskell/comments/tpby52/recursive_factorial_function_error/,all_ads,6,,,,,,,,,,,,,,,
+11.0,[],False,ittsopu,,[],,text,t2_5c1a9yed,False,False,False,[],False,False,1648310170,self.haskell,https://www.reddit.com/r/haskell/comments/tou97i/how_do_you_count_the_occurences_of_a_digit_n_in_a/,{},tou97i,False,True,False,False,False,True,True,False,#646d73,[],ebb4b74c-16d0-11eb-9ff6-0e5aacb57bb7,homework,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tou97i/how_do_you_count_the_occurences_of_a_digit_n_in_a/,False,6,1648310180,1,,True,False,False,haskell,t5_2qh36,69544,public,self,How do you count the occurences of a digit (n) in a list [1..x] ?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tou97i/how_do_you_count_the_occurences_of_a_digit_n_in_a/,all_ads,6,,,,,,,,,,,,,,,
+12.0,[],False,zsome,,[],,text,t2_gvnql7,False,False,False,[],False,False,1648279014,self.haskell,https://www.reddit.com/r/haskell/comments/toj7lo/which_nosql/,{},toj7lo,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/toj7lo/which_nosql/,False,6,1648279025,1,"Hi,
+
+I start a new small project for learning purpose.
+
+I would like to use a nosql db (I know the mongodb because of my company's projects).
+
+maximum \~5000 record / day 
+
+What I saw is cassandra, redis, acid-state.
+
+What kind of nosql is used frequently in cloud with haskell ?  
+
+Please advice a nosql db for me :)",True,False,False,haskell,t5_2qh36,69541,public,self,Which nosql,0,[],1.0,https://www.reddit.com/r/haskell/comments/toj7lo/which_nosql/,all_ads,6,,,,,,,,,,,,,,,
+13.0,[],False,theKGS,,[],,text,t2_eubyx,False,False,False,[],False,False,1648237836,self.haskell,https://www.reddit.com/r/haskell/comments/tnxhwf/i_need_some_beginner_help_with_actually_compiling/,{},tnxhwf,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnxhwf/i_need_some_beginner_help_with_actually_compiling/,False,6,1648237846,1,"I've had to move my developing of Haskell code from a system that I did not maintain myself, to my own laptop. The thing is: on the old system whoever set that thing up made it so that all Haskell libraries were available. I could just include them and run ghci and it would run without a hassle and I could do this without fiddling around with Cabal. Just compile and run any file without bothering about project configs and whatever.
+
+Since moving to my laptop and trying to do the same here, I consistently get messages about missing modules.
+
+Example:
+
+""Could not find module ‘Control.Monad.Par’""
+
+I've tried reading about how to do it, but introductory guides to Cabal all talk about setting up project stuff, which was not at all necessary on the old system. On the old system I could create a .hs file wherever I wanted and compile it with ghc/ghci easily. I did not need to set up Cabal projects to do it.",True,False,False,haskell,t5_2qh36,69530,public,self,I need some beginner help with actually compiling code with ghci,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnxhwf/i_need_some_beginner_help_with_actually_compiling/,all_ads,6,,,,,,,,,,,,,,,
+14.0,[],False,n00bomb,,[],,text,t2_fhy7z,False,False,False,[],False,False,1648228425,haskell.foundation,https://www.reddit.com/r/haskell/comments/tnrsg7/the_haskell_interlude_11_simon_peyton_jones/,{},tnrsg7,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnrsg7/the_haskell_interlude_11_simon_peyton_jones/,False,6,1648228435,1,,False,False,False,haskell,t5_2qh36,69531,public,default,The Haskell Interlude 11 - Simon Peyton Jones,0,[],1.0,https://haskell.foundation/podcast/11/,all_ads,6,https://haskell.foundation/podcast/11/,,,,,,,,,,,,,,
+15.0,[],False,rhl120,,[],,text,t2_6cjrymqf,False,False,False,[],False,False,1648217221,self.haskell,https://www.reddit.com/r/haskell/comments/tnmpe1/commands_mapped_to_some_functions_in_a_repl/,{},tnmpe1,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnmpe1/commands_mapped_to_some_functions_in_a_repl/,False,6,1648217232,1,"Hi, 
+
+I am trying to write a sort of repl for a hex editor. The work of the hex editor is irrelevent. I have some functions all of them return an Either String (String, Core) where Core contains information about the current state of the program. In order to execute those functions, I store the functions and the commands that correspond to them in a Map String (String -&gt; Either String (String, Core)) but this doesn't work that well because the user may want to load a file into the program meaning that some functions may be IOs so what would be a better way to do what I want (without having to make everything IO)?
+
+Thanks",True,False,False,haskell,t5_2qh36,69529,public,self,Commands mapped to some functions in a REPL,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnmpe1/commands_mapped_to_some_functions_in_a_repl/,all_ads,6,,,,,,,,,,,,,,,
+16.0,[],False,cjduncana,,[],,text,t2_75wvr,False,False,False,[],False,False,1648216834,self.haskell,https://www.reddit.com/r/haskell/comments/tnmkpe/defining_the_eq_instance_for_a_class/,{},tnmkpe,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tnmkpe/defining_the_eq_instance_for_a_class/,False,6,1648216844,1,"I have the following class:
+
+    class Entity a id where
+      getId :: a -&gt; id
+
+I use this class to represent data that have an identity, so for example:
+
+    data Person = Person
+      { id :: Int,
+        name :: String
+      }
+    
+    instance Entity Person Int where
+      getId = Person.id
+
+This instance allows me to compare Persons even if they changed their name. What I have noticed is that in several places in my code, I'm repeating the same comparison:
+
+    (getId personInThePast) == (getId samePerson)
+
+It would be great if I could write the following:
+
+    personInThePast === samePerson
+
+The idea would be that the compiler would know it should just compare their IDs. I can make an `Eq` instance of `Person`, but if I follow that path, I would repeat the same code for all my `Entity`. Since I know how to equate any `Entity`, I thought that I could write an `Eq` instance for my `Entity` class, but the compiler complains that `Entity` is a constraint, so now I don't know how to implement this. Any help?",True,False,False,haskell,t5_2qh36,69530,public,self,Defining the Eq instance for a class,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnmkpe/defining_the_eq_instance_for_a_class/,all_ads,6,,,,,,,,,,,,,,,
+17.0,[],False,oskargreda,,[],,text,t2_fi2s2co8,False,False,False,[],False,False,1648216481,self.haskell,https://www.reddit.com/r/haskell/comments/tnmgbd/mlabs_is_now_over_a_100_people_if_you_are_looking/,{},tnmgbd,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnmgbd/mlabs_is_now_over_a_100_people_if_you_are_looking/,False,6,1648216492,1,"We are one of the leading Haskell consultancies in the fintech, blockchain and AI space, with a passion for Haskell and open source software. We are looking for a remote Haskeller to join our team. 
+
+We are currently experiencing fantastic growth and now have a team of **over a 100 people**. We are looking to continue growing and would love to have more Haskellers on board with us!
+
+If you are excited about Haskell, about robust and clean software and are up for a new challenge, you’ve come to the right place!
+
+We have developer roles from Junior to Senior, as well as roles in Delivery Management.
+
+**As a Haskell Developer your role may include:**
+
+\- Building and testing smart contracts, traditional applications
+
+\- Helping to define best practices with new application architectures
+
+\- Building tools and libraries to support application development
+
+\- Working in emerging technologies
+
+\- For Senior and Intermediates: Systems Design, Formal Verification, Security and Performance analysis.
+
+**As a Delivery Manager your role may include:**
+
+\- Research and design of financial protocols
+
+\- Providing continuity of care to customers across product lifecycles
+
+\- Escalating issues that arise beyond the scope of a single project/department/client scope
+
+\- Steering products toward MVP, delivery targets, audit-readiness and getting required resources in place to do so.
+
+Requirements
+
+* Strong Haskell skills
+* Strong software engineering and architecture skills
+* Strong problem solving and analytical skills
+* Basic knowledge of security, concurrency, backend systems, system scaling and databases
+* Version control (git)
+* Strong verbal skills in English
+* Experience with blockchain, smart contracts, compilers, nix and/or purescript is a bonus
+
+Benefits
+
+* Focus on learning and individual growth in Haskell and Computer Science
+* Work with other great Haskellers, open source contributors and computer scientists
+* Interesting and challenging projects
+* Talk with anyone in the organization, regardless of team
+* Remote work
+* Flexible working hours
+* 6 weeks of paid vacation
+* Competitive salary
+
+We have a variety of projects to work on at any time, ranging from payment stacks to smart contracts and blockchain to open source libraries, DSLs and compilers.
+
+If you like Haskell and challenging projects, MLabs is the place for you, so please apply now via [https://apply.workable.com/mlabs/j/63DAAA4AEF/](https://apply.workable.com/mlabs/j/63DAAA4AEF/)
+
+If you have any questions please direct these to jobs@mlabs.city",True,False,False,haskell,t5_2qh36,69530,public,self,MLabs is now over a 100 people! If you are looking for a Fully Remote Haskell Developer role -Come join us! Paid internships are also available!,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnmgbd/mlabs_is_now_over_a_100_people_if_you_are_looking/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'GnuOK9IWNyfPHXokumwalY9XRYCi5oSA4uOxJlBNBp4', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f6c520b66a9e4cf15ae1b4b79af413002418a97e', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=78ce6df2b94f79b0ccb5ac2b1439fdbd87be5a53', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d0ed86839ce6deb3d5d37506ef62434b8a77baf3', 'width': 320}], 'source': {'height': 500, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?auto=webp&amp;s=562a0dfc197f2356edb2e6c70d03e94ba27414cf', 'width': 500}, 'variants': {}}]}",,,,,,,,,,,,
+18.0,[],False,haskellweekly,,[],,text,t2_xp3il,False,False,False,[],False,False,1648215151,haskellweekly.news,https://www.reddit.com/r/haskell/comments/tnm0s4/issue_308_haskell_weekly_newsletter/,{},tnm0s4,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnm0s4/issue_308_haskell_weekly_newsletter/,False,6,1648215161,1,,True,False,False,haskell,t5_2qh36,69530,public,default,Issue 308 :: Haskell Weekly newsletter,0,[],1.0,https://haskellweekly.news/issue/308.html,all_ads,6,https://haskellweekly.news/issue/308.html,link,"{'enabled': False, 'images': [{'id': 'APNk1c8bOrWzk7IfWxCtNMhPOxPGKs1lIDpMTy76j8I', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e026f7d53791531ebadb832eaa32e80476b41c7e', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=516efa03d144edee48fcffd0999c894dcfb856b0', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7ea481595192fdfadcc975f7bb92078568617564', 'width': 320}, {'height': 640, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b41ad1ce2fbd4a049226a635707cc5fe86b560b', 'width': 640}, {'height': 960, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e9e0aee90884ad14eaac284fb5577f5b08f5fc76', 'width': 960}, {'height': 1080, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=354eab3a3e3cf544314a0500962a07cc9c8872ed', 'width': 1080}], 'source': {'height': 3000, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?auto=webp&amp;s=00dc4ace0e204a30ab1d7e7b788ffc3c8a4713ed', 'width': 3000}, 'variants': {}}]}",140.0,140.0,,,,,,,,,,
+19.0,[],False,ChrisWohlert,,[],,text,t2_v8h3i,False,False,False,[],False,False,1648207133,self.haskell,https://www.reddit.com/r/haskell/comments/tnjnrz/does_a_reverse_of_tuple_sections_exist/,{},tnjnrz,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnjnrz/does_a_reverse_of_tuple_sections_exist/,False,6,1648207143,1,"With Tuple Sections, `(, ""I"", , , ""Love"", , 1337)` becomes  `\a b c d -&gt; (a, ""I"", b, c, ""Love"", d, 1337)` 
+
+That's brilliant, but is there a way to reverse this?
+
+Say I have this:
+
+    data Person = Person {personId :: Int, personName :: T.Text, personAge :: Int}
+ deriving (Show)
+
+mapToPerson :: (Int, T.Text, Int) -&gt; Person
+mapToPerson (a, b, c) = Person a b c
+
+I want to generalize `uncurry` to any arguments, could I then do something like:
+
+`mapToPerson = ~(,,) . Person`",True,False,False,haskell,t5_2qh36,69531,public,self,Does a reverse of Tuple sections exist?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnjnrz/does_a_reverse_of_tuple_sections_exist/,all_ads,6,,,,,,,,,,,,,,,
+20.0,[],False,Irish-Green,,[],,text,t2_jg1yr5z0,False,False,False,[],False,False,1648203146,self.haskell,https://www.reddit.com/r/haskell/comments/tnipf5/im_trying_to_learn_how_to_use_haskell_and_not/,{},tnipf5,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnipf5/im_trying_to_learn_how_to_use_haskell_and_not/,False,6,1648203156,1,"&amp;#x200B;
+
+When I use the inc function it works perfectly, none of the others work however, I don't fully understand what I am doing wrong? Can anyone guide me as to what my issue is please?
+
+&amp;#x200B;
+
+https://preview.redd.it/4647prsa8ip81.png?width=869&amp;format=png&amp;auto=webp&amp;s=b84d15c56c66de7d8306431c2f7bacbf55b4ad5a
+
+&amp;#x200B;
+
+This is what I aim to try get, but its not happening!
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+https://preview.redd.it/avjn230n8ip81.png?width=260&amp;format=png&amp;auto=webp&amp;s=382133bc5de3092e1d787bd56d946a88e1375c19",True,False,False,haskell,t5_2qh36,69531,public,self,I'm trying to learn how to use Haskell and not sure why I am getting this issue?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnipf5/im_trying_to_learn_how_to_use_haskell_and_not/,all_ads,6,,,,140.0,140.0,"{'4647prsa8ip81': {'e': 'Image', 'id': '4647prsa8ip81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/4647prsa8ip81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=2093180660f2430b24e40335f0bfe8c8b47c1fd1', 'x': 108, 'y': 117}, {'u': 'https://preview.redd.it/4647prsa8ip81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=636d23adaeb56dfb7919a68d8f237247eb09106b', 'x': 216, 'y': 235}, {'u': 'https://preview.redd.it/4647prsa8ip81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ab8a5b488dd7e82803632ffe2a0d90dd95a62845', 'x': 320, 'y': 349}, {'u': 'https://preview.redd.it/4647prsa8ip81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=80307b46360afaedd9166e664c257d2884e888c7', 'x': 640, 'y': 698}], 's': {'u': 'https://preview.redd.it/4647prsa8ip81.png?width=869&amp;format=png&amp;auto=webp&amp;s=b84d15c56c66de7d8306431c2f7bacbf55b4ad5a', 'x': 869, 'y': 949}, 'status': 'valid'}, 'avjn230n8ip81': {'e': 'Image', 'id': 'avjn230n8ip81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/avjn230n8ip81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=69c473d903305971f71239a1811a0c034f65933c', 'x': 108, 'y': 55}, {'u': 'https://preview.redd.it/avjn230n8ip81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=989886cbb595414248fbfe839da443ac8dc6c365', 'x': 216, 'y': 111}], 's': {'u': 'https://preview.redd.it/avjn230n8ip81.png?width=260&amp;format=png&amp;auto=webp&amp;s=382133bc5de3092e1d787bd56d946a88e1375c19', 'x': 260, 'y': 134}, 'status': 'valid'}}",,,,,,,,,
+21.0,[],False,Kindly_Signature2408,,[],,text,t2_ktfv3tgk,False,False,False,[],False,False,1648193989,self.haskell,https://www.reddit.com/r/haskell/comments/tngqtp/parsing_with_parsec_command_line_arguments_of/,{},tngqtp,False,False,False,False,False,False,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tngqtp/parsing_with_parsec_command_line_arguments_of/,False,6,1648193999,1,[removed],True,False,False,haskell,t5_2qh36,69530,public,self,Parsing with Parsec: command line arguments of different types parsing,0,[],1.0,https://www.reddit.com/r/haskell/comments/tngqtp/parsing_with_parsec_command_line_arguments_of/,all_ads,6,,,,,,,automod_filtered,,,,,,,,
+22.0,[],False,EffectiveMedia4002,,[],,text,t2_l405zdd4,False,False,False,[],False,False,1648190909,self.haskell,https://www.reddit.com/r/haskell/comments/tng22e/q_how_to_stop_hopping_around_languages/,{},tng22e,False,False,False,False,False,False,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tng22e/q_how_to_stop_hopping_around_languages/,False,6,1648190919,1,[removed],True,False,False,haskell,t5_2qh36,69528,public,self,[Q] How to stop hopping around languages?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tng22e/q_how_to_stop_hopping_around_languages/,all_ads,6,,,,,,,reddit,,,,,,,,
+23.0,[],False,rbrucesp,,[],,text,t2_cascywq,False,False,False,[],False,False,1648190677,self.haskell,https://www.reddit.com/r/haskell/comments/tng0a9/embedding_system_f_omega_with_gadts/,{},tng0a9,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tng0a9/embedding_system_f_omega_with_gadts/,False,6,1648190688,1,"Hello,
+
+&amp;#x200B;
+
+i tried to write an parser and an interpreter for System F Omega in Haskell. My goal is not to write the Functions for Substitution myself but use Haskell Functions , but I don't know if that is possible.
+
+I've seen this Code in my FP-Lecture an I would  also like to write an interpreter that is safe and easy and doesn't needs  much Code. 
+
+    data FExp e a where
+      Con :: a -&gt; FExp e a
+      App :: FExp e (a -&gt; b) -&gt; FExp e a -&gt; FExp e b
+      Lam :: FExp (a, e) b -&gt; FExp e (a -&gt; b)
+      Var :: Nat e a -&gt; FExp e a
+    
+    data Nat e a where
+      Zero :: Nat (a, b) a
+      Succ :: Nat e a -&gt; Nat (b, e) a
+    
+    type Program a = FExp () a
+    
+    lookupNat :: Nat e a -&gt; e -&gt; a
+    lookupNat Zero (a, b) = a
+    lookupNat (Succ p) (_, b) = lookupNat p b
+    
+    feval :: e -&gt; FExp e a -&gt; a
+    feval e (Con v) = v
+    feval e (App f x) = (feval e f) (feval e x)
+    feval e (Lam b) = \x -&gt; feval (x, e) b
+    feval e (Var p) = lookupNat p e
+    
+
+I've rad *Stitch*: The *Sound* Type-*Indexed* Type Checker and wrote something similar myself. That was not too difficult, but it is hard for me to do something similar for a more  complex language.
+
+I have also seen [https://www.cis.upenn.edu/\~plclub/blog/2020-06-26-Strongly-typed-System-F/](https://www.cis.upenn.edu/~plclub/blog/2020-06-26-Strongly-typed-System-F/) this Talk about System F. I really liked it, but my goal is to write less Code and to allow different Kinds.
+
+&amp;#x200B;
+
+This is my current Code:
+
+    
+    import           Data.Kind
+    import           Data.Type.Equality
+    
+    
+    data Nat = Z | S Nat
+    
+    data Kind = Star | Kfun Kind Kind
+        deriving Eq
+    
+    data SKind :: Kind -&gt; Type where
+        SStar ::SKind Star
+        SKfun ::SKind a -&gt; SKind b -&gt;SKind (Kfun a b)
+    
+    data TyVarDB :: [Kind] -&gt; Kind -&gt; Type where
+        ZK ::TyVarDB (k ': ks) k
+        SK ::TyVarDB ks k -&gt; TyVarDB (k' ': ks) k
+    
+    data HTyList  (g :: [Kind]) where
+        HTyNil  ::HTyList '[]
+        HTyCons ::Type' ks k -&gt; HTyList g -&gt; HTyList (k:g)
+    
+    
+    
+    
+    data Idx'' :: forall (g :: [Kind]) (ks :: [Kind]) (k::Kind) . HTyList g -&gt; Type' ks k -&gt; Type where
+       Z''' ::Idx'' (HTyCons t g) t
+       S''' ::Idx'' g t -&gt; Idx'' (u`HTyCons`g) t
+    
+    
+    
+    data Idx' (g :: [Type' ks k]) (t::Type' ks k) :: Type where
+        Z'' ::Idx' (t:g) t
+        S'' ::Idx' g t -&gt; Idx' (u:g) t
+    
+    
+    
+    data Type' :: [Kind] -&gt; Kind -&gt; Type where 
+        TyVar ::TyVarDB ks k -&gt; Type' ks k
+        TyApp  ::Type' ks (k1`Kfun` k2)  -&gt; Type' ks k1 -&gt;  Type' ks k2
+        TyArr ::Type' ks Star -&gt; Type'  ks Star -&gt; Type'  ks Star
+        --TyLam ::SKind k1 -&gt;  Type' (k1:ks) k2 -&gt; Type'  ks (Kfun k1 k2) 
+    
+    -- not in the Paper
+        TyLam :: Type' (k1:ks) k2 -&gt; Type'  ks (Kfun k1 k2) -- not in the Paper
+        -- TyForall ::SKind k1 -&gt; Type' (k1:ks) Star -&gt; Type'  ks Star
+        TyForall ::Type' (k1:ks) Star -&gt; Type'  ks Star
+        TyNat ::Type' ks Star
+    
+    
+    -- -- should ks ~ g ?                                          
+    -- kindVar, typeVars, Type
+    
+    data FExp   ::  forall (ks :: [Kind]) (k::Kind) (g:: [Kind]). [Kind] -&gt; HTyList g -&gt; Type' ks k -&gt; Type  where
+             AppT ::FExp ks  e (TyArr a  b) -&gt; FExp  ks e a -&gt; FExp ks e b
+             LamT ::FExp  ks (HTyCons a  e) b -&gt; FExp ks  e (TyArr a b)         --
+             VarT :: Idx'' e a -&gt; FExp ks e a
+             IntT ::Integer  -&gt; FExp ks e  TyNat
+             TyLam'  ::FExp (k:ks) e a  -&gt; FExp ks e  (TyForall a)
+    
+    
+    type family Interp (t :: Type' ks Star) where
+        Interp TyNat = Integer
+        Interp (TyArr t1 t2) = Interp t1 -&gt; Interp t2
+    
+    
+    eval :: forall (g :: [Kind]) (ks :: [Kind])  (a :: [Kind])(b :: HTyList g) (c :: Type' ks Star) p. FExp a b c -&gt; Interp c
+    eval (IntT n) = n
+    eval (AppT f x) = eval f $ eval x
+
+I think, the Type' Definition makes sense but I think everything else has its flaws.
+
+I don't even now what the type of the final interpreter should be and I have no idea, how I can continue. Can you please point me in the right direction.",True,False,False,haskell,t5_2qh36,69528,public,self,Embedding System F Omega with GADTS,0,[],1.0,https://www.reddit.com/r/haskell/comments/tng0a9/embedding_system_f_omega_with_gadts/,all_ads,6,,,,,,,,,,,,,,,
+24.0,[],False,Limp_Step_6774,,[],,text,t2_6wlxzw83,False,False,False,[],False,False,1648177065,self.haskell,https://www.reddit.com/r/haskell/comments/tnch6b/ihaskell_integration_with_hls/,{},tnch6b,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnch6b/ihaskell_integration_with_hls/,False,6,1648177075,1,"I'm really liking using a jupyter notebook for Haskell (via IHaskell), and running it in VSCode. But it would be even better if I had HLS functionality in the notebook (mousing over types, code suggestions, etc). Is that available?",True,False,False,haskell,t5_2qh36,69523,public,self,IHaskell integration with HLS,0,[],1.0,https://www.reddit.com/r/haskell/comments/tnch6b/ihaskell_integration_with_hls/,all_ads,6,,,,,,,,,,,,,,,
+25.0,[],False,Limp_Step_6774,,[],,text,t2_6wlxzw83,False,False,False,[],False,False,1648176881,self.haskell,https://www.reddit.com/r/haskell/comments/tncf7m/plotting_libraries/,{},tncf7m,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tncf7m/plotting_libraries/,False,6,1648176891,1,"I'm currently using hvega to make some data science plots. It's pretty full-featured, but kind of hard to learn, and not very strongly typed. Do people have experience with other options that they'd recommend?
+
+(Sidenote: I'm using IHaskell for the first time, and displaying plots in a jupyter notebook is working great!)",True,False,False,haskell,t5_2qh36,69523,public,self,Plotting libraries,0,[],1.0,https://www.reddit.com/r/haskell/comments/tncf7m/plotting_libraries/,all_ads,6,,,,,,,,,,,,,,,
+26.0,[],False,favoritz,,[],,text,t2_1mw3loyi,False,False,False,[],False,False,1648173398,reddit.com,https://www.reddit.com/r/haskell/comments/tnbd4r/haskell_beginner_issue_with_learning_recursion/,{},tnbd4r,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tnbd4r/haskell_beginner_issue_with_learning_recursion/,False,6,1648173408,1,,True,False,False,haskell,t5_2qh36,69523,public,default,HASKELL BEGINNER! issue with learning recursion,0,[],1.0,https://www.reddit.com/gallery/tnbd4r,all_ads,6,https://www.reddit.com/gallery/tnbd4r,,,140.0,140.0,"{'ey9bjyhwrfp81': {'e': 'Image', 'id': 'ey9bjyhwrfp81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b9ea89a4d10ae5a258c6e7da95904e09b0ee51ea', 'x': 108, 'y': 73}, {'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a43bfe03cd1e822cb19e3a9782bb072ff3941b89', 'x': 216, 'y': 146}, {'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=76982cbbbbfdd0d2a04e2f150639c8234dfddca2', 'x': 320, 'y': 216}, {'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2576fdda0825714ee6e002f73bdad0749a833507', 'x': 640, 'y': 433}, {'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=293a0a012efabfc2d09bfa1e6095fd960f77698f', 'x': 960, 'y': 650}, {'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9e71bcd0e23c75382b5d39dacd321651405a4499', 'x': 1080, 'y': 732}], 's': {'u': 'https://preview.redd.it/ey9bjyhwrfp81.png?width=1292&amp;format=png&amp;auto=webp&amp;s=40e85986e97027cf0ece8213ce206f750cb58433', 'x': 1292, 'y': 876}, 'status': 'valid'}, 'go9yr6hwrfp81': {'e': 'Image', 'id': 'go9yr6hwrfp81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/go9yr6hwrfp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=2c5db88688fa0a56931ab13ac20601038c609d97', 'x': 108, 'y': 149}, {'u': 'https://preview.redd.it/go9yr6hwrfp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=51d75a04ac28955b877e4f84e761285b301b9b63', 'x': 216, 'y': 299}, {'u': 'https://preview.redd.it/go9yr6hwrfp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5771cb28d566fdc7ff25fcd252e3a505c34f829e', 'x': 320, 'y': 443}, {'u': 'https://preview.redd.it/go9yr6hwrfp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e515c7117363856c5fcd06220f14d6438931cc1', 'x': 640, 'y': 886}], 's': {'u': 'https://preview.redd.it/go9yr6hwrfp81.png?width=850&amp;format=png&amp;auto=webp&amp;s=d9b8ba3f21e02d308d37958dc22e9ac81c4d2775', 'x': 850, 'y': 1178}, 'status': 'valid'}, 'w4m5b5hwrfp81': {'e': 'Image', 'id': 'w4m5b5hwrfp81', 'm': 'image/png', 'p': [{'u': 'https://preview.redd.it/w4m5b5hwrfp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=c7f1749479b58fd47368e4ea2174529b20147142', 'x': 108, 'y': 68}, {'u': 'https://preview.redd.it/w4m5b5hwrfp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=7c84e7593eab56d15689fc60212fa39f18c956eb', 'x': 216, 'y': 136}, {'u': 'https://preview.redd.it/w4m5b5hwrfp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8a771ffc1123434343f1a6dc671bd01d626ebc90', 'x': 320, 'y': 201}, {'u': 'https://preview.redd.it/w4m5b5hwrfp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=80e3b7ba8b42ad40a9d8da161bb7854f3cd1daaf', 'x': 640, 'y': 403}], 's': {'u': 'https://preview.redd.it/w4m5b5hwrfp81.png?width=924&amp;format=png&amp;auto=webp&amp;s=5be315f8414523875ca71abaedc41d2632d16576', 'x': 924, 'y': 582}, 'status': 'valid'}}",,"{'items': [{'id': 124221337, 'media_id': 'go9yr6hwrfp81'}, {'id': 124221338, 'media_id': 'w4m5b5hwrfp81'}, {'caption': ""I cannot understand how to do the numPizza function. I've made a start on it, and tried to make helper functions but im quite unsure how to proceed. VERY new to haskell. "", 'id': 124221339, 'media_id': 'ey9bjyhwrfp81'}]}",True,,,,,,
+27.0,[],False,jship__,,[],,text,t2_j4qmdzi7,False,False,False,[],False,False,1648158206,github.com,https://www.reddit.com/r/haskell/comments/tn6c93/s3k_do_more_with_stack_by_typing_less/,{},tn6c93,False,True,False,False,False,True,False,False,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tn6c93/s3k_do_more_with_stack_by_typing_less/,False,6,1648158216,1,,True,False,False,haskell,t5_2qh36,69519,public,default,s3k: Do more with stack by typing less!,0,[],1.0,https://github.com/jship/s3k,all_ads,6,https://github.com/jship/s3k,link,"{'enabled': False, 'images': [{'id': 'KTKVbyltUnMP3xQ85fJBkbwDebCtHGCwuSO6KGhpZho', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=bee901ad06a6e7225bce8d2bd299ae95857e3fda', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=98d857363f9612d2181b3b5168c948185ea9a815', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4299283183cd0be908a4ff7b7861ba6e37e14e2a', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89ae852c5de39cd46eb372d5b913f675a41f2dc9', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=85e05fb997c6945bf030430711f30a93c01e25f3', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9014fb01ead99d6ef3958aa0fa7d189bb18d3d3e', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/zqB3EU6FrKVQPV_gDFalvPUPNkmlkS20IZIn1u9OMPE.jpg?auto=webp&amp;s=88412331dcd572ccdcfc9b13fa5469b8a5be9169', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+28.0,[],False,EtaDaPiza,,[],,text,t2_7d2w43ax,False,False,False,[],False,False,1648156887,self.haskell,https://www.reddit.com/r/haskell/comments/tn5tny/why_am_i_getting_this_parse_error_on_input/,{},tn5tny,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tn5tny/why_am_i_getting_this_parse_error_on_input/,False,6,1648156897,1,"```haskell
+sqrtHelp :: Integer -&gt; Integer -&gt; Integer -&gt; Integer -&gt; Integer 
+-- * sqrtHelp n i j ret
+-- * binary search for a ret = floor(sqrt(n)) in (i .. j)
+sqrtHelp n i j ret =
+    if n == 2 then 2
+    if i &gt; j then ret else
+        let x = div (i + j) 2
+        in
+        if (x ^ 2 == n) then x
+        else if (x ^ 2 &lt; n)
+            then sqrtHelp n (x + 1) j x
+        else sqrtHelp n i (x - 1) x
+
+
+squareRoot :: Integer -&gt; Integer
+-- * squareRoot n = floor(sqrt(n))
+squareRoot n = sqrtHelp n 1 (div n 2) 0
+```
+
+Error:
+```
+parse error on input ‘squareRoot’
+```",True,False,False,haskell,t5_2qh36,69518,public,self,"Why am I getting this ""parse error on input""",0,[],1.0,https://www.reddit.com/r/haskell/comments/tn5tny/why_am_i_getting_this_parse_error_on_input/,all_ads,6,,,,,,,,,,,,,,,
+29.0,[],False,organicwolf786,,[],,text,t2_g4278ygc,False,False,False,[],False,False,1648144219,twitter.com,https://www.reddit.com/r/haskell/comments/tmr5g3/by_changing_the_vector_definition_to_use_a_clever/,{},tmr5g3,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tmr5g3/by_changing_the_vector_definition_to_use_a_clever/,False,6,1648144230,1,,True,False,False,haskell,t5_2qh36,69518,public,default,"By changing the Vector definition to use a clever self-type trick, Kind's case-of syntax magically became aware of sizes and stopped demanding the nil branch of non-empty vectors.",0,[],1.0,https://twitter.com/MaiaVictr/status/1407884642166968320,all_ads,6,https://twitter.com/MaiaVictr/status/1407884642166968320,,,,,,,,,,,,,,
+30.0,[],False,Leading_Dog_1733,,[],,text,t2_hs4uamcx,False,False,False,[],False,False,1648142730,self.haskell,https://www.reddit.com/r/haskell/comments/tmpfct/haskell_important_libraries/,{},tmpfct,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tmpfct/haskell_important_libraries/,False,6,1648142741,1,"So, I've been working for Python for a long time and wanted to work with Haskell. 
+
+What are the important libraries that folks use in Haskell? The ones that I should definitely memorize because they'll be around in 5-10 years and I will use them actively.",True,False,False,haskell,t5_2qh36,69518,public,self,Haskell - Important Libraries,0,[],1.0,https://www.reddit.com/r/haskell/comments/tmpfct/haskell_important_libraries/,all_ads,6,,,,,,,,,,,,,,,
+31.0,[],False,fumieval,,[],,text,t2_fwirv,False,False,False,[],False,False,1648128578,github.com,https://www.reddit.com/r/haskell/comments/tma69s/ghc_proposal_wincompletefieldbinds_and/,{},tma69s,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tma69s/ghc_proposal_wincompletefieldbinds_and/,False,6,1648128589,1,,True,False,False,haskell,t5_2qh36,69518,public,default,GHC Proposal: -Wincomplete-field-binds and RecordDontCarePatterns,0,[],1.0,https://github.com/fumieval/ghc-proposals/blob/incomplete-field-binds/proposals/0494-incomplete-field-binds.md,all_ads,6,https://github.com/fumieval/ghc-proposals/blob/incomplete-field-binds/proposals/0494-incomplete-field-binds.md,,,,,,,,,,,,,,
+32.0,[],False,n00bomb,,[],,text,t2_fhy7z,False,False,False,[],False,False,1648127602,well-typed.com,https://www.reddit.com/r/haskell/comments/tm900v/new_largerecords_release_now_with_100_fewer_quotes/,{},tm900v,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tm900v/new_largerecords_release_now_with_100_fewer_quotes/,False,6,1648127613,1,,False,False,False,haskell,t5_2qh36,69518,public,default,New large-records release: now with 100% fewer quotes,0,[],1.0,https://well-typed.com/blog/2022/03/large-records-without-the-quotes/,all_ads,6,https://well-typed.com/blog/2022/03/large-records-without-the-quotes/,,,,,,,,,,,,,,
+33.0,[],False,theeJoker11,,[],,text,t2_2dc9hpiq,False,False,False,[],False,False,1648124373,self.haskell,https://www.reddit.com/r/haskell/comments/tm53ap/help_in_understanding_the_cause_of_error_while/,{},tm53ap,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tm53ap/help_in_understanding_the_cause_of_error_while/,False,6,1648124383,1,"when I write 
+```
+ createList :: String -&gt; [String]
+ createList """" = []
+ createList a = [takeWhile (/= ' ') a] ++ tempTest a
+ 
+ tempTest = createList . dropWhile (== ' ') . dropWhile (/= ' ') 
+
+```
+
+everything runs fine
+
+but when I replace the function call with actual function content like
+
+```
+ createList :: String -&gt; [String]
+ createList """" = []
+ createList a = [takeWhile (/= ' ') a] ++ createList . dropWhile (== ' ') . dropWhile (/= ' ') a
+```
+
+
+suddenly error starts coming
+
+```
+ TakeWhileDropWhile.hs:3:42: error:
+     • Couldn't match expected type '[[Char]]'
+                   with actual type 'a0 -&gt; [String]'
+     • Probable cause: '(.)' is applied to too few arguments
+       In the second argument of '(++)', namely
+         'createList . dropWhile (== ' ') . dropWhile (/= ' ') a'
+       In the expression:
+         [takeWhile (/= ' ') a]
+           ++ createList . dropWhile (== ' ') . dropWhile (/= ' ') a
+       In an equation for 'createList':
+           createList a
+             = [takeWhile (/= ' ') a]
+                 ++ createList . dropWhile (== ' ') . dropWhile (/= ' ') a
+   |
+ 3 | createList a = [takeWhile (/= ' ') a] ++ createList . dropWhile (== ' ') . dropWhile (/= ' ') a
+   |                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+ TakeWhileDropWhile.hs:3:76: error:
+     • Couldn't match expected type 'a0 -&gt; [Char]'
+                   with actual type '[Char]'
+     • Possible cause: 'dropWhile' is applied to too many arguments
+       In the second argument of '(.)', namely 'dropWhile (/= ' ') a'
+       In the second argument of '(.)', namely
+         'dropWhile (== ' ') . dropWhile (/= ' ') a'
+       In the second argument of '(++)', namely
+         'createList . dropWhile (== ' ') . dropWhile (/= ' ') a'
+   |
+ 3 | createList a = [takeWhile (/= ' ') a] ++ createList . dropWhile (== ' ') . dropWhile (/= ' ') a
+   |                                                                            ^^^^^^^^^^^^^^^^^^^^
+ Failed, no modules loaded.
+```
+
+can anyone please help me with this
+
+P.S. I am very new with haskell and I don't know all the FP terms",True,False,False,haskell,t5_2qh36,69518,public,self,Help in understanding the cause of error while using point free vs non point free.,0,[],1.0,https://www.reddit.com/r/haskell/comments/tm53ap/help_in_understanding_the_cause_of_error_while/,all_ads,6,,,,,,,,,,,,,,,
+34.0,[],False,dskippy,,[],,text,t2_2nw9r,False,False,False,[],False,False,1648089599,self.haskell,https://www.reddit.com/r/haskell/comments/tlvopj/looking_for_svg_library_recommendations/,{},tlvopj,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tlvopj/looking_for_svg_library_recommendations/,False,6,1648089610,1,"Hey everyone,
+
+I'm trying to accomplish some SVG drawing with Haskell. Any language, really, but my go to is Haskell. I'm not really opposed to another language if anyone has a really great library in another language but that's perhaps off topic. I'm having trouble finding a library that really does everything I want.
+
+What I'm trying to do is draw a series of SVGs that are all varied but similar in many ways. So code sharing is important, which is why I can't do this in SVG and I need a programming language to generate them. I need to load in SVGs that I'm using from other sources as icons and also fonts and things like that. 
+
+This is what I've looked into and found.
+
+[svg-tree](https://hackage.haskell.org/package/svg-tree) seems to be the library with the ability to read in SVG files and parse them into internal docs to manipulate.
+
+[lucid-svg](https://hackage.haskell.org/package/lucid-svg), which is recommended by svg-tree for doing actual drawing, doesn't seem to have this, but is much better for providing a drawing API, which I'll be using a lot of.
+
+[blaze-svg](https://hackage.haskell.org/package/blaze-svg) seems to not have any parser either, have much less documentation, and have a less nice API for drawing.
+
+I don't think the svg-tree data types are compatible with lucid-svg, but that'd be nice if they were based on each other.
+
+Does anyone know of a good setup for what I'm trying to do?",True,False,False,haskell,t5_2qh36,69516,public,self,Looking for SVG library recommendations,0,[],1.0,https://www.reddit.com/r/haskell/comments/tlvopj/looking_for_svg_library_recommendations/,all_ads,6,,,,,,,,,,,,,,,
+35.0,[],False,ysangkok,,[],,text,t2_4qktt,False,False,False,[],False,False,1648064445,github.com,https://www.reddit.com/r/haskell/comments/tl9zhp/usability_of_smart_constructors_and_large_records/,{},tl9zhp,False,False,False,False,False,False,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tl9zhp/usability_of_smart_constructors_and_large_records/,False,6,1648064456,1,,True,False,False,haskell,t5_2qh36,69512,public,default,"Usability of smart constructors and large records with required, optional, and default parameters",0,[],1.0,https://github.com/brendanhay/amazonka/issues/762,all_ads,6,https://github.com/brendanhay/amazonka/issues/762,link,"{'enabled': False, 'images': [{'id': 'O6VO0H4JUams3yAnx3irEgT5KDHWJLUACon8ugPUDEQ', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e1a451db4dc8627de165d8cfd2048129d4ff56ae', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d5c1ae5ac35c53b47a66afbd670cba93f22f7fb2', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a4effa035f6997992733e1ebc853966ba634d961', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1f543db74cb8cb0734b524776a6aeae57a23ede', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7b87494bcfb75f53de8da7a499b379f2e7d881ef', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bb1cfc4abbc9568fd27be46beabe112401bca63a', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/mk3hYGu9syDLSmk8u-HoOsOFZa6mg1RawRJQnykaB3o.jpg?auto=webp&amp;s=718a2f1ba2d0507608db852f8b0bcd903d992287', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,reddit,,,,,,,,
+36.0,[],False,DmitryTsepelev,,[],,text,t2_21cqe56c,False,False,False,[],False,False,1648026483,dmitrytsepelev.dev,https://www.reddit.com/r/haskell/comments/tkpt4c/im_a_rubyist_and_try_to_learn_haskellheres_my/,{},tkpt4c,False,True,False,False,False,True,False,False,#646d73,[],b4fae568-5d7b-11eb-80e1-0e53f0c0c9d5,blog,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tkpt4c/im_a_rubyist_and_try_to_learn_haskellheres_my/,False,6,1648026493,1,,True,False,False,haskell,t5_2qh36,69506,public,default,I'm a Rubyist and try to learn Haskell—here's my sailor journal 🙂,0,[],1.0,https://dmitrytsepelev.dev/haskell-adventures,all_ads,6,https://dmitrytsepelev.dev/haskell-adventures,,,,,,,,,,,,,,
+37.0,[],False,man-vs-spider,,[],,text,t2_5by84,False,False,False,[],False,False,1647965710,self.haskell,https://www.reddit.com/r/haskell/comments/tk6kxo/can_the_haskell_ffi_pass_functions_on_lists_to_c/,{},tk6kxo,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tk6kxo/can_the_haskell_ffi_pass_functions_on_lists_to_c/,False,6,1647965720,1,"I have been testing out the FFI to transfer code between Haskell and C. 
+
+I haven't seen this example but is it possible to pass a Haskell function to C with the type
+
+`myfunc :: [CDouble] -&gt; [CDouble]` ?
+
+I suspect that directly passing a function on lists is not possible. What about functions on storable vectors?
+
+`myfunc :: SV.Vector Double -&gt; SV.Vector Double` ?
+
+From what I've seen, transforming Haskell functions for C is handled by a ""wrapper"" function, I'm not sure what the limits of this conversion are.",True,False,False,haskell,t5_2qh36,69496,public,self,Can the Haskell FFI pass functions on lists to C?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tk6kxo/can_the_haskell_ffi_pass_functions_on_lists_to_c/,all_ads,6,,,,,,,,,,,,,,,
+38.0,[],False,Serokell,,[],,text,t2_fvl0rbg,False,False,False,[],False,False,1647953476,serokell.io,https://www.reddit.com/r/haskell/comments/tk2ar7/algebraic_data_types_in_haskell/,{},tk2ar7,False,True,False,False,False,True,False,False,#646d73,[],b4fae568-5d7b-11eb-80e1-0e53f0c0c9d5,blog,light,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tk2ar7/algebraic_data_types_in_haskell/,False,6,1647953487,1,,True,False,False,haskell,t5_2qh36,69495,public,default,Algebraic Data Types in Haskell,0,[],1.0,https://serokell.io/blog/algebraic-data-types-in-haskell,all_ads,6,https://serokell.io/blog/algebraic-data-types-in-haskell,link,"{'enabled': False, 'images': [{'id': 'NVhCbiPg_fHTo7UuuoCSuQlSjfbqzusvFdm6ecA_t5A', 'resolutions': [{'height': 64, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d75af30978d7d7e04f74d5608f3727c626c0e48c', 'width': 108}, {'height': 129, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2f3be83aaa647c6f5beaff781784ce7e24de081d', 'width': 216}, {'height': 192, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b4a891fd0b7a4f4e8faae35d093c1cb71d5c4e3e', 'width': 320}, {'height': 384, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d02c238fb1e3cf2b8b403ae42f5efda072acd04d', 'width': 640}, {'height': 576, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=723ae40899b97c6602d14da4be9ec101a6b8529a', 'width': 960}, {'height': 648, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ec0a2786d877cf14fb9ec11999a8e8dc5e4da63e', 'width': 1080}], 'source': {'height': 720, 'url': 'https://external-preview.redd.it/Mnfsk7lU_pt5y-MnEG3vAIj12wMLOfoMeWgnoK7B9_k.jpg?auto=webp&amp;s=465908e232be335b9ac8e417a9a6eaed20274d38', 'width': 1200}, 'variants': {}}]}",84.0,140.0,,,,,,,,,,
+39.0,[],False,gilgamec,,[],,text,t2_10h5agrx,False,False,False,[],False,False,1647951162,self.haskell,https://www.reddit.com/r/haskell/comments/tk1khp/reactivebanana_controlling_behavior_caching/,{},tk1khp,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tk1khp/reactivebanana_controlling_behavior_caching/,False,6,1647951172,1,"I've been writing a simple GUI app using `reactive-banana`, and I've run into a problem. The GUI displays one of two meshes: mesh A or mesh B; the user can switch between them by clicking a checkbox. My event network looks like this:
+
+    ---checkbox---+
+                  |
+    -------A------+---AorB---+
+                  |          |
+    -------B------+          +---mesh---
+                             |
+    --------drawParams-------+
+
+The problem is that every time I click the checkbox, the mesh now being visualized (either A or B) is regenerated, which takes quite a while. The event network doesn't trigger it -- `changes A` shows no activity -- but a `trace` in the (pure) generation function shows that the mesh being activated is being regenerated.
+
+(It used to be worse; before switching with `switchB`, I was generating AorB with, essentially, `liftA3 ifThenElse`, which made *both* of the meshes regenerate every time the checkbox was clicked!)
+
+I note, however, that merely changing the draw parameters does *not* result in a rebuilding of the mesh; apparently the value of AorB is cached in some way. Is there a way in `reactive-banana` to request this behaviour; that is, to tell it to cache the value of some Behavior so it doesn't have to recompute it when using it further down the network?",True,False,False,haskell,t5_2qh36,69495,public,self,reactive-banana: Controlling Behavior caching?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tk1khp/reactivebanana_controlling_behavior_caching/,all_ads,6,,,,,,,,,,,,,,,
+40.0,[],False,bedobi,,[],,text,t2_k155g,False,False,False,[],False,False,1647934181,self.haskell,https://www.reddit.com/r/haskell/comments/tjxh34/property_testing_am_i_missing_something/,{},tjxh34,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjxh34/property_testing_am_i_missing_something/,False,6,1647934191,1,"Seems like Haskellers using QuickCheck are the most avid and knowledgable proponents of property testing, so posting this here in /r/Haskell with the hope that y'all can overlook that my immediate context is Kotlin and not Haskell (my problem and question remains the same)
+
+---
+
+property testing is definitely cool but as much I hate to say it I can't really think of many use cases where we would benefit from it in a straightforward way
+
+intuitively it would be awesome to be able to do eg
+
+```
+    @Property
+    fun `validate email`(@ForAll @Email email: String) {
+        val validRequest = PatchUserRequest(
+            emailAddress = email
+        )
+
+        Assertions
+            .assertThat(
+                resourceExtension
+                    .validator
+                    //this just triggers the validation annotations on the PatchUserRequest
+                    .validate(validRequest)
+            ).isEmpty() //empty set of errors
+    }
+```
+
+where `@Email` is a generator rolled with jqwik, one of the libraries I'm looking at
+
+however it results in outcomes like this
+
+```WARN  [2022-03-22 16:32:52,523] net.jqwik.engine.properties.shrinking.PropertyShrinker: Shrinking timeout reached after 10 seconds.
+  You can switch on full shrinking with '@Property(shrinking = ShrinkingMode.FULL)'
+timestamp = 2022-03-22T16:32:52.559110, PatchUserResourceValidationPropertyTest:validate email =
+  java.lang.AssertionError:
+    Expecting empty but was:&lt;[ConstraintViolationImpl{interpolatedMessage='size must be between 0 and 132', propertyPath=emailAddress, rootBeanClass=class com.expedia.www.pc.user.profiles.service.feature.user.patch.PatchUserRequest, messageTemplate='{javax.validation.constraints.Size.message}'}]&gt;
+
+                              |-------------------jqwik-------------------
+tries = 5                     | # of calls to property
+checks = 5                    | # of not rejected calls
+generation = RANDOMIZED       | parameters are randomly generated
+after-failure = PREVIOUS_SEED | use the previous seed
+when-fixed-seed = ALLOW       | fixing the random seed is allowed
+edge-cases#mode = MIXIN       | edge cases are mixed in
+edge-cases#total = 6          | # of all combined edge cases
+edge-cases#tried = 0          | # of edge cases tried in current run
+seed = -6017398359074343523   | random seed to reproduce generated values
+
+Shrunk Sample (173 steps)
+-------------------------
+  email:
+    ""a@a.aaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aa""
+
+Original Sample
+---------------
+  email:
+    ""LYjj.!eU~/4uNo@LiORmZphysW9TWedM8juSCWt.a.k6okOmM32It3Xa5-0SAvx0Q-PkT69zwTcAwUk.6zhDh6KkeWMLMU7ygGUapowVxHAqhJwe.uEF8RGsqbgk8ZgdwKAYG.YlzIFZuXFxHVmiJBMuD.8gFl6qsh1xg6Lh.p.nUFeFU9aV.aC""
+
+  Original Error
+  --------------
+  java.lang.AssertionError:
+    Expecting empty but was:&lt;[ConstraintViolationImpl{interpolatedMessage='size must be between 0 and 132', propertyPath=emailAddress, rootBeanClass=class com.expedia.www.pc.user.profiles.service.feature.user.patch.PatchUserRequest, messageTemplate='{javax.validation.constraints.Size.message}'}]&gt;```
+
+
+because, while the jqwik email generator is possibly far more ""correct"" than our validators, our validators look the way they do because of a hodgepodge of legacy requirements and limitations
+
+```
+    @get:Email
+    //^^^ doesn't filter out whitespace or invisible separator or invisible control characters or unused code points
+    //so let's filter them out manually: [] ""any match on any contents"", ^ negative, \\p{Z} separators \\p{C} controls
+    //see http://www.regular-expressions.info/unicode.html
+    @get:Pattern(regexp = ""[^\\p{Z}\\p{C}]*"", message = ""not a well-formed email address"")
+    @get:Size(max = DB_MAX_EMAIL_LENGTH)
+    val emailAddress: String? = null
+```
+
+the same is true for eg our unicodename field (jqwik has a unicode generator but we in fact don't allow all unicode chars + we have length requirements etc etc) (length requirements are trivially customizable in all property testing libraries, just saying, our requirements are quirky)
+
+```
+private const val ALLOWED_CHARACTERS = ""^(?:[\\p{L}\\p{Mn}'\\x{2019}]+[\\p{Zs}\\p{Pd}\\.,'\\x{2019}]*)+\$""
+
+@Retention(AnnotationRetention.RUNTIME)
+@Target(AnnotationTarget.PROPERTY_GETTER)
+@MustBeDocumented
+@Constraint(validatedBy = [UnicodeNameValidator::class])
+annotation class ValidUnicodeName(
+    val message: String = """",
+    val groups: Array&lt;KClass&lt;out Any&gt;&gt; = [],
+    val payload: Array&lt;KClass&lt;out Payload&gt;&gt; = [],
+    val maxSize: Int = UNICODE_NAME_LENGTH,
+    val minSize: Int = 1,
+    val regExp: String = ALLOWED_CHARACTERS
+)
+
+class UnicodeNameValidator :
+    ConstraintValidator&lt;ValidUnicodeName, String&gt;,
+    NameValidator&lt;ValidUnicodeName&gt;() {
+
+    override fun initialize(constraint: ValidUnicodeName) {
+        this.maxSize = constraint.maxSize
+        this.minSize = constraint.minSize
+        this.regExp = Pattern.compile(constraint.regExp)
+    }
+}
+```
+
+and our asciiname (likewise jqwik has an asciigenerator but our asciiregex is a bit different from actual ascii + has length requirements etc etc) (length requirements are trivially customizable in all property testing libraries, just saying, our requirements are quirky)
+
+etc etc you can see where this is going
+
+intuitively I would hope the property testing libraries came with regex based string generators
+
+but they don't (or at least jqwik doesn't https://github.com/jlink/jqwik/issues/68)
+
+even if they did, it's kind of pointless - we know regex ""works"" - property testing a regex validator configured with a regex that is also used for a property testing regex generator seems nonsensical as the only time there would be a problem would be if the libraries did something different from each other, which we can't really help anyway
+
+it would be the same for property testing our property ids etc etc
+
+fundamentally the problem is our requirements are quirky and we use regex for validation for a lot if not most of our validators (which isn't great, but it is what it is)
+
+and basically it seems like for that reason while property testing is great for a lot of things but it may not be super applicable for our use cases - for us it's likely that our handwritten unit tests that test that eg an email address we expect our regex to fail fails is kind of enough (even if we unlike a property testing engine don't actually test millions of potential values)",True,False,False,haskell,t5_2qh36,69497,public,self,Property testing - am I missing something?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjxh34/property_testing_am_i_missing_something/,all_ads,6,,,,,,,,,,,,,,,
+41.0,[],False,RandsLC,,[],,text,t2_142hzo,False,False,False,[],False,False,1647915874,self.haskell,https://www.reddit.com/r/haskell/comments/tjsna2/need_the_basics_down_in_one_week_where_to_start/,{},tjsna2,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjsna2/need_the_basics_down_in_one_week_where_to_start/,False,6,1647915885,1,"For brief background, I am an experienced programmer, senior year in university. I am going to take a  compilers class in a week where they use Haskell to build the compiler. I have some exposure to Haskell before in a prior class but I have forgot most of the stuff. Haskall programming from first principles is too long and verbose and I fall asleep reading it as it seems to be a lot of explanations compared to exercises. I want to get ramped up quick, reviewing some of the material I forgot but also be prepared literally next Monday when the compilers class start. I am looking into reading the lecture notes and doing the exercises from this [https://www.seas.upenn.edu/%7Ecis194/spring13/lectures/01-intro.html](https://www.seas.upenn.edu/%7Ecis194/spring13/lectures/01-intro.html)
+
+&amp;#x200B;
+
+then reading yet another yet another monad tutorial and call it a day. Thoughts?",True,False,False,haskell,t5_2qh36,69490,public,self,Need the basics down in one week. Where to start.,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjsna2/need_the_basics_down_in_one_week_where_to_start/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'JBPQiWVGR6kNtMrBuEAnCd7XMUsW6ikoMImTzEy6ttg', 'resolutions': [{'height': 81, 'url': 'https://external-preview.redd.it/HLgCYPQUdVE06p_3C5WCDsaEEdIgY1CsHAylheZ5ZPs.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4313f548946149a845a4e88862014e5e0547385e', 'width': 108}, {'height': 162, 'url': 'https://external-preview.redd.it/HLgCYPQUdVE06p_3C5WCDsaEEdIgY1CsHAylheZ5ZPs.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=fa59e00db1b7712ad44ea3c99de0b100dc0ce99d', 'width': 216}, {'height': 240, 'url': 'https://external-preview.redd.it/HLgCYPQUdVE06p_3C5WCDsaEEdIgY1CsHAylheZ5ZPs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=637d8520eb366e8845c5d2d68a2aaaec461cd61d', 'width': 320}], 'source': {'height': 450, 'url': 'https://external-preview.redd.it/HLgCYPQUdVE06p_3C5WCDsaEEdIgY1CsHAylheZ5ZPs.jpg?auto=webp&amp;s=c180de1cebe2df44e728258e930e4f9df347f3e3', 'width': 600}, 'variants': {}}]}",,,,,,,,,,,,
+42.0,[],False,Bodigrim,,[],,text,t2_qou7f,False,False,False,[],False,False,1647910516,github.com,https://www.reddit.com/r/haskell/comments/tjqw7a/seeking_community_feedback_on_datalist/,{},tjqw7a,False,True,False,False,False,True,False,False,#646d73,[],a01b58a0-6553-11eb-b2eb-0eb19e8d97a5,RFC,light,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tjqw7a/seeking_community_feedback_on_datalist/,False,6,1647910527,1,,True,False,False,haskell,t5_2qh36,69491,public,default,Seeking community feedback on Data.List monomorphisation,0,[],1.0,https://github.com/haskell/core-libraries-committee/issues/22#issuecomment-1074567260,all_ads,6,https://github.com/haskell/core-libraries-committee/issues/22#issuecomment-1074567260,link,"{'enabled': False, 'images': [{'id': 'V5cL7LbSeNd62xaAdaMhsI4APJUlxrx9AMGlR1aoQW0', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=44650fd20707825908e4bc7cd06a635ebd80b1c5', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c9ae7847b10e851a199e0067c6499af83a99ea44', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1fa1061e333883ac34c203074ccd0eacfb0e464d', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83dd5553e6295adfb6fdc86c8fdc8288559002b1', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=cba25b95aeb6755edf4c5c218ffe4b4347d17507', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d6a25656c0ef30d9259cae33203dff50982a9067', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/ypy1ngfoil2vyCQhwcx750o6bJOkXj3YjaQzhNL4RoA.jpg?auto=webp&amp;s=3912b8ae6dbc05699c0101a83c07a744213f6d38', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+43.0,[],False,Bodigrim,,[],,text,t2_qou7f,False,False,False,[],False,False,1647910046,github.com,https://www.reddit.com/r/haskell/comments/tjqqnp/proposal_add_controlexceptionthrowioleft/,{},tjqqnp,False,True,False,False,False,True,False,False,#646d73,[],a01b58a0-6553-11eb-b2eb-0eb19e8d97a5,RFC,light,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tjqqnp/proposal_add_controlexceptionthrowioleft/,False,6,1647910056,1,,True,False,False,haskell,t5_2qh36,69491,public,default,Proposal: add Control.Exception.throwIOLeft,0,[],1.0,https://github.com/haskell/core-libraries-committee/issues/46,all_ads,6,https://github.com/haskell/core-libraries-committee/issues/46,link,"{'enabled': False, 'images': [{'id': 'vgd1AUQw8pojfvi4akNE3q9_yj9ZPBOyGE3b-998YT8', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e05f9cfedc62e0cdd6cd1f9784312fd98622405b', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2f1487bd1e4a03dec5534ab48ddfe2de2ebe6174', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b5ab6e8f22446c8ad8b53cfa847021a49e5f15b5', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f7ee6f3057219506c2240c47aa7d104c06fe617', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=63c03e241fc4199498870c6a7044d4bb9f0cd7a0', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cc367e8ab1a4c25156bf9eabae58681ed34ff634', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/hrrprXr5Ai_rVKQng872usLsKr42mrWZXw59PwHoKy4.jpg?auto=webp&amp;s=6e5e00580d8496f2790468d2768d8cb87e7d9e79', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+44.0,[],False,Billy_everett,,[],,text,t2_93hinyay,False,False,False,[],False,False,1647897695,self.haskell,https://www.reddit.com/r/haskell/comments/tjmcwy/assignment/,{},tjmcwy,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjmcwy/assignment/,False,6,1647897706,1,Hi is someone able to have a look at an assignment brief with me and go through and explain it a bit further at all? Thanks,True,False,False,haskell,t5_2qh36,69490,public,self,Assignment,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjmcwy/assignment/,all_ads,6,,,,,,,,,,,,,,,
+45.0,[],False,goldfirere,,[],,text,t2_culpc,False,False,False,[],False,False,1647896707,self.haskell,https://www.reddit.com/r/haskell/comments/tjm0ga/ghc_proposal_breakage_should_we_proceed/,{},tjm0ga,False,False,False,False,False,False,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjm0ga/ghc_proposal_breakage_should_we_proceed/,False,6,1647896718,1,[removed],True,False,False,haskell,t5_2qh36,69490,public,self,GHC Proposal breakage: should we proceed?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjm0ga/ghc_proposal_breakage_should_we_proceed/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'OJG748ShJcFDJ1aWUIBvxdQKSwqQpav1jNgx_cbSqzU', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ba28f0ba7d471524cd469d586b1a2fd3d274dabd', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ab37cbd4c026676488469e87039f24e75ec740c5', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=82a01ec4a0ddb9ca540293666e158df558958770', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f50f93d4aeac850bfa9a07bb7c8c6224dbe65639', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=c3f22e1cae5e9276de920868b0fbfe7bd88ec028', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=13921346b13fd4c8a37f0fca5aeb29bb1a676b2e', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/zFYyEXfToS9NBphNoIF3g6VL_-Qt-cUv5v1vkvWJnfA.jpg?auto=webp&amp;s=c18eafc26ebc361886caf004b5fe8638ecde926b', 'width': 1200}, 'variants': {}}]}",,,,reddit,,,,,,,,
+46.0,[],False,xeltius,,[],,text,t2_4mwj7,False,False,False,[],False,False,1647894223,self.haskell,https://www.reddit.com/r/haskell/comments/tjl2sg/what_does_your_workflow_look_like/,{},tjl2sg,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjl2sg/what_does_your_workflow_look_like/,False,6,1647894234,1,"How do you reason about problems? How do you take notes? Do you use diagrams, mind maps, etc. What little quality of life hacks do you use? Etc.",True,False,False,haskell,t5_2qh36,69490,public,self,What does your workflow look like?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjl2sg/what_does_your_workflow_look_like/,all_ads,6,,,,,,,,,,,,,,,
+47.0,[],False,crisoagf,,[],,text,t2_aw38c,False,False,False,[],False,False,1647886534,self.haskell,https://www.reddit.com/r/haskell/comments/tji67i/are_monoidalproductprofunctor_and_traversing/,{},tji67i,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tji67i/are_monoidalproductprofunctor_and_traversing/,False,6,1647886544,1,"Hi all,
+
+I am trying to wrap my head around the Profunctor typeclasses.
+
+Notably, I am trying to find out why there isn't a lot of code around using something like `Monoidal`/`ProductProfuctor` and instead there seems to have been a decision to go for `Traversing` and similar typeclasses.
+
+I have been looking mostly at [this discussion](https://www.reddit.com/r/haskell/comments/73tlhs/dont_fear_the_profunctor_optics) from a couple of years ago that has the following:
+
+- davemenendez says that you can implement `wander` using the `Monoidal` typeclass (which, as far as I can tell, is only true if your profunctor is representable?)
+- ekmett says that `Monoidal` is _implemented_ via `Traversing` in the `profunctors` lib (which doesn't make sense to me, because I don't see how one can write one in terms of the other)
+
+There's the [glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html#t:Monoidal) blog post from Oleg that also mentions `Monoidal`, but with disappointment because it doesn't bring much on top of `Choice`, if I understand correctly (but I don't see e.g. `Costar` mentioned in the table where this conclusion is reached).
+
+I have spent a couple of hours trying to implement `Monoidal` in terms of `Traversing` and vice-versa and gone nowhere unless I also bring `Representable` to the table, but there are some good examples for non-representable instances of `Monoidal` so I don't want to do this.
+
+Either I am missing some cool trick in my bag of tricks or I really don't understand what's happening here.
+
+Anyone got some illuminating text or notes or something?",True,False,False,haskell,t5_2qh36,69491,public,self,Are Monoidal/ProductProfunctor and Traversing?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tji67i/are_monoidalproductprofunctor_and_traversing/,all_ads,6,,,,,,,,,,,,,,,
+48.0,[],False,rhl120,,[],,text,t2_6cjrymqf,False,False,False,[],False,False,1647879920,self.haskell,https://www.reddit.com/r/haskell/comments/tjforr/writing_proper_haskell_code/,{},tjforr,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjforr/writing_proper_haskell_code/,False,6,1647879930,1,"Hi,
+
+I have recently learned Haskell and have written some code but I feel like I am just writing pure functions in a procedural and I am not taking advantage of the abstractions offered by Haskell. It is not that I don't know about these abstractions it is because I don't think about them when I am writing code so my question is do you have any suggestions on how to actually write code that takes complete advantage of Haskell's awesomeness? Feel free to point me to any book/articles/videos that talk about this subject. Thanks!
+
+PS: In order to learn Haskell I have read Learn you a Haskell for great good and Haskell from first principles.",True,False,False,haskell,t5_2qh36,69490,public,self,Writing proper Haskell code,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjforr/writing_proper_haskell_code/,all_ads,6,,,,,,,,,,,,,,,
+49.0,[],False,lazygoose152,,[],,text,t2_g3bhhkot,False,False,False,[],False,False,1647878237,leanprover.github.io,https://www.reddit.com/r/haskell/comments/tjf1gv/leans_do_notation/,{},tjf1gv,False,False,False,False,False,False,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjf1gv/leans_do_notation/,False,6,1647878248,1,,True,False,False,haskell,t5_2qh36,69490,public,default,Lean's do notation.,0,[],1.0,https://leanprover.github.io/lean4/doc/do.html,all_ads,6,https://leanprover.github.io/lean4/doc/do.html,,,,,,reddit,,,,,,,,
+50.0,[],False,Asleep-Pen935,,[],,text,t2_kys6yc6a,False,False,False,[],False,False,1647870638,self.haskell,https://www.reddit.com/r/haskell/comments/tjc9qw/basic_funtions_types/,{},tjc9qw,False,False,False,False,False,False,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tjc9qw/basic_funtions_types/,False,6,1647870649,1,[removed],True,False,False,haskell,t5_2qh36,69484,public,self,basic funtions types,0,[],1.0,https://www.reddit.com/r/haskell/comments/tjc9qw/basic_funtions_types/,all_ads,6,,,,,,,automod_filtered,,,,,,,,
+51.0,[],False,xieyuheng,,[],,text,t2_cuza9,False,False,False,[],False,False,1647852909,lambda.cicada-lang.org,https://www.reddit.com/r/haskell/comments/tj7be8/an_online_playground_of_lambda_calculus/,{},tj7be8,False,False,False,False,False,False,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tj7be8/an_online_playground_of_lambda_calculus/,False,6,1647852919,1,,True,False,False,haskell,t5_2qh36,69481,public,default,An online playground of lambda calculus.,0,[],1.0,https://lambda.cicada-lang.org/playground/KGRlZmluZSAodHJ1ZSB0IGYpIHQpCihkZWZpbmUgKGZhbHNlIHQgZikgZikKCihkZWZpbmUgKGlmIHAgdCBmKSAocCB0IGYpKQoKKGRlZmluZSAoYW5kIHggeSkgKGlmIHggeSBmYWxzZSkpCihkZWZpbmUgKG9yIHggeSkgKGlmIHggdHJ1ZSB5KSkKKGRlZmluZSAobm90IHgpIChpZiB4IGZhbHNlIHRydWUpKQoKKGFuZCB0cnVlIGZhbHNlKQoobm90IChub3QgKG9yIHRydWUgZmFsc2UpKSk,all_ads,6,https://lambda.cicada-lang.org/playground/KGRlZmluZSAodHJ1ZSB0IGYpIHQpCihkZWZpbmUgKGZhbHNlIHQgZikgZikKCihkZWZpbmUgKGlmIHAgdCBmKSAocCB0IGYpKQoKKGRlZmluZSAoYW5kIHggeSkgKGlmIHggeSBmYWxzZSkpCihkZWZpbmUgKG9yIHggeSkgKGlmIHggdHJ1ZSB5KSkKKGRlZmluZSAobm90IHgpIChpZiB4IGZhbHNlIHRydWUpKQoKKGFuZCB0cnVlIGZhbHNlKQoobm90IChub3QgKG9yIHRydWUgZmFsc2UpKSk,,,,,,reddit,,,,,,,,
+52.0,[],False,SleezyROM,,[],,text,t2_7meizuh9,False,False,False,[],False,False,1647850311,self.haskell,https://www.reddit.com/r/haskell/comments/tj6prl/pure_vs_return_what_do_you_use/,{},tj6prl,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tj6prl/pure_vs_return_what_do_you_use/,False,6,1647850321,1,"I've seen a lot of different places use either or the other. I *personally* think that when thinking about Monadic actions `pure` makes more? Return in my brain brain (coming from the mainstream C like programming style) just means stop the function and return a value. Not wrap into a computation. 
+
+Maybe it's the difference from `lift`? Not sure, what does the community think?",True,False,False,haskell,t5_2qh36,69481,public,self,pure VS return: What do you use?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tj6prl/pure_vs_return_what_do_you_use/,all_ads,6,,,,,,,,,,,,,,,
+53.0,[],False,SleezyROM,,[],,text,t2_7meizuh9,False,False,False,[],False,False,1647850128,self.haskell,https://www.reddit.com/r/haskell/comments/tj6o6z/eli5_why_return_over_pure_vice_versa_etc/,{},tj6o6z,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tj6o6z/eli5_why_return_over_pure_vice_versa_etc/,False,6,1647850138,1,"I've seen a lot of different places use either or the other. I *personally* think that when thinking about Monadic actions `pure` makes more? Return in my brain brain (coming from the mainstream C like programming style) just means stop the function and return a value. Not wrap into a computation. 
+
+Maybe it's the difference from \`lift\`? Not sure, what does the community think?",True,False,False,haskell,t5_2qh36,69481,public,self,"ELI5: Why `return` over `pure`? (Vice versa, etc)",0,[],1.0,https://www.reddit.com/r/haskell/comments/tj6o6z/eli5_why_return_over_pure_vice_versa_etc/,all_ads,6,,,,,,,,,,,,,,,
+54.0,[],False,flavortownXpress,,[],,text,t2_dxklpceb,False,False,False,[],False,False,1647845571,self.haskell,https://www.reddit.com/r/haskell/comments/tj5lcz/best_resources_for_highlevel_explanations_of/,{},tj5lcz,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tj5lcz/best_resources_for_highlevel_explanations_of/,False,6,1647845581,1,"After reading LYAH what I'd love is something like an article to help me make some connections between higher level concepts in haskell, anything to help connect the dots in my brain.
+
+Any good resources ? 
+
+Thanks",True,False,False,haskell,t5_2qh36,69480,public,self,Best resources for high-level explanations of concepts in haskell /FP?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tj5lcz/best_resources_for_highlevel_explanations_of/,all_ads,6,,,,,,,,,,,,,,,
+55.0,[],False,runclub95,,[],,text,t2_a39n3rtd,False,False,False,[],False,False,1647825821,stackage.org,https://www.reddit.com/r/haskell/comments/tj0496/stack_lts_19_release_and_nightly_on_ghc92/,{},tj0496,False,True,False,False,False,True,False,False,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tj0496/stack_lts_19_release_and_nightly_on_ghc92/,False,6,1647825832,1,,True,False,False,haskell,t5_2qh36,69480,public,default,Stack LTS 19 release and Nightly on ghc-9.2,0,[],1.0,https://www.stackage.org/blog/2022/03/announce-lts-19-nightly-ghc9.2,all_ads,6,https://www.stackage.org/blog/2022/03/announce-lts-19-nightly-ghc9.2,link,"{'enabled': False, 'images': [{'id': '4QAIFGORf3PCsbD5d-aii0UcJPVe_lHONhYGizjt_ik', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/-fBJQ6cT4DlQY0UhYE6y6nJpTCtDsr3td5RBU-j3AxE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d88357a71a2ac23b5c8eda62a494f6210b23ee91', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/-fBJQ6cT4DlQY0UhYE6y6nJpTCtDsr3td5RBU-j3AxE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=850519e6944f34a918b6da29ef62c65ef7f5897c', 'width': 216}], 'source': {'height': 222, 'url': 'https://external-preview.redd.it/-fBJQ6cT4DlQY0UhYE6y6nJpTCtDsr3td5RBU-j3AxE.jpg?auto=webp&amp;s=5282af427989ef51a95fff90c3fc8d321cd3863e', 'width': 222}, 'variants': {}}]}",140.0,140.0,,,,,,,,,,
+56.0,[],False,dreixel,,[],,text,t2_378rf,False,False,False,[],False,False,1647791259,discourse.haskell.org,https://www.reddit.com/r/haskell/comments/tinwvw/haskell_internships_with_standard_chartered_bank/,{},tinwvw,False,True,False,False,False,True,False,False,#646d73,[],e937232e-16d0-11eb-89ac-0ee006d12603,job,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tinwvw/haskell_internships_with_standard_chartered_bank/,False,6,1647791270,1,,True,False,False,haskell,t5_2qh36,69477,public,default,Haskell internships with Standard Chartered Bank in the UK,0,[],1.0,https://discourse.haskell.org/t/haskell-internships-with-standard-chartered-bank-in-the-uk/4235,all_ads,6,https://discourse.haskell.org/t/haskell-internships-with-standard-chartered-bank-in-the-uk/4235,link,"{'enabled': False, 'images': [{'id': 'XhnL6WWJsiTBiFZNDaVBos6LZEHC-CwcU8a-GfAbSI0', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/uUxcC4pq2wPNhEfNaesM3eWEpkU7wsrPRqmskOz28TI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=357339a94c322654e0281db4a1892fab73d790c5', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/uUxcC4pq2wPNhEfNaesM3eWEpkU7wsrPRqmskOz28TI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2d9ea710376fee59a8845edeed4c447807d59577', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/uUxcC4pq2wPNhEfNaesM3eWEpkU7wsrPRqmskOz28TI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e0c57cabee856b6f52fa45e4490c630ba7356457', 'width': 320}], 'source': {'height': 512, 'url': 'https://external-preview.redd.it/uUxcC4pq2wPNhEfNaesM3eWEpkU7wsrPRqmskOz28TI.jpg?auto=webp&amp;s=9fbd287efb137f61b5c25ef11bea05bb241003d0', 'width': 512}, 'variants': {}}]}",140.0,140.0,,,,,,,,,,
+57.0,[],False,epoberezkin,,[],,text,t2_13t18x,False,False,False,[],False,False,1647784239,self.haskell,https://www.reddit.com/r/haskell/comments/tilhpz/haskell_network_library_tcp_keepalive_parameters/,{},tilhpz,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tilhpz/haskell_network_library_tcp_keepalive_parameters/,False,6,1647784249,1,"Maybe somebody here can help me out...
+
+How can I configure TCP keep alive parameters per-socket, specifically TCP\_KEEPCNT, TCP\_KEEPIDLE and TCP\_KEEPINTVL? This is based on this doc for context.
+
+[network](https://hackage.haskell.org/package/network-3.1.2.7/docs/Network-Socket.html#g:7) library exposes SO\_KEEPALIVE parameter that as I understand enables/disables it, but not the three parameters above? Even with that parameter, when I print its value after setting it to 1 in the client I get 64 and in the server I get 8 – so I am not sure if I am setting it correctly...
+
+There is also [keep-alive](https://hackage.haskell.org/package/keep-alive-0.2.0.0/docs/Network-Socket-KeepAlive.html) library that seems to allow configuring TCP\_KEEPIDLE and TCP\_KEEPINTVL per socket, but it doesn't compile on Mac.
+
+I would really appreciate any suggestions here - thank you!",True,False,False,haskell,t5_2qh36,69475,public,self,Haskell network library TCP keep-alive parameters,0,[],1.0,https://www.reddit.com/r/haskell/comments/tilhpz/haskell_network_library_tcp_keepalive_parameters/,all_ads,6,,,,,,,,,,,,,,,
+58.0,[],False,xieyuheng,,[],,text,t2_cuza9,False,False,False,[],False,False,1647781040,github.com,https://www.reddit.com/r/haskell/comments/tikh8f/github_cicadalanglambda_an_implementation_of/,{},tikh8f,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tikh8f/github_cicadalanglambda_an_implementation_of/,False,6,1647781050,1,,True,False,False,haskell,t5_2qh36,69473,public,default,GitHub - cicada-lang/lambda: An implementation of (Untyped) Lambda Calculus in JavaScript.,0,[],1.0,https://github.com/cicada-lang/lambda,all_ads,6,https://github.com/cicada-lang/lambda,link,"{'enabled': False, 'images': [{'id': 'h22shGjpIlJACDb-LHBI4e3A1SNB47qVXlllsByHKKk', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=90cf88a2fcb9f8b6ffa74cd272b2c5dc4f8cfb8b', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b3fda23f822cb3589eb5512e8ba21d275ce99575', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9ebd71cfa72375af8b74d4ea7d5deaa57e826982', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e077f29b1139cd6ea46a4965ea75880f6d6fd9a9', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=325fb3b38834a892e52dc54eae1569ee17abc7ed', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7be0bce3577c89de3bcc4cb45fc282be665ff9eb', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/qF-5oa7EcG1zm_v1-2X-a6HqrwLtuIHxQUxeQzd5roY.jpg?auto=webp&amp;s=32559264d7dc643c86984d33eb507207ed660fad', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+59.0,[],False,sullyj3,,[],,text,t2_5b0kp,False,False,False,[],False,False,1647766137,self.haskell,https://www.reddit.com/r/haskell/comments/tigsot/confused_about_design_of_yesod_form_api/,{},tigsot,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tigsot/confused_about_design_of_yesod_form_api/,False,6,1647766147,1,"I understand that this might come across as rude, and I apologise in advance if it does, but is anyone able to give me some rationale for why the Yesod forms API is the way it is? It seems to me to be incredibly overcomplicated. There's a mess of boilerplate, what with creating a data type and generating a widget from it, even if you need all of two fields, as in the case of a login form. In particular, controlling the layout and appearance of the form seems to be extremely cumbersome. The applicative API seems basically useless, given that you don't have any control over appearance - as soon as you want to do something as simple as tweak the label font size you have to drop to the monadic API.
+
+I'm coming from Flask here, so my reference point that you just write your form in a jinja2 template, in which you have full and straightforward control over the form's layout and appearance, then you access the form data from a request like so:
+
+```
+@app.route(""/login"", methods=(""GET"", ""POST""))
+def login():
+    """"""Log in a registered user by adding the user id to the session.""""""
+    if request.method == ""POST"":
+        username = request.form[""username""]
+        password = request.form[""password""]
+
+        # do things with username and password
+```
+
+Why not have something similar in Yesod, simply write the form as a Hamlet widget, and access the form data by name, instead of all this stuff with creating a datatype and generating the widget from it using `generateFormPost` and `runFormPost`? I'm new to Yesod, so I understand I'm probably missing a lot of information. But I don't think I require much expertise to state that I'm finding the API pretty unpleasant to use.",True,False,False,haskell,t5_2qh36,69471,public,self,Confused about design of Yesod form API,0,[],1.0,https://www.reddit.com/r/haskell/comments/tigsot/confused_about_design_of_yesod_form_api/,all_ads,6,,,,,,,,,,,,,,,
+60.0,[],False,man-vs-spider,,[],,text,t2_5by84,False,False,False,[],False,False,1647737308,self.haskell,https://www.reddit.com/r/haskell/comments/ti9c0n/what_is_a_good_data_type_for_doing_initial_value/,{},ti9c0n,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/ti9c0n/what_is_a_good_data_type_for_doing_initial_value/,False,6,1647737318,1,"I'm making an ODE solver using Runge-Kutta. Implementing with lists is pretty easy but I was wondering if lists are the best container to be using.
+
+ODE's solved in this way start with an initial condition and are solved by advancing by a time-step (if time is the relevant parameter) based on the current state. This is nicely solved using the `iterate` function. 
+
+I was initially planning on switching to a vector type or similar, but maybe that is not necessary?
+
+Any thoughts on if it's worth trying different container types?",True,False,False,haskell,t5_2qh36,69474,public,self,What is a good data type for doing initial value ODE's?,0,[],1.0,https://www.reddit.com/r/haskell/comments/ti9c0n/what_is_a_good_data_type_for_doing_initial_value/,all_ads,6,,,,,,,,,,,,,,,
+61.0,[],False,NNOTM,,[],,text,t2_6ztbu,False,False,False,[],False,False,1647723346,self.haskell,https://www.reddit.com/r/haskell/comments/ti4nci/utility_to_print_anything_with_a_data_instance/,{},ti4nci,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/ti4nci/utility_to_print_anything_with_a_data_instance/,False,6,1647723357,1,"I don't know how often this particular situation comes up in other contexts, but when working with GHC and trying to print the Haskell expression ASTs it produces, I've run into a problem:  
+They don't have a `Show` instance.
+
+Now, I expect you'll say ""But /u/NNOTM"", just add a standalone deriving instance!""
+
+I thought the same. However, it's such a complex graph of dependencies involving type families and similar that I gave up after 20 minutes of trying to add deriving instances for some types and finding workarounds for others where that's not possible.
+
+Conveniently, however, GHC's expressions do have `Data` instances, and as it turns out, you can use those to convert them to Strings:
+
+    {-# LANGUAGE AllowAmbiguousTypes #-}
+    {-# LANGUAGE MonadComprehensions #-}
+    {-# LANGUAGE ScopedTypeVariables #-}
+
+    import Data.Data
+    import Control.Applicative
+    import Data.Functor
+    import Data.Maybe
+    import Data.List
+
+    genericShow :: forall a . Data a =&gt; a -&gt; String
+    genericShow a = catchAll `fromMaybe` asum [tryShow @String]
+      where
+        tryShow :: forall e . (Show e, Typeable e) =&gt; Maybe String
+        tryShow = cast @_ @e a &lt;&amp;&gt; show
+        catchAll :: String
+        catchAll | null rest = ctr
+                 | otherwise = ""("" &lt;&gt; intercalate "" "" (ctr : gmapQ genericShow a) &lt;&gt; "")""
+          where rest = gmapQ genericShow a
+                ctr = show (toConstr a)
+
+    data Example = Node String Int Char Example
+                 | Empty
+                 deriving Data
+
+    main :: IO ()
+    main = putStrLn . genericShow $ Node ""foo"" 1 'a' $ Node ""bar"" 42 'b' Empty
+
+    -- Output:
+    -- (Node ""foo"" 1 'a' (Node ""bar"" 42 'b' Empty))
+
+Caveats:  
+It's possible that there's situations that I haven't run into where this breaks down.
+You can see that I special-cased `String` so that `""foo""` isn't shown as `(:) 'f' ((:) 'o' ((:) 'o' []))` - If there are other types that shouldn't use the generic way of showing it, they'd have to be similarly special-cased.
+
+Anyway, I thought I'd post this here in case it's useful for someone.",True,False,False,haskell,t5_2qh36,69469,public,self,Utility to print anything with a Data instance (but no Show instance),0,[],1.0,https://www.reddit.com/r/haskell/comments/ti4nci/utility_to_print_anything_with_a_data_instance/,all_ads,6,,,,,,,,,,,,,,,
+62.0,[],False,skyb0rg,,[],,text,t2_83z9i,False,False,False,[],False,False,1647717012,self.haskell,https://www.reddit.com/r/haskell/comments/ti2eaa/intuition_for_comonads/,{},ti2eaa,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/ti2eaa/intuition_for_comonads/,False,6,1647717023,1,"In Haskell all the Comonads (at least the ones defined in the comonads package) are duals of transformers Monad Transformers. This is taken by changing the occurrence of the “state parameter” from positive to negative occurrence ((,) s &lt;-&gt; (-&gt;) s). 
+
+For example (in pseudocode)
+
+    —- m is Monad, w is Comonad
+
+    —- Writer and Co-writer
+    WriterT s m a ~ m ((,) s a)
+    TracedT s w a ~ w ((-&gt;) s a)
+
+    —- Reader and Co-reader
+    ReaderT s m a ~ (-&gt;) s (m a)
+    EnvT s w a ~ (,) s (w a)
+
+    —- State and Co-State
+    StateT s m a ~ (-&gt;) s (m ((,) s a))
+    StoreT s w a ~ (,) s (w ((-&gt;) s a))
+
+However this is also a pretty restricted notion of duality. I wanted to know if there is a more intuition as to why this is the case, and then to what the dual of something like `MaybeT`, `SelectT`, and `ContT` (or is there?). Or why (-&gt;) and (,) are duals (because one is the exponential, and the other is the product); why aren’t the duals Either and (,)?
+
+    MaybeT m a ~ m (Maybe a)
+               ~ m (1 + a)
+    CoMaybeT w a ~ w (Void, a)
+                 ~ w (0 * a)
+    —- Note that CoMaybeT is uninhabited when w is a Comonad",True,False,False,haskell,t5_2qh36,69468,public,self,Intuition for Comonads,0,[],1.0,https://www.reddit.com/r/haskell/comments/ti2eaa/intuition_for_comonads/,all_ads,6,,,,,,,,,,,,,,,
+63.0,[],False,fumieval,,[],,text,t2_fwirv,False,False,False,[],False,False,1647691347,github.com,https://www.reddit.com/r/haskell/comments/thtrew/wordcompat_supporting_word8_and_the_like_with_no/,{},thtrew,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/thtrew/wordcompat_supporting_word8_and_the_like_with_no/,False,6,1647691357,1,,True,False,False,haskell,t5_2qh36,69471,public,default,word-compat: supporting Word8# and the like with no bother,0,[],1.0,https://github.com/fumieval/word-compat,all_ads,6,https://github.com/fumieval/word-compat,link,"{'enabled': False, 'images': [{'id': 'nS759pFTg0syIo3LiRqDdAZyXPj60WgSpjh_bgOPz0s', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=1a53851ea9bdcbc010ae42c69327f568d293cda0', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c8db2cffd94c120fcebfc5a895f05e0c6af3dd87', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=81388064c2e5e708714dfe0ebfcf1ae91cf7e96e', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc37b8b7a7221ba974af8e3d133b7423bcb41e1c', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=36c372428930b25a1e20038681c7c8465adef94c', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=92874c63f1ad9d37694a2abeda79fa382cf2fbc7', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/Ou0EHgX3MbHpEBn9AbrHoRCFxb7qvIgwZnsaspcj-jo.jpg?auto=webp&amp;s=2eeed188c0177aaa9e6f74f7d3148e7d95e519c9', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+64.0,[],False,AbjectBasket7,,[],,text,t2_2w3bst51,False,False,False,[],False,False,1647628679,self.haskell,https://www.reddit.com/r/haskell/comments/thby6s/an_audit_monad/,{},thby6s,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/thby6s/an_audit_monad/,False,6,1647628690,1,[http://www.jerf.org/iri/post/2958](http://www.jerf.org/iri/post/2958) this article discusses a hypothetical AuditableData Monad that records historic results.  Can such a monad be created that obeys the  monad identity laws?,True,False,False,haskell,t5_2qh36,69465,public,self,An audit Monad,0,[],1.0,https://www.reddit.com/r/haskell/comments/thby6s/an_audit_monad/,all_ads,6,,,,,,,,,,,,,,,
+65.0,[],False,Innf107,,[],,text,t2_3hk0np9x,False,False,False,[],False,False,1647627084,prophetlabs.de,https://www.reddit.com/r/haskell/comments/thaqi6/faking_local_instances_with_unsafecoerce_dict/,{},thaqi6,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/thaqi6/faking_local_instances_with_unsafecoerce_dict/,False,6,1647627094,1,,True,False,False,haskell,t5_2qh36,69465,public,default,Faking Local Instances with unsafeCoerce Dict,0,[],1.0,https://prophetlabs.de/posts/unsafeCoerceDict.html,all_ads,6,https://prophetlabs.de/posts/unsafeCoerceDict.html,,,,,,,,,,,,,,
+66.0,[],False,Innf107,,[],,text,t2_3hk0np9x,False,False,False,[],False,False,1647627008,self.haskell,https://www.reddit.com/r/haskell/comments/thamn2/faking_local_instances_with_unsafecoerce_dict/,{},thamn2,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/thamn2/faking_local_instances_with_unsafecoerce_dict/,False,6,1647627019,1,,True,False,False,haskell,t5_2qh36,69465,public,self,Faking Local Instances with unsafeCoerce Dict,0,[],1.0,https://www.reddit.com/r/haskell/comments/thamn2/faking_local_instances_with_unsafecoerce_dict/,all_ads,6,,,,,,,,,,,,,,,
+67.0,[],False,ysangkok,,[],,text,t2_4qktt,False,False,False,[],False,False,1647623692,stackage.org,https://www.reddit.com/r/haskell/comments/th6zme/stackage_lts_190_is_released_with_ghc_902/,{},th6zme,False,False,False,False,False,False,False,False,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/th6zme/stackage_lts_190_is_released_with_ghc_902/,False,6,1647623703,1,,True,False,False,haskell,t5_2qh36,69465,public,default,Stackage LTS 19.0 is released with GHC 9.0.2,0,[],1.0,https://www.stackage.org/lts-19.0,all_ads,6,https://www.stackage.org/lts-19.0,,,,,,reddit,,,,,,,,
+68.0,[],False,mirkeau,,[],,text,t2_2rafjlo8,False,False,False,[],False,False,1647619605,self.haskell,https://www.reddit.com/r/haskell/comments/th4twn/understanding_tolistof_with_van_laarhoven/,{},th4twn,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/th4twn/understanding_tolistof_with_van_laarhoven/,False,6,1647619616,1,"As a voluntary exercise I try to implement van Laarhoven lenses, prisms, traversals, folds and isos. For me, it’s all very abstract, but I feel like I’m making slow progress. Sometimes the intuition doesn’t work for me, then I try to let me guide by the types. When implementing `toListOf` I get stuck because “type tetris” doesn’t help anymore:
+
+They start with
+
+    toListOf :: Traversal s s a a -&gt; (s -&gt; [a])
+
+where a `Traversal s t a b` s is a function
+
+    forall f. Applicative f =&gt; (a -&gt; f b) -&gt; (s -&gt; f t)
+
+Then, they generalize `Traversal s s a a` to
+
+    (a -&gt; Const (Endo [a]) a) -&gt; (s -&gt; Const (Endo [a]) s)
+
+and this is the resulting function I try to implement:
+
+    toListOf :: ((a -&gt; Const (Endo [a]) a) -&gt; (s -&gt; Const (Endo [a]) s)) -&gt; (s -&gt; [a])
+    toListOf t x = undefined
+
+`t` is the ""Traversal"", `x` is of type `s` and we expect a result of type `[a]`.
+
+My baby steps:
+
+* `t` expects a function from `a` to `Const (Endo [a]) a`, the only one I could think of is `Const . Endo . map . const`.
+* After applying `t` to it, I get a function
+
+&amp;#8203;
+
+    foo = t $ Const . Endo . map . const :: s -&gt; Const (Endo [a]) s
+
+* Then I have `x` as a value of type `s` and apply `foo x`, extract the value with `getConst` and finally get an `Endo [a]`.
+
+I have no idea how an `Endo [a]`, a function `[a] -&gt; [a]` helps me to get a final `[a]` value without having an initial list of `a` values. Of course I tried to use `[]`, but as the following running but failing test shows, my implementation doesn't do ""the right thing"":
+
+    module TinyLens where
+    
+    import Data.Functor.Const ( Const(Const), getConst )
+    import Data.Semigroup ( Endo(Endo), appEndo )
+    import Test.QuickCheck ( quickCheck )
+    
+    elements :: (Traversable t, Applicative f) =&gt; (a -&gt; f b) -&gt; (t a -&gt; f (t b))
+    elements = traverse
+    
+    toListOf :: ((a -&gt; Const (Endo [a]) a) -&gt; (s -&gt; Const (Endo [a]) s)) -&gt; (s -&gt; [a])
+    toListOf t x =  let foo = t $ Const . Endo . map . const
+                        bar = getConst $ foo x
+                    in  appEndo bar []
+    
+    propSameList :: [Int] -&gt; Bool
+    propSameList xs = toListOf elements xs == xs
+    
+    main = quickCheck propSameList
+
+Can somebody give me some hints or point out mistakes I made before?
+
+Thanks for your time!",True,False,False,haskell,t5_2qh36,69464,public,self,Understanding toListOf with van Laarhoven traversals,0,[],1.0,https://www.reddit.com/r/haskell/comments/th4twn/understanding_tolistof_with_van_laarhoven/,all_ads,6,,,,,,,,,,,,,,,
+69.0,[],False,xieyuheng,,[],,text,t2_cuza9,False,False,False,[],False,False,1647618475,github.com,https://www.reddit.com/r/haskell/comments/th4dk0/an_implementation_of_interaction_nets_not_only/,{},th4dk0,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/th4dk0/an_implementation_of_interaction_nets_not_only/,False,6,1647618485,1,,True,False,False,haskell,t5_2qh36,69465,public,default,"An implementation of Interaction Nets (not only deterministic on computation result, but also the computation is unique, up to trivial commutations).",0,[],1.0,https://github.com/cicada-lang/inet,all_ads,6,https://github.com/cicada-lang/inet,link,"{'enabled': False, 'images': [{'id': '09EHM42AOM7LN0X8EgKaVMW4kgKklcqK-fiE5IcjZzw', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=66957109bca56a114bb1ea9f8525fd0707dbc605', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5b480e0a1a113c8bc3b45017fd235cac46d81b8e', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f7915fa3a5dbf2daf039635d3db9fa1a723393b9', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c032e454f78ba5f0b0788939d839f536078edb2', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=cf75b13f34f7657c2378beb8013df46498c02307', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=357b6a3a1da08fe23b3479ae284f4101b8e615f7', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/gag6cI_g5UjP1LRdbhRmqQbzR0wFGaS0m98weAC__uo.jpg?auto=webp&amp;s=f8364491f725b3ebcc2edd05453e9ce170f35085', 'width': 1200}, 'variants': {}}]}",70.0,140.0,,,,,,,,,,
+70.0,[],False,rbrucesp,,[],,text,t2_cascywq,False,False,False,[],False,False,1647611437,self.haskell,https://www.reddit.com/r/haskell/comments/th1sco/conversion_to_tagless_style/,{},th1sco,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/th1sco/conversion_to_tagless_style/,False,6,1647611447,1,"Hello, I have read about Typed Tagless Final Interpeters ([https://okmij.org/ftp/tagless-final/index.html#course-oxford](https://okmij.org/ftp/tagless-final/index.html#course-oxford)) and found the conversion from untyped ASTs or strings to this representation very difficult ([https://okmij.org/ftp/tagless-final/course/TypeCheck.hs](https://okmij.org/ftp/tagless-final/course/TypeCheck.hs)).
+
+&amp;#x200B;
+
+I tried to use the Equality Package for that, because I saw that it works very good with GADTS, but I couldn't get it work with a tagless style. 
+
+&amp;#x200B;
+
+    {-# LANGUAGE GADTs #-}
+    {-# LANGUAGE Rank2Types  #-}
+    {-# LANGUAGE FunctionalDependencies #-}
+    {-# LANGUAGE AllowAmbiguousTypes #-}
+    {-# LANGUAGE FlexibleInstances #-}
+    {-# LANGUAGE UndecidableInstances #-}
+    
+    import Data.Data ((:~:)(Refl))
+    import Data.Type.Equality (TestEquality(testEquality))
+    
+    
+    class Symantics repr where
+        int :: Int -&gt; repr h Int                -- int literal
+        add :: repr h Int -&gt; repr h Int -&gt; repr h Int
+    
+        z   :: repr (a,h) a                 -- variables: z and s ... (s z)
+        s   :: repr h a -&gt; repr (any,h) a
+        lam :: repr (a,h) b  -&gt; repr h (a-&gt;b)
+        app :: repr h (a-&gt;b) -&gt; repr h a -&gt; repr h b
+    
+    
+    data ExpN = LamN String ExpN | VarN String | AppN ExpN ExpN | IntN Int
+    data DynTerm repr h = forall a. DynTerm (Ty a) (repr h a)
+    
+    data VarDesc t = 
+        VarDesc (Ty t) VarName
+    
+    data Ty a where
+        TyInt :: Ty Int 
+        TyArr :: Ty a -&gt; Ty b -&gt; Ty (a-&gt;b)
+    
+    instance TestEquality Ty where
+        testEquality  TyInt TyInt = return  Refl 
+        testEquality (TyArr t1 t2) (TyArr t1' t2') = do Refl &lt;- testEquality t1 t1'
+                                                        Refl &lt;- testEquality t2 t2'
+                                                        return Refl 
+        testEquality _ _ = Nothing
+    
+    type VarName = String 
+    
+    class Var gamma h | gamma -&gt; h where
+        findvar :: Symantics repr =&gt;
+            VarName -&gt; gamma -&gt; Either String (DynTerm repr h)
+    
+    
+    
+    instance Var () () where
+        findvar name _ = Left $ ""Unbound variable: "" ++ name
+    
+    instance Var gamma h =&gt; Var (VarDesc t,gamma) (t,h) where
+        findvar name (VarDesc tr name',_) | name == name' =
+             return $ DynTerm tr z
+    
+        findvar name (_,gamma) = do
+             DynTerm tr v &lt;- findvar name gamma
+             return $ DynTerm tr (s v)
+    
+    
+    typeCheck ::(Symantics repr, Var gamma h)=&gt; t -&gt; ExpN -&gt; Maybe (DynTerm repr h)
+    typeCheck gamma (IntN n) = return $  DynTerm TyInt (int n)
+    typeCheck gamma (AppN fN xN) = do DynTerm (TyArr ty1F ty2F )  f &lt;- typeCheck gamma fN
+                                      DynTerm (tyX) x &lt;- typeCheck gamma xN
+                                      Refl  &lt;- testEquality (ty2F) (tyX)
+                                      return $ DynTerm ty2F  (app f x)
+    
+    
+
+I get the following error:
+
+    • Could not deduce (Symantics repr1)
+        arising from a use of ‘typeCheck’
+      from the context: (Symantics repr, Var gamma h)
+        bound by the type signature for:
+                   typeCheck :: forall (repr :: * -&gt; * -&gt; *) gamma h t.
+                                (Symantics repr, Var gamma h) =&gt;
+                                t -&gt; ExpN -&gt; Maybe (DynTerm repr h)
+        at 60:1-79
+      The type variable ‘repr1’ is ambiguous
+    • In a stmt of a 'do' block:
+        DynTerm (TyArr ty1F ty2F) f &lt;- typeCheck gamma fN
+      In the expression:
+        do DynTerm (TyArr ty1F ty2F) f &lt;- typeCheck gamma fN
+           DynTerm (tyX) x &lt;- typeCheck gamma xN
+           Refl &lt;- testEquality (ty2F) (tyX)
+           return $ DynTerm ty2F (app f x)
+      In an equation for ‘typeCheck’:
+          typeCheck gamma (AppN fN xN)
+            = do DynTerm (TyArr ty1F ty2F) f &lt;- typeCheck gamma fN
+                 DynTerm (tyX) x &lt;- typeCheck gamma xN
+                 Refl &lt;- testEquality (ty2F) (tyX)
+                 ....
+
+Can you please say me what I am doing wrong?
+
+Is there a simple way to do this?",True,False,False,haskell,t5_2qh36,69463,public,self,Conversion to Tagless Style,0,[],1.0,https://www.reddit.com/r/haskell/comments/th1sco/conversion_to_tagless_style/,all_ads,6,,,,,,,,,,,,,,,
+71.0,[],False,RegularTetragon,,[],,text,t2_149g35,False,False,False,[],False,False,1647581332,self.haskell,https://www.reddit.com/r/haskell/comments/tgu4fy/im_having_issues_with_applicative_effects/,{},tgu4fy,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tgu4fy/im_having_issues_with_applicative_effects/,False,6,1647581343,1,"My code:
+```haskell
+data Counter a = Counter Integer a | Increment
+instance Functor Counter where
+    fmap f (Counter count x) = Counter count (f x)
+    fmap f Increment = Increment
+
+instance Applicative Counter where
+    pure x = Counter 0 x
+    (&lt;*&gt;) (Counter count1 f) (Counter count2 x) = Counter (count1 + count2) (f x)
+    (&lt;*&gt;) Increment (Counter count x) = Counter (count + 1) x
+    --Unsure if these two follow applicative laws tbh
+    (&lt;*&gt;) (Counter count f) Increment = Increment
+    (&lt;*&gt;) Increment Increment = Increment
+```
+My error:
+```sh
+&lt;interactive&gt;:121:41: error:
+    * Couldn't match type `a' with `b'
+      Expected: Counter b
+        Actual: Counter a
+      `a' is a rigid type variable bound by
+        the type signature for:
+          (Prelude.&lt;*&gt;) :: forall a b.
+                           Counter (a -&gt; b) -&gt; Counter a -&gt; Counter b
+        at &lt;interactive&gt;:120:5-9
+      `b' is a rigid type variable bound by
+        the type signature for:
+          (Prelude.&lt;*&gt;) :: forall a b.
+                           Counter (a -&gt; b) -&gt; Counter a -&gt; Counter b
+        at &lt;interactive&gt;:120:5-9
+    * In the expression: Counter (count + 1) x
+      In an equation for `Prelude.&lt;*&gt;':
+          (Prelude.&lt;*&gt;) Increment (Counter count x) = Counter (count + 1) x
+      In the instance declaration for `Applicative Counter'
+    * Relevant bindings include
+        x :: a (bound at &lt;interactive&gt;:121:36)
+        (&lt;*&gt;) :: Counter (a -&gt; b) -&gt; Counter a -&gt; Counter b
+          (bound at &lt;interactive&gt;:120:5)
+```
+Alright, so for my own personal education I'm trying to figure out how applicatives relate to effects outside of monads.
+
+My interpretation of an effect is something which changes the data structure, but is not affected by `fmap`
+
+The solution I came up with was to put the effect data as part of the ""main"" constructor, and the effect action as a union'd constructor. Thing is this type error is messing with me, and I'm not sure how to resolve it. First of all, is my interpretation of what an effect is wrong? Secondly, why is `Counter a /= Counter b` in this error message? They're both generic, so why is it having trouble with a = b?",True,False,False,haskell,t5_2qh36,69462,public,self,I'm having issues with Applicative Effects,0,[],1.0,https://www.reddit.com/r/haskell/comments/tgu4fy/im_having_issues_with_applicative_effects/,all_ads,6,,,,,,,,,,,,,,,
+72.0,[],False,Alice_in_world_war,,[],,text,t2_7ep1383u,False,False,False,[],False,False,1647577887,self.haskell,https://www.reddit.com/r/haskell/comments/tgt88x/someone_explain_this_code_please/,{},tgt88x,False,False,False,False,False,False,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tgt88x/someone_explain_this_code_please/,False,6,1647577897,1,[removed],True,False,False,haskell,t5_2qh36,69462,public,self,Someone explain this code please,0,[],1.0,https://www.reddit.com/r/haskell/comments/tgt88x/someone_explain_this_code_please/,all_ads,6,,,,,,,reddit,,,,,,,,
+73.0,[],False,thomasjm4,,[],,text,t2_ye2d7h4,False,False,False,[],False,False,1647577287,self.haskell,https://www.reddit.com/r/haskell/comments/tgt2bb/ann_servanttypescript_typescript_client/,{},tgt2bb,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tgt2bb/ann_servanttypescript_typescript_client/,False,6,1647577297,1,"This library packages up the approach I've been using for a while to generate TypeScript client libraries for Servant by building upon [aeson-typescript](https://github.com/codedownio/aeson-typescript/).
+
+Hope someone finds it useful! You can find it on Hackage and here:
+
+[https://github.com/codedownio/servant-typescript](https://github.com/codedownio/servant-typescript)",True,False,False,haskell,t5_2qh36,69461,public,self,"[ANN]: servant-typescript, TypeScript client generation for Servant",0,[],1.0,https://www.reddit.com/r/haskell/comments/tgt2bb/ann_servanttypescript_typescript_client/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'cHyVRnksY_Erx0cvKQCXs8EZl05V7bfMkl7nbffRzkA', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d7e867d3a5383a2fe8b4e57d51555bf7735a1a36', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2419ac91d8305c9b45bbea26f43df7985cea20b1', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=34b0706d3dda7d6406a2495dbcc3b53f6f414896', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=067d3e21fa9c691d7e39c839c2a209a75d2eabea', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=b791f16be6518d0d9a098409613536d33175475d', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bbd1a155b3c34dd8a8824e9b12e70afe33673c8d', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/pdhe8FTDrvX7d7WuPPiCpvSETNIyB6sekVI3-VKXY-A.jpg?auto=webp&amp;s=366ac5cc234a4cde3f29883c2462ac0487db5e4c', 'width': 1200}, 'variants': {}}]}",,,,,,,,,,,,
+74.0,[],False,leighscullyyang,,[],,text,t2_jddda4f8,False,False,False,[],False,False,1647557850,self.haskell,https://www.reddit.com/r/haskell/comments/tgmr1x/the_imperative_bit_in_functional_programming_is/,{},tgmr1x,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tgmr1x/the_imperative_bit_in_functional_programming_is/,False,6,1647557860,1,"Hi all, learning FP and Haskell.
+
+I'm confused by the claim in FP that FP programming is about the ""what"" and not the ""how"" (see 2nd paragraph in [wiki](https://en.wikipedia.org/wiki/Declarative_programming)). How could you possible write a computer program without telling the computer what to do (the how)?
+
+The closest answer I've gathered is that FP is essentially about term rewriting systems (using beta reduction in particular). A rewriting step is analogous to a state transition step in turing machines. So then that means the compiler handles all the control flow for you, rather than FP somehow magically eliminating the need for control flow and other imperative ideas.
+
+Is this understanding correct? What am I missing?",True,False,False,haskell,t5_2qh36,69460,public,self,"The ""imperative bit"" in functional programming is the compiler's rewriting strategy?",0,[],1.0,https://www.reddit.com/r/haskell/comments/tgmr1x/the_imperative_bit_in_functional_programming_is/,all_ads,6,,,,,,,,,,,,,,,
+75.0,[],False,EntrepreneurAmazing4,,[],,text,t2_812xilv1,False,False,False,[],False,False,1647548144,self.haskell,https://www.reddit.com/r/haskell/comments/tgj6ko/making_my_haskell_function_more_readable/,{},tgj6ko,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tgj6ko/making_my_haskell_function_more_readable/,False,6,1647548155,1,"I've got this recursive function with loads of guards. What i've tried to do is converting a python function of mine into a haskell function. 
+
+This python function is a simple recursive function with an if statement with multiple nested if statements within it. 
+
+The problem is when I converted this code to haskell I used guards and it's very much unreadable. Just to give as an example, this is one of my guards:
+
+    | indexTxt &lt; length txt &amp;&amp; pat !! indexPat == txt !! indexTxt &amp;&amp; (indexPat + 1) == length pat = findPat txt pat (indexTxt + 1) (calcPrefix pat 1 0 [] !! indexPat + 1) (mIndexes ++ [(indexTxt + 1) - (indexPat + 1)]) 
+
+It doesn't really fit on the screen as you can see.
+
+Is there any way to make my function more readable? I imagine I need to find some other way to makes this code more readable and preferably smaller, but I have no idea what my options are.
+
+Any help/tips/guidance would be appreciated.",True,False,False,haskell,t5_2qh36,69458,public,self,Making my haskell function more readable,0,[],1.0,https://www.reddit.com/r/haskell/comments/tgj6ko/making_my_haskell_function_more_readable/,all_ads,6,,,,,,,,,,,,,,,
+76.0,[],False,haskellweekly,,[],,text,t2_xp3il,False,False,False,[],False,False,1647526826,haskellweekly.news,https://www.reddit.com/r/haskell/comments/tgbbz3/issue_307_haskell_weekly_newsletter/,{},tgbbz3,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tgbbz3/issue_307_haskell_weekly_newsletter/,False,6,1647526837,1,,True,False,False,haskell,t5_2qh36,69455,public,default,Issue 307 :: Haskell Weekly newsletter,0,[],1.0,https://haskellweekly.news/issue/307.html,all_ads,6,https://haskellweekly.news/issue/307.html,link,"{'enabled': False, 'images': [{'id': 'APNk1c8bOrWzk7IfWxCtNMhPOxPGKs1lIDpMTy76j8I', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e026f7d53791531ebadb832eaa32e80476b41c7e', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=516efa03d144edee48fcffd0999c894dcfb856b0', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7ea481595192fdfadcc975f7bb92078568617564', 'width': 320}, {'height': 640, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b41ad1ce2fbd4a049226a635707cc5fe86b560b', 'width': 640}, {'height': 960, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e9e0aee90884ad14eaac284fb5577f5b08f5fc76', 'width': 960}, {'height': 1080, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=354eab3a3e3cf544314a0500962a07cc9c8872ed', 'width': 1080}], 'source': {'height': 3000, 'url': 'https://external-preview.redd.it/QN4ktfFMABnBF6XEPkZWKdVBmOeoKfq094xszcT0RD4.jpg?auto=webp&amp;s=00dc4ace0e204a30ab1d7e7b788ffc3c8a4713ed', 'width': 3000}, 'variants': {}}]}",140.0,140.0,,,,,,,,,,
+77.0,[],False,ARFASOFTECH,,[],,text,t2_d4eadx3j,False,False,False,[],False,False,1647507719,arfasoftech.com,https://www.reddit.com/r/haskell/comments/tg5ve3/comprehensive_guide_to_cloud_based_application/,{},tg5ve3,False,False,False,False,False,False,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tg5ve3/comprehensive_guide_to_cloud_based_application/,False,6,1647507730,1,,True,False,False,haskell,t5_2qh36,69453,public,default,COMPREHENSIVE GUIDE TO CLOUD BASED APPLICATION DEVELOPMENT 2022,0,[],1.0,https://www.arfasoftech.com/blog/COMPREHENSIVE-GUIDE-TO-CLOUD-BASED-APPLICATION-DEVELOPMENT-2022,all_ads,6,https://www.arfasoftech.com/blog/COMPREHENSIVE-GUIDE-TO-CLOUD-BASED-APPLICATION-DEVELOPMENT-2022,,,,,,reddit,,,,,,,,
+78.0,[],False,oskargreda,,[],,text,t2_fi2s2co8,False,False,False,[],False,False,1647459573,self.haskell,https://www.reddit.com/r/haskell/comments/tfr47h/mlabs_is_hiring_a_haskell_developer_100_remote/,{},tfr47h,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tfr47h/mlabs_is_hiring_a_haskell_developer_100_remote/,False,6,1647459583,1,"We are one of the leading Haskell consultancies in the fintech, blockchain and AI space, with a passion for Haskell and open source software. We are looking for a remote Haskeller to join our team.
+
+We are currently experiencing fantastic growth and now have a team of **over a 100 people**. We are looking to continue growing and would love to have more Haskellers on board with us! 
+
+If you are excited about Haskell, about robust and clean software and are up for a new challenge, you’ve come to the right place!
+
+We have developer roles from Junior to Senior, as well as roles in Delivery Management.
+
+**As a Haskell Developer your role may include:**  
+
+
+\- Building and testing smart contracts, traditional applications
+
+\- Helping to define best practices with new application architectures
+
+\- Building tools and libraries to support application development
+
+\- Working in emerging technologies
+
+\- For Senior and Intermediates: Systems Design, Formal Verification, Security and Performance analysis.
+
+**As a Delivery Manager your role may include:**
+
+\- Research and design of financial protocols
+
+\- Providing continuity of care to customers across product lifecycles
+
+\- Escalating issues that arise beyond the scope of a single project/department/client scope
+
+\- Steering products toward MVP, delivery targets, audit-readiness and getting required resources in place to do so.
+
+#### Requirements
+
+* Strong Haskell skills
+* Strong software engineering and architecture skills
+* Strong problem solving and analytical skills
+* Basic knowledge of security, concurrency, backend systems, system scaling and databases
+* Version control (git)
+* Strong verbal skills in English
+* Experience with blockchain, smart contracts, compilers, nix and/or purescript is a bonus
+
+#### Benefits
+
+* Focus on learning and individual growth in Haskell and Computer Science
+* Work with other great Haskellers, open source contributors and computer scientists
+* Interesting and challenging projects
+* Talk with anyone in the organization, regardless of team
+* Remote work
+* Flexible working hours
+* 6 weeks of paid vacation
+* Competitive salary
+
+We have a variety of projects to work on at any time, ranging from payment stacks to smart contracts and blockchain to open source libraries, DSLs and compilers.
+
+If you like Haskell and challenging projects, MLabs is the place for you, so please apply now via [https://apply.workable.com/mlabs/j/63DAAA4AEF/](https://apply.workable.com/mlabs/j/63DAAA4AEF/)",True,False,False,haskell,t5_2qh36,69444,public,self,"MLabs is Hiring a Haskell Developer (100% Remote, Worldwide)",0,[],1.0,https://www.reddit.com/r/haskell/comments/tfr47h/mlabs_is_hiring_a_haskell_developer_100_remote/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'GnuOK9IWNyfPHXokumwalY9XRYCi5oSA4uOxJlBNBp4', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f6c520b66a9e4cf15ae1b4b79af413002418a97e', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=78ce6df2b94f79b0ccb5ac2b1439fdbd87be5a53', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d0ed86839ce6deb3d5d37506ef62434b8a77baf3', 'width': 320}], 'source': {'height': 500, 'url': 'https://external-preview.redd.it/0FmthJp0Kj0sA6dGsjJOj0aVfFNMv0cOm1bwCVrQT28.jpg?auto=webp&amp;s=562a0dfc197f2356edb2e6c70d03e94ba27414cf', 'width': 500}, 'variants': {}}]}",,,,,,,,,,,,
+79.0,[],False,Defrigeration,,[],,text,t2_ghrwv,False,False,False,[],False,False,1647458696,self.haskell,https://www.reddit.com/r/haskell/comments/tfqpeg/liftm_destroys_laziness/,{},tfqpeg,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tfqpeg/liftm_destroys_laziness/,False,6,1647458706,1,"Hello, everyone. I am learning about programming with monads. I discovered the following while traversing a data structure with a State monad, but it's easier to demonstrate with the IO monad. 
+
+If I use boolean operators, they will only evaluate the arguments that they need. e.g.: 
+
+    Prelude&gt; False &amp;&amp; undefined
+    False
+    Prelude&gt; True &amp;&amp; undefined
+    *** Exception: Prelude.undefined
+
+So far, so good. This is what you'd expect. However, if I use the `liftM` group of functions to lift `&amp;&amp;` to a monad, this no longer works. e.g.:
+
+    falsify :: IO Bool
+    falsify = putStrLn ""It is a falsehood."" &gt;&gt; return False
+    verify :: IO Bool
+    verify = putStrLn ""Verily, it is so."" &gt;&gt; return True
+    liftedAnd :: Monad m =&gt; m Bool -&gt; m Bool -&gt; m Bool
+    liftedAnd = liftM2 (&amp;&amp;)
+
+Then, calling it in ghci:
+
+    *Main&gt; falsify `liftedAnd` verify
+    It is a falsehood.
+    Verily, it is so.
+    False
+
+So, you can't use `liftedAnd` for flow control. It's easy enough to write an AND function that behaves properly:
+
+    mAnd :: Monad m =&gt; m Bool -&gt; m Bool -&gt; m Bool
+    mAnd x y = x &gt;&gt;= \b -&gt; if b then y else return False
+
+Now, in ghci:
+
+    *Main&gt; falsify `mAnd` verify
+    It is a falsehood.
+    False
+
+So, my questions are:
+
+1. Would someone please explain *why* `liftM2` behaves this way?
+2. Is there somewhere in the standard libraries to look for properly behaved `&amp;&amp; || if/then/else` etc. for monads?
+3. Am I missing some key fact about `liftM2`? Perhaps I am not using it in the intended way.",True,False,False,haskell,t5_2qh36,69444,public,self,liftM destroys laziness,0,[],1.0,https://www.reddit.com/r/haskell/comments/tfqpeg/liftm_destroys_laziness/,all_ads,6,,,,,,,,,,,,,,,
+80.0,[],False,CoBuddha,,[],,text,t2_12byxs,False,False,False,[],False,False,1647447871,self.haskell,https://www.reddit.com/r/haskell/comments/tflwqq/which_optimizations_does_unsafeperformio_block/,{},tflwqq,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tflwqq/which_optimizations_does_unsafeperformio_block/,False,6,1647447881,1,"People often say that `unsafePerformIO` interacts poorly with the optimizer, but what does this actually mean? What kind of inspection is blocked by it? What optimizations can I expect to still work?
+For example, if I `unsafePerformIO` a primop, does that not cause any issue given that there's nothing ""inside"" it to optimize? Or does it also block fusion from the outside?
+
+Any resources on this would be great, thanks!",True,False,False,haskell,t5_2qh36,69442,public,self,Which optimizations does unsafePerformIO block?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tflwqq/which_optimizations_does_unsafeperformio_block/,all_ads,6,,,,,,,,,,,,,,,
+81.0,[],False,thefybe,,[],,text,t2_118sdr,False,False,False,[],False,False,1647445525,self.haskell,https://www.reddit.com/r/haskell/comments/tfkteo/is_there_a_better_pattern_for_return_just_some/,{},tfkteo,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tfkteo/is_there_a_better_pattern_for_return_just_some/,False,6,1647445535,1,"Lately I've had to write a lot of functions that need to check, whether some predicate holds and if it does return `Just some_value` otherwise return `Nothing`.
+
+The pattern that I've come up with so far is `some_value &lt;$ guard condition`. For example:
+
+    divSafe :: Rational -&gt; Rational -&gt; Maybe Rational
+    divSafe p q = (p/q) &lt;$ guard (q /= 0)
+
+Is there a better way to do this sort of stuff? But as of writing this I realized, this might be as good as it's going to get.",True,False,False,haskell,t5_2qh36,69442,public,self,Is there a better pattern for return `Just` some value if a predicate holds?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tfkteo/is_there_a_better_pattern_for_return_just_some/,all_ads,6,,,,,,,,,,,,,,,
+82.0,[],False,NixOverSlicedBread,,[],,text,t2_1s3ukhhs,False,False,False,[],False,False,1647436394,self.haskell,https://www.reddit.com/r/haskell/comments/tfhdpm/tooling_support_for_automatically_putting_lines/,{},tfhdpm,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tfhdpm/tooling_support_for_automatically_putting_lines/,False,6,1647436404,1,"Check out the great blog post https://www.tweag.io/blog/2020-01-30-haskell-profiling/ where he talks about factoring out code into separate functions, marking them with `{-# SCC #-}`, and adding the `-fno-prof-auto` compiler flag. This allows me to reliably find time bottlenecks in my code.
+
+The problem is that I have to manually factor out my code into all these separate `{-# SCC #-}` functions.
+
+Are there any plans to do what I suggested in the title? It would be cool if I could select lines of code and have them marked to automatically get factored out into a function of name e.g. `func_{FILENAME:LINE}`.
+
+Can anyone here add this? (How much would this cost?)",False,False,False,haskell,t5_2qh36,69443,public,self,Tooling support for automatically putting lines of code into a separate `{-# SCC #-}` function,0,[],1.0,https://www.reddit.com/r/haskell/comments/tfhdpm/tooling_support_for_automatically_putting_lines/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': '0Evd6UWXs4A11yT0I3bSUdOWKNqr9Az0qWvc-WhxMes', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a559bb4d890ff015d6259a06083f8cea81389ab2', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b67964ddc7f6a4e974672b382f7c786c8d3526fe', 'width': 216}, {'height': 320, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=61e37c5f638b0d156c5fdcbc1a5335a3bdbb8729', 'width': 320}, {'height': 640, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=298dca15f47ae031413bbd031ffd301b05793915', 'width': 640}, {'height': 960, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=81eb47deb6039cc11cc169b056aee661e37b1789', 'width': 960}, {'height': 1080, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3b60b078d6771ef7f153290885f77a8f50774cdb', 'width': 1080}], 'source': {'height': 4096, 'url': 'https://external-preview.redd.it/Bj50fREKn41m6v1UPb2_hlrczuDz1nxR1tSRjFf-mzU.jpg?auto=webp&amp;s=6803e63008eaa75aac55167a9225dd6c2f0316a7', 'width': 4096}, 'variants': {}}]}",,,,,,,,,,,,
+83.0,[],False,epoberezkin,,[],,text,t2_13t18x,False,False,False,[],False,False,1647435034,self.haskell,https://www.reddit.com/r/haskell/comments/tfgxnv/use_authenticated_git_with_cabal/,{},tfgxnv,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tfgxnv/use_authenticated_git_with_cabal/,False,6,1647435049,1,"Does anybody know how to configure cabal to use public key that is normally used with git?
+
+It seems GitHub no longer supports unauthenticated git from yesterday so dependencies on GitHub configured via cabal.project no longer build:
+
+    The unauthenticated git protocol on port 9418 is no longer supported.
+    Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
+
+Thank you!",True,False,False,haskell,t5_2qh36,69442,public,self,Use authenticated git with cabal,0,[],1.0,https://www.reddit.com/r/haskell/comments/tfgxnv/use_authenticated_git_with_cabal/,all_ads,6,,,,,,,,,,,,,,,
+84.0,[],False,zsome,,[],,text,t2_gvnql7,False,False,False,[],False,False,1647427163,self.haskell,https://www.reddit.com/r/haskell/comments/tfep9q/advice_a_project/,{},tfep9q,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tfep9q/advice_a_project/,False,6,1647427173,1,"Hi,
+
+Could you advice an opensource project where I can start to use my haskell knowledge ?
+
+I'm interested in web3 + haskell now but any advice is okay for me :)",True,False,False,haskell,t5_2qh36,69437,public,self,Advice a project,0,[],1.0,https://www.reddit.com/r/haskell/comments/tfep9q/advice_a_project/,all_ads,6,,,,,,,,,,,,,,,
+85.0,[],False,figblu3,,[],,text,t2_7y32jd26,False,False,False,[],False,False,1647397129,self.haskell,https://www.reddit.com/r/haskell/comments/tf6x0r/i_have_cabal_installed_cpsa_installed_but_it_is/,{},tf6x0r,False,True,False,False,False,True,True,False,#646d73,[],ebb4b74c-16d0-11eb-9ff6-0e5aacb57bb7,homework,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tf6x0r/i_have_cabal_installed_cpsa_installed_but_it_is/,False,6,1647397140,1,"I am on a mac OS, and I think this might be an environmental path issue- but I have cabal and cpsa which I downloaded with the following commands
+
+&amp;#x200B;
+
+brew install cabal-install
+
+cabal install cpsa
+
+&amp;#x200B;
+
+I can run cabal, but cpsa doesn't seem to be working. I just want to be able to run ""cpsa -h"" but I get an error that cpsa is not a recognized command. Any advice how to be able to run this?
+
+I have cpsa stored in \~/Users/Li/.cabal/cpsa.",True,False,False,haskell,t5_2qh36,69426,public,self,"I have Cabal installed, cpsa installed- but it is not recognizing cpsa as a command?",0,[],1.0,https://www.reddit.com/r/haskell/comments/tf6x0r/i_have_cabal_installed_cpsa_installed_but_it_is/,all_ads,6,,,,,,,,,,,,,,,
+86.0,[],False,pm_me_r34_r34,,[],,text,t2_vdd44hm,False,False,False,[],False,False,1647376781,self.rust,https://www.reddit.com/r/haskell/comments/tezr5y/comparison_of_targeted_strengths_between_rust_go/,{},tezr5y,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tezr5y/comparison_of_targeted_strengths_between_rust_go/,False,6,1647376792,1,,True,False,False,haskell,t5_2qh36,69423,public,default,"Comparison of ""targeted strengths"" between Rust, Go, and Hasekll from a newbie -- is this roughly the right sense?",0,[],1.0,/r/rust/comments/tezoil/comparison_of_targeted_strengths_between_rust_go/,all_ads,6,/r/rust/comments/tezoil/comparison_of_targeted_strengths_between_rust_go/,,,,,,,,,t3_tezoil,"[{'all_awardings': [], 'allow_live_comments': False, 'approved_at_utc': None, 'approved_by': None, 'archived': False, 'author': 'pm_me_r34_r34', 'author_flair_background_color': None, 'author_flair_css_class': None, 'author_flair_richtext': [], 'author_flair_template_id': None, 'author_flair_text': None, 'author_flair_text_color': None, 'author_flair_type': 'text', 'author_fullname': 't2_vdd44hm', 'author_is_blocked': False, 'author_patreon_flair': False, 'author_premium': False, 'awarders': [], 'banned_at_utc': None, 'banned_by': None, 'can_gild': True, 'can_mod_post': False, 'category': None, 'clicked': False, 'content_categories': None, 'contest_mode': False, 'created': 1647376576.0, 'created_utc': 1647376576.0, 'discussion_type': None, 'distinguished': None, 'domain': 'self.rust', 'downs': 0, 'edited': False, 'gilded': 0, 'gildings': {}, 'hidden': False, 'hide_score': True, 'id': 'tezoil', 'is_created_from_ads_ui': False, 'is_crosspostable': True, 'is_meta': False, 'is_original_content': False, 'is_reddit_media_domain': False, 'is_robot_indexable': True, 'is_self': True, 'is_video': False, 'likes': None, 'link_flair_background_color': '', 'link_flair_css_class': None, 'link_flair_richtext': [], 'link_flair_text': None, 'link_flair_text_color': 'dark', 'link_flair_type': 'text', 'locked': False, 'media': None, 'media_embed': {}, 'media_only': False, 'mod_note': None, 'mod_reason_by': None, 'mod_reason_title': None, 'mod_reports': [], 'name': 't3_tezoil', 'no_follow': True, 'num_comments': 0, 'num_crossposts': 1, 'num_reports': None, 'over_18': False, 'parent_whitelist_status': 'all_ads', 'permalink': '/r/rust/comments/tezoil/comparison_of_targeted_strengths_between_rust_go/', 'pinned': False, 'pwls': 6, 'quarantine': False, 'removal_reason': None, 'removed_by': None, 'removed_by_category': None, 'report_reasons': None, 'saved': False, 'score': 1, 'secure_media': None, 'secure_media_embed': {}, 'selftext': 'I am laymen to programming and was deciding which of the main ""new"" languages to start off with learning.\n\nAfter surveying various discussions and comparisons, as well as having gone through introductory tutorials of most of them, I\'ve settled that these three each have orthogonal strengths that compliment each other that is worth learning at the same time. \n\nThe following is my very condensed summary of what the three\'s design paradigms implicitly aims to stand out in, I\'m wondering if the picture I\'m getting is adequately accurate:\n\n\n    Rust    : needs to be really good for  system, easy reliability by default (focused on specifying when to do rather than where, need very little code to memory-manage it)\n    Go      : needs to be really good for service, easy concurrency by default (focused on specifying how  to do rather than when, need very little code to parallelize it)\n    Haskell : needs to be really good for compute, easy abstraction by default (focused on specifying what to do rather than how, need very little code to represent it)', 'selftext_html': '&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I am laymen to programming and was deciding which of the main &amp;quot;new&amp;quot; languages to start off with learning.&lt;/p&gt;\n\n&lt;p&gt;After surveying various discussions and comparisons, as well as having gone through introductory tutorials of most of them, I&amp;#39;ve settled that these three each have orthogonal strengths that compliment each other that is worth learning at the same time. &lt;/p&gt;\n\n&lt;p&gt;The following is my very condensed summary of what the three&amp;#39;s design paradigms implicitly aims to stand out in, I&amp;#39;m wondering if the picture I&amp;#39;m getting is adequately accurate:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Rust    : needs to be really good for  system, easy reliability by default (focused on specifying when to do rather than where, need very little code to memory-manage it)\nGo      : needs to be really good for service, easy concurrency by default (focused on specifying how  to do rather than when, need very little code to parallelize it)\nHaskell : needs to be really good for compute, easy abstraction by default (focused on specifying what to do rather than how, need very little code to represent it)\n&lt;/code&gt;&lt;/pre&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;', 'send_replies': True, 'spoiler': False, 'stickied': False, 'subreddit': 'rust', 'subreddit_id': 't5_2s7lj', 'subreddit_name_prefixed': 'r/rust', 'subreddit_subscribers': 172691, 'subreddit_type': 'public', 'suggested_sort': None, 'thumbnail': 'self', 'thumbnail_height': None, 'thumbnail_width': None, 'title': 'Comparison of ""targeted strengths"" between Rust, Go, and Hasekll from a newbie -- is this roughly the right sense?', 'top_awarded_type': None, 'total_awards_received': 0, 'treatment_tags': [], 'ups': 1, 'upvote_ratio': 1.0, 'url': 'https://www.reddit.com/r/rust/comments/tezoil/comparison_of_targeted_strengths_between_rust_go/', 'user_reports': [], 'view_count': None, 'visited': False, 'whitelist_status': 'all_ads', 'wls': 6}]",,,,
+87.0,[],False,AdOdd5690,,[],,text,t2_77ggiprk,False,False,False,[],False,False,1647353848,self.haskell,https://www.reddit.com/r/haskell/comments/teq0tw/what_are_the_current_challenges_in_numerical/,{},teq0tw,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/teq0tw/what_are_the_current_challenges_in_numerical/,False,6,1647353859,1,"Recently saw [this repo](https://github.com/Gabriel439/post-rfc/blob/main/sotu.md) that shows the state of Haskell in a lot of programming applications. It classifies it as Immature for Numerical Programming; I would like to know what are the challenges in it.
+
+More importantly what (packages, libraries) would Haskellers love to have?",True,False,False,haskell,t5_2qh36,69422,public,self,What are the current challenges in Numerical Programming for Haskell?,0,[],1.0,https://www.reddit.com/r/haskell/comments/teq0tw/what_are_the_current_challenges_in_numerical/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'oI8w2IHKnCB7EPuSQ10tHZbhrdUeSyEn5h8Pr90185A', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e5e07d24e52fe7be44a90c8aae25ca8d456867aa', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=7c5ab79bbe5542019afbdeca369bb2a8fce4c91c', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f39d4fb99be735c4fb8526514d049bea6ed03a90', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce793d7a2a9fa9706de611f134bc7f7e11254b49', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3a695a814fe2191f257eecee540472615713a401', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3acc336f0e6f8627c4cb9ae2216a0aabf79868c2', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/2WEgrvXjcGbm-J0uo4cBIjZ6L1qi_P7xI5eJIh3Ar64.jpg?auto=webp&amp;s=7d03ed0c0d7555c4b3dc6c284c12baa382ac1eb8', 'width': 1200}, 'variants': {}}]}",,,,,,,,,,,,
+88.0,[],False,jfraudeau,,[],,text,t2_h41h2t11,False,False,False,[],False,False,1647352099,self.haskell,https://www.reddit.com/r/haskell/comments/tepetq/hiring_aletiq_is_a_senior_software_engineer_in/,{},tepetq,False,False,False,False,False,False,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tepetq/hiring_aletiq_is_a_senior_software_engineer_in/,False,6,1647352109,1,[removed],True,False,False,haskell,t5_2qh36,69422,public,self,[Hiring] Aletiq is a senior software engineer in Paris (France),0,[],1.0,https://www.reddit.com/r/haskell/comments/tepetq/hiring_aletiq_is_a_senior_software_engineer_in/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'Vn3WZI7qVMiCvI9W4dxOQu2Q1_ZueCz3QyRyWdwvF6U', 'resolutions': [{'height': 56, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8682d22caa8f3856ddc0fa8a99d9e0ff5f4e235d', 'width': 108}, {'height': 112, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3a59a4ab27381aaf6cf832abebd9631c7b6fa4f5', 'width': 216}, {'height': 167, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6a6a0ece4cccc2ab7961515f68bdb01171eac3f6', 'width': 320}, {'height': 334, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18869d166214931daa675c7dd76c483305ad8928', 'width': 640}, {'height': 501, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9999e600dba2cdef0be1d16fddfe42865a724c2e', 'width': 960}, {'height': 564, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a8d923981999a68dfe0f9a1bd8c88f6e44a632d4', 'width': 1080}], 'source': {'height': 627, 'url': 'https://external-preview.redd.it/y_2fo5IvaH6tCLq0uUnqG7Gk8FNDgWhmOV15okowEVw.jpg?auto=webp&amp;s=043bac1cf4784f8a4d2bf18a3eefb783aedb1476', 'width': 1200}, 'variants': {}}]}",,,,automod_filtered,,,,,,,,
+89.0,[],False,usernameqwerty005,,[],,text,t2_2b0vq4qb,False,False,False,[],False,False,1647348651,self.PHP,https://www.reddit.com/r/haskell/comments/teo9ze/one_universal_dryrun_mockspy_ast_evaluator_to/,{},teo9ze,False,False,False,False,False,False,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/teo9ze/one_universal_dryrun_mockspy_ast_evaluator_to/,False,6,1647348662,1,,False,False,False,haskell,t5_2qh36,69420,public,default,One universal dry-run mock-spy AST evaluator to rule them all (iteration 3 of an effect EDSL) [converting the tagless-final concept to OOP/PHP],0,[],1.0,/r/PHP/comments/tdyf78/one_universal_dryrun_mockspy_ast_evaluator_to/,all_ads,6,/r/PHP/comments/tdyf78/one_universal_dryrun_mockspy_ast_evaluator_to/,link,"{'enabled': False, 'images': [{'id': 'Koc6oGz7dRpkDf1mY12o9JALCzMzqsLHtqnWqJVL4tI', 'resolutions': [{'height': 214, 'url': 'https://external-preview.redd.it/e-BjdRR_0CVAAaUXOf-HKWw_-sUM5uESRs8XwcdeXKg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=46c9edf7dd880e4f152d5216a4b7cc7d4b4bf5b9', 'width': 108}], 'source': {'height': 371, 'url': 'https://external-preview.redd.it/e-BjdRR_0CVAAaUXOf-HKWw_-sUM5uESRs8XwcdeXKg.jpg?auto=webp&amp;s=c562b703aff7f0cf70132fe803f11c38ead15327', 'width': 187}, 'variants': {}}]}",,,,reddit,,,t3_tdyf78,"[{'all_awardings': [], 'allow_live_comments': False, 'approved_at_utc': None, 'approved_by': None, 'archived': False, 'author': 'usernameqwerty005', 'author_flair_background_color': None, 'author_flair_css_class': None, 'author_flair_richtext': [], 'author_flair_template_id': None, 'author_flair_text': None, 'author_flair_text_color': None, 'author_flair_type': 'text', 'author_fullname': 't2_2b0vq4qb', 'author_is_blocked': False, 'author_patreon_flair': False, 'author_premium': False, 'awarders': [], 'banned_at_utc': None, 'banned_by': None, 'can_gild': True, 'can_mod_post': False, 'category': None, 'clicked': False, 'content_categories': None, 'contest_mode': False, 'created': 1647267147.0, 'created_utc': 1647267147.0, 'discussion_type': None, 'distinguished': None, 'domain': 'self.PHP', 'downs': 0, 'edited': False, 'gilded': 0, 'gildings': {}, 'hidden': False, 'hide_score': False, 'id': 'tdyf78', 'is_created_from_ads_ui': False, 'is_crosspostable': True, 'is_meta': False, 'is_original_content': False, 'is_reddit_media_domain': False, 'is_robot_indexable': True, 'is_self': True, 'is_video': False, 'likes': None, 'link_flair_background_color': '', 'link_flair_css_class': '', 'link_flair_richtext': [{'e': 'text', 't': 'Discussion'}], 'link_flair_template_id': '26934ed6-84db-11ec-8f20-b68594c379a4', 'link_flair_text': 'Discussion', 'link_flair_text_color': 'dark', 'link_flair_type': 'richtext', 'locked': False, 'media': None, 'media_embed': {}, 'media_only': False, 'mod_note': None, 'mod_reason_by': None, 'mod_reason_title': None, 'mod_reports': [], 'name': 't3_tdyf78', 'no_follow': False, 'num_comments': 3, 'num_crossposts': 1, 'num_reports': None, 'over_18': False, 'parent_whitelist_status': 'all_ads', 'permalink': '/r/PHP/comments/tdyf78/one_universal_dryrun_mockspy_ast_evaluator_to/', 'pinned': False, 'post_hint': 'self', 'preview': {'enabled': False, 'images': [{'id': 'Koc6oGz7dRpkDf1mY12o9JALCzMzqsLHtqnWqJVL4tI', 'resolutions': [{'height': 214, 'url': 'https://external-preview.redd.it/e-BjdRR_0CVAAaUXOf-HKWw_-sUM5uESRs8XwcdeXKg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=46c9edf7dd880e4f152d5216a4b7cc7d4b4bf5b9', 'width': 108}], 'source': {'height': 371, 'url': 'https://external-preview.redd.it/e-BjdRR_0CVAAaUXOf-HKWw_-sUM5uESRs8XwcdeXKg.jpg?auto=webp&amp;s=c562b703aff7f0cf70132fe803f11c38ead15327', 'width': 187}, 'variants': {}}]}, 'pwls': 6, 'quarantine': False, 'removal_reason': None, 'removed_by': None, 'removed_by_category': None, 'report_reasons': None, 'saved': False, 'score': 7, 'secure_media': None, 'secure_media_embed': {}, 'selftext': 'Motivating example (from [here](https://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/)):\n\n    public static string GetUpperText(string path)\n    {\n        if (!File.Exists(path)) return ""DEFAULT"";\n        var text = File.ReadAllText(path);\n        return text.ToUpperInvariant();\n    }\n\nIn PHP with the effect EDSL:\n\n    function getUpperText(string $file, St $st)\n    {\n        $result = \'DEFAULT\';\n        $st\n            -&gt;if(fileExists($file))\n            -&gt;then(set($result, fileGetContents($file)))\n            ();\n        return strtoupper($result);\n    }\n\nIn PHP with a mockable class:\n\n    function getUpperText(string $file, IO $io)\n    {\n        $result = \'DEFAULT\';\n        if ($io-&gt;fileExists($file)) {\n            $result = $io-&gt;fileGetContents($file);\n        }\n        return strtoupper($result);\n    }\n\nThe St class will build an abstract-syntax tree, which is then evaluated when invoked. It can be injected with either a live evaluator, or a dry-run evaluator which works as both mock, stub and spy.\n\nSt can also be used to delay or defer effects - just omit the invoke until later.\n\nThe unit test looks like this:\n\n    // Instead of mocking return types, set the return values\n    $returnValues = [\n        true,\n        \'Some example file content, bla bla bla\'\n    ];\n    $ev = new DryRunEvaluator($returnValues);\n    $st = new St($ev);\n    $text = getUpperText(\'moo.txt\', $st);\n    // Output: string(38) ""SOME EXAMPLE FILE CONTENT, BLA BLA BLA""\n    var_dump($text);\n    // Instead of a spy, you can inspect the dry-run log\n    var_dump($ev-&gt;log);\n    /* Output:\n       array(5) {\n       [0] =&gt;\n       string(13) ""Evaluating if""\n       [1] =&gt;\n       string(27) ""File exists: arg1 = moo.txt""\n       [2] =&gt;\n       string(15) ""Evaluating then""\n       [3] =&gt;\n       string(33) ""File get contents: arg1 = moo.txt""\n       [4] =&gt;\n       string(50) ""Set var to: Some example file content, bla bla bla""\n       }\n     */\n\nThe St class scales differently than mocking, so it\'s not always sensible to use.\n\nFull code: https://gist.github.com/olleharstedt/e18004ad82e57e18047690596781a05a', 'selftext_html': '&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Motivating example (from &lt;a href=""https://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/""&gt;here&lt;/a&gt;):&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;public static string GetUpperText(string path)\n{\n    if (!File.Exists(path)) return &amp;quot;DEFAULT&amp;quot;;\n    var text = File.ReadAllText(path);\n    return text.ToUpperInvariant();\n}\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;In PHP with the effect EDSL:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;function getUpperText(string $file, St $st)\n{\n    $result = &amp;#39;DEFAULT&amp;#39;;\n    $st\n        -&amp;gt;if(fileExists($file))\n        -&amp;gt;then(set($result, fileGetContents($file)))\n        ();\n    return strtoupper($result);\n}\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;In PHP with a mockable class:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;function getUpperText(string $file, IO $io)\n{\n    $result = &amp;#39;DEFAULT&amp;#39;;\n    if ($io-&amp;gt;fileExists($file)) {\n        $result = $io-&amp;gt;fileGetContents($file);\n    }\n    return strtoupper($result);\n}\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;The St class will build an abstract-syntax tree, which is then evaluated when invoked. It can be injected with either a live evaluator, or a dry-run evaluator which works as both mock, stub and spy.&lt;/p&gt;\n\n&lt;p&gt;St can also be used to delay or defer effects - just omit the invoke until later.&lt;/p&gt;\n\n&lt;p&gt;The unit test looks like this:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;// Instead of mocking return types, set the return values\n$returnValues = [\n    true,\n    &amp;#39;Some example file content, bla bla bla&amp;#39;\n];\n$ev = new DryRunEvaluator($returnValues);\n$st = new St($ev);\n$text = getUpperText(&amp;#39;moo.txt&amp;#39;, $st);\n// Output: string(38) &amp;quot;SOME EXAMPLE FILE CONTENT, BLA BLA BLA&amp;quot;\nvar_dump($text);\n// Instead of a spy, you can inspect the dry-run log\nvar_dump($ev-&amp;gt;log);\n/* Output:\n   array(5) {\n   [0] =&amp;gt;\n   string(13) &amp;quot;Evaluating if&amp;quot;\n   [1] =&amp;gt;\n   string(27) &amp;quot;File exists: arg1 = moo.txt&amp;quot;\n   [2] =&amp;gt;\n   string(15) &amp;quot;Evaluating then&amp;quot;\n   [3] =&amp;gt;\n   string(33) &amp;quot;File get contents: arg1 = moo.txt&amp;quot;\n   [4] =&amp;gt;\n   string(50) &amp;quot;Set var to: Some example file content, bla bla bla&amp;quot;\n   }\n */\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;The St class scales differently than mocking, so it&amp;#39;s not always sensible to use.&lt;/p&gt;\n\n&lt;p&gt;Full code: &lt;a href=""https://gist.github.com/olleharstedt/e18004ad82e57e18047690596781a05a""&gt;https://gist.github.com/olleharstedt/e18004ad82e57e18047690596781a05a&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;', 'send_replies': False, 'spoiler': False, 'stickied': False, 'subreddit': 'PHP', 'subreddit_id': 't5_2qh38', 'subreddit_name_prefixed': 'r/PHP', 'subreddit_subscribers': 147412, 'subreddit_type': 'public', 'suggested_sort': None, 'thumbnail': 'self', 'thumbnail_height': None, 'thumbnail_width': None, 'title': 'One universal dry-run mock-spy AST evaluator to rule them all (iteration 3 of an effect EDSL)', 'top_awarded_type': None, 'total_awards_received': 0, 'treatment_tags': [], 'ups': 7, 'upvote_ratio': 0.73, 'url': 'https://www.reddit.com/r/PHP/comments/tdyf78/one_universal_dryrun_mockspy_ast_evaluator_to/', 'user_reports': [], 'view_count': None, 'visited': False, 'whitelist_status': 'all_ads', 'wls': 6}]",,,,
+90.0,[],False,Odd-Fox-8410,,[],,text,t2_7pefb5kd,False,False,False,[],False,False,1647343031,self.haskell,https://www.reddit.com/r/haskell/comments/temn9b/generate_typescript_from_servant_api/,{},temn9b,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/temn9b/generate_typescript_from_servant_api/,False,6,1647343041,1,"I googled how to do this, and found [https://github.com/smaccoun/servant-ts](https://github.com/smaccoun/servant-ts). I doesn't seem to be on Stackage however. How do I work around this, or does another package exist?",True,False,False,haskell,t5_2qh36,69415,public,self,Generate Typescript from Servant API,0,[],1.0,https://www.reddit.com/r/haskell/comments/temn9b/generate_typescript_from_servant_api/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'wWF1Q5eo7AAO-6L28iubApUJelJKHAV6QRym3mhRqS4', 'resolutions': [{'height': 54, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=147aff3cfda0cd3928cb2875ce53a2d77537e581', 'width': 108}, {'height': 108, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=661caffd7bf10a28a05b3f6e6f2b2ff74500ab3d', 'width': 216}, {'height': 160, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a012eec8f03b23d4a6b97218b8f1eeedab089886', 'width': 320}, {'height': 320, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e03b063b092a5a76130a2e34b497ae6e176d694', 'width': 640}, {'height': 480, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=90321da092e91dd18fcefebb175b1f84d3d57a4e', 'width': 960}, {'height': 540, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=95f78470565393b50a2db3482366b6d207dd5f3f', 'width': 1080}], 'source': {'height': 600, 'url': 'https://external-preview.redd.it/7JxDWMnWDobRXMJasbqA3vY7T4iDmFJ2sZCTMaaEzV0.jpg?auto=webp&amp;s=a774b8b1f55a4d0e0b2a1f8643b240aeb924a5cb', 'width': 1200}, 'variants': {}}]}",,,,,,,,,,,,
+91.0,[],False,yourdigitalvoice,,[],,text,t2_4fjkjj7g,False,False,False,[],False,False,1647338191,/r/haskell/comments/telf9t/haskellers_functional_conf_2022_is_online_and/,https://www.reddit.com/r/haskell/comments/telf9t/haskellers_functional_conf_2022_is_online_and/,{},telf9t,False,True,False,False,False,True,False,True,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/telf9t/haskellers_functional_conf_2022_is_online_and/,False,6,1647338202,1,,True,False,False,haskell,t5_2qh36,69414,public,default,"Haskellers, Functional Conf 2022 is online and less than a week away - don't miss out on these great talks including a keynote from Bartosz Milewski. Register here: https://confng.in/0BaNCNpG",0,[],1.0,https://v.redd.it/ivjiybzlrin81,all_ads,6,https://v.redd.it/ivjiybzlrin81,hosted:video,"{'enabled': False, 'images': [{'id': 'tQVnAfXWSbB-Mdxs6xaswwyX0YeLiuevtbvacNNRLAY', 'resolutions': [{'height': 60, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=7dcf75a81a7ec65a06c0a2bc5d667a0585116201', 'width': 108}, {'height': 121, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=d6e6694437dfe2899a3e17d24a029653dee3f242', 'width': 216}, {'height': 180, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=aa37b4188b51dc55cbffa64eebb0e470b5087251', 'width': 320}, {'height': 360, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a6420b03e54cae7cafc6fc16279c4d77fed8a1ef', 'width': 640}, {'height': 540, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=29a6d6cbca77bc03119815c2a4d6e7664acae4a4', 'width': 960}, {'height': 607, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=6bec87adc1bf1145609934711ea9fe431fd5a3d3', 'width': 1080}], 'source': {'height': 1080, 'url': 'https://external-preview.redd.it/GyY6bz7OHjpuJj0utONx7lnS7Es9nzmC5s60YDvnH6g.png?format=pjpg&amp;auto=webp&amp;s=14e1206ac598581105517606b6b8fc6a936a0ddb', 'width': 1920}, 'variants': {}}]}",78.0,140.0,,,,,,,,,,
+92.0,[],False,Dasher38,,[],,text,t2_25jago8f,False,False,False,[],False,False,1647294879,self.haskell,https://www.reddit.com/r/haskell/comments/te8tn1/why_are_monad_transformer_types_not_wrapping/,{},te8tn1,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/te8tn1/why_are_monad_transformer_types_not_wrapping/,False,6,1647294890,1,"Since monads can be seen as some sort of ""container"" (functor), you might expect monad transformers to ""contain"" a value of the base monad. It's the opposite though: 
+https://hackage.haskell.org/package/transformers-0.6.0.4/docs/src/Control.Monad.Trans.Maybe.html#MaybeT
+
+    newtype MaybeT m a = MaybeT { runMaybeT :: m (Maybe a) }
+
+I would have expected ""Maybe (m a)"" instead of ""m (Maybe a)""
+
+All the others I checked are similar (StateT and ExcepT).
+
+Is there a hand wavy explanation for that ? I can see that monad and transformer laws apply, but I don't really understand why it's this way.",True,False,False,haskell,t5_2qh36,69405,public,self,Why are monad transformer types not wrapping around base monad ?,0,[],1.0,https://www.reddit.com/r/haskell/comments/te8tn1/why_are_monad_transformer_types_not_wrapping/,all_ads,6,,,,,,,,,,,,,,,
+93.0,[],False,imihnevich,,[],,text,t2_gtbhi7wu,False,False,False,[],False,False,1647290978,self.haskell,https://www.reddit.com/r/haskell/comments/te7fso/is_it_true_that_continuation_passing_style_allows/,{},te7fso,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/te7fso/is_it_true_that_continuation_passing_style_allows/,False,6,1647290989,1,,True,False,False,haskell,t5_2qh36,69403,public,self,Is it true that Continuation Passing Style allows us to turn everything into Tail Calls?,0,[],1.0,https://www.reddit.com/r/haskell/comments/te7fso/is_it_true_that_continuation_passing_style_allows/,all_ads,6,,,,,,,,,,,,,,,
+94.0,[],False,CraftBeerMountaineer,,[],,text,t2_wf7q7,False,False,False,[],False,False,1647274411,imgur.com,https://www.reddit.com/r/haskell/comments/te13j9/mathematician_haskell_brooks_curry1904_and_1980/,{},te13j9,False,False,False,False,False,False,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/te13j9/mathematician_haskell_brooks_curry1904_and_1980/,False,6,1647274421,1,,True,False,False,haskell,t5_2qh36,69402,public,default,"Mathematician Haskell Brooks Curry(1904 and 1980), whom the language is named after",0,[],1.0,https://imgur.com/a/YhnEspJ/,all_ads,6,https://imgur.com/a/YhnEspJ/,link,"{'enabled': False, 'images': [{'id': 'vUcdkGJm166p9gKQ6zUxFjtw5juL4fj6u_WU4Xc9vjY', 'resolutions': [{'height': 153, 'url': 'https://external-preview.redd.it/kLpHqb6aTnA_ed7VTK0564S3bepgMt397W1ba0XDTqY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d8e35084b1a9be4e474bbdfc04a38479e619b505', 'width': 108}, {'height': 306, 'url': 'https://external-preview.redd.it/kLpHqb6aTnA_ed7VTK0564S3bepgMt397W1ba0XDTqY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=523309f0edb70b1dd59be33297f2554a30e67c90', 'width': 216}, {'height': 454, 'url': 'https://external-preview.redd.it/kLpHqb6aTnA_ed7VTK0564S3bepgMt397W1ba0XDTqY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=67decc1e3402d228fdd06a829b997a61a78e92d9', 'width': 320}, {'height': 908, 'url': 'https://external-preview.redd.it/kLpHqb6aTnA_ed7VTK0564S3bepgMt397W1ba0XDTqY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0210ca05f44862a07d10d19f1ffb1d38b7bc30ad', 'width': 640}], 'source': {'height': 960, 'url': 'https://external-preview.redd.it/kLpHqb6aTnA_ed7VTK0564S3bepgMt397W1ba0XDTqY.jpg?auto=webp&amp;s=03a0c6eff0058263fcd887e271c9a3582f1f9ca4', 'width': 676}, 'variants': {}}]}",140.0,140.0,,reddit,,,,,"{'oembed': {'description': 'Post with 0 views.', 'height': 905, 'html': '&lt;iframe class=""embedly-embed"" src=""https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D676&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ&amp;image=https%3A%2F%2Fi.imgur.com%2F0IRiit7.jpg%3Ffb&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=imgur"" width=""600"" height=""905"" scrolling=""no"" title=""Imgur embed"" frameborder=""0"" allow=""autoplay; fullscreen"" allowfullscreen=""true""&gt;&lt;/iframe&gt;', 'provider_name': 'Imgur', 'provider_url': 'http://imgur.com', 'thumbnail_height': 315, 'thumbnail_url': 'https://i.imgur.com/0IRiit7.jpg?fb', 'thumbnail_width': 600, 'title': 'Imgur', 'type': 'rich', 'url': 'https://imgur.com/a/YhnEspJ', 'version': '1.0', 'width': 600}, 'type': 'imgur.com'}","{'content': '&lt;iframe class=""embedly-embed"" src=""https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D676&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ&amp;image=https%3A%2F%2Fi.imgur.com%2F0IRiit7.jpg%3Ffb&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=imgur"" width=""600"" height=""905"" scrolling=""no"" title=""Imgur embed"" frameborder=""0"" allow=""autoplay; fullscreen"" allowfullscreen=""true""&gt;&lt;/iframe&gt;', 'height': 905, 'scrolling': False, 'width': 600}","{'oembed': {'description': 'Post with 0 views.', 'height': 905, 'html': '&lt;iframe class=""embedly-embed"" src=""https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D676&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ&amp;image=https%3A%2F%2Fi.imgur.com%2F0IRiit7.jpg%3Ffb&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=imgur"" width=""600"" height=""905"" scrolling=""no"" title=""Imgur embed"" frameborder=""0"" allow=""autoplay; fullscreen"" allowfullscreen=""true""&gt;&lt;/iframe&gt;', 'provider_name': 'Imgur', 'provider_url': 'http://imgur.com', 'thumbnail_height': 315, 'thumbnail_url': 'https://i.imgur.com/0IRiit7.jpg?fb', 'thumbnail_width': 600, 'title': 'Imgur', 'type': 'rich', 'url': 'https://imgur.com/a/YhnEspJ', 'version': '1.0', 'width': 600}, 'type': 'imgur.com'}","{'content': '&lt;iframe class=""embedly-embed"" src=""https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D676&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FYhnEspJ&amp;image=https%3A%2F%2Fi.imgur.com%2F0IRiit7.jpg%3Ffb&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=imgur"" width=""600"" height=""905"" scrolling=""no"" title=""Imgur embed"" frameborder=""0"" allow=""autoplay; fullscreen"" allowfullscreen=""true""&gt;&lt;/iframe&gt;', 'height': 905, 'media_domain_url': 'https://www.redditmedia.com/mediaembed/te13j9', 'scrolling': False, 'width': 600}"
+95.0,[],False,xkalanx,,[],,text,t2_7kgrs2sc,False,False,False,[],False,False,1647269896,self.haskell,https://www.reddit.com/r/haskell/comments/tdze8u/hiring_adeva_is_hiring_remote_haskell_developers/,{},tdze8u,False,True,False,False,False,True,True,False,#646d73,[],e937232e-16d0-11eb-89ac-0ee006d12603,job,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tdze8u/hiring_adeva_is_hiring_remote_haskell_developers/,False,6,1647269906,1,"Adeva - a global talent network that enables work without boundaries by connecting high-scale companies with distributed tech talent across the world is hiring Haskell Engineers. The position is fully remote, time-flexible and the wages start at around 9000$ monthly.
+
+If you are interested, you can easily apply at the following link:  
+[https://adevait.com/careers/job-openings/2RlkV5WePY](https://adevait.com/careers/job-openings/2RlkV5WePY)",True,False,False,haskell,t5_2qh36,69402,public,self,[Hiring] Adeva is Hiring Remote Haskell Developers,0,[],1.0,https://www.reddit.com/r/haskell/comments/tdze8u/hiring_adeva_is_hiring_remote_haskell_developers/,all_ads,6,,self,"{'enabled': False, 'images': [{'id': 'I9sxyhARsI-BsORhxJX4XziLT3E7ZIOet0aCO8NXVsc', 'resolutions': [{'height': 56, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a8c577521929539b4030d3e02f2492007c602e25', 'width': 108}, {'height': 112, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=341ac5993bebc8634d5f4055e30ed9c3da52c4d7', 'width': 216}, {'height': 167, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2ec506e1306f53c0e53a5783af3a67e16efd502b', 'width': 320}, {'height': 334, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=184fe14a8621e8614183a35462f5000f8508bcf7', 'width': 640}, {'height': 501, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=5d5897fb18d901762ac44def6eb32632cb25ac43', 'width': 960}, {'height': 564, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=467468e6097c02c64ac81d1e20493f95ba44f837', 'width': 1080}], 'source': {'height': 627, 'url': 'https://external-preview.redd.it/5Kyh83oPuJOhZq8WXCOgB704FuQS4X_rB-8XmRg1yPc.jpg?auto=webp&amp;s=a3b1da931e3ffd748a2e435b4e11d86ade50dae0', 'width': 1200}, 'variants': {}}]}",,,,,,,,,,,,
+96.0,[],False,Puzzled-Bananas,,[],,text,t2_b66sdh32,False,False,False,[],False,False,1647269068,self.haskell,https://www.reddit.com/r/haskell/comments/tdz3dr/state_of_net_for_haskell/,{},tdz3dr,False,True,False,False,False,True,True,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tdz3dr/state_of_net_for_haskell/,False,6,1647269078,1,"Hi I’ve been wondering, we’ve got Tweag‘s inline-java. And there’s an abandoned project providing .NET bindings. The Haskell Wiki states there’s no production ready approach currently available.
+
+I‘m immensely grateful for inline-java, and soon JVM‘s own FFI will improve over JNI, which is great in its own right. But do we have something for embedding C# code as well? Or some stable IPC to CLR or some other integrated way with little overhead that’s more robust than crude subprocessing or RPC?",True,False,False,haskell,t5_2qh36,69402,public,self,State of .NET for Haskell?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tdz3dr/state_of_net_for_haskell/,all_ads,6,,,,,,,,,,,,,,,
+97.0,[],False,_query,,[],,text,t2_fjd8s,False,False,False,[],False,False,1647249020,hackage.haskell.org,https://www.reddit.com/r/haskell/comments/tdt8cb/ann_ihphsx_jsxlike_templating_syntax_for_haskell/,{},tdt8cb,False,True,False,False,False,True,False,False,#646d73,[],fd84a740-e679-11e8-ae50-0eda5d02591a,announcement,light,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tdt8cb/ann_ihphsx_jsxlike_templating_syntax_for_haskell/,False,6,1647249030,1,,True,False,False,haskell,t5_2qh36,69405,public,default,[ANN] ihp-hsx: JSX-like templating syntax for Haskell,0,[],1.0,https://hackage.haskell.org/package/ihp-hsx-0.18.0,all_ads,6,https://hackage.haskell.org/package/ihp-hsx-0.18.0,,,,,,,,,,,,,,
+98.0,[],False,ringingraptor,,[],,text,t2_786f2,False,False,False,[],False,False,1647227371,twitter.com,https://www.reddit.com/r/haskell/comments/tdnph8/basement_foundation_memory_and_cryptonite_updated/,{},tdnph8,False,True,False,False,False,True,False,False,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/haskell/comments/tdnph8/basement_foundation_memory_and_cryptonite_updated/,False,6,1647227382,1,,True,False,False,haskell,t5_2qh36,69404,public,default,"basement, foundation, memory, and cryptonite updated with GHC 9.2 support!",0,[],1.0,https://twitter.com/vincenthz/status/1502992810936762368,all_ads,6,https://twitter.com/vincenthz/status/1502992810936762368,link,"{'enabled': False, 'images': [{'id': 'asMhKqc1pKHWL4ltbcvtIRhlvVR4RL_jzwCUqJTuc9Y', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/hr92ivPY-U2IU7ub6MYwJGzlrsH69UEKFUjvM48sd4g.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=97c53a34a5aaebb715f79778f48d099272aa27ec', 'width': 108}], 'source': {'height': 140, 'url': 'https://external-preview.redd.it/hr92ivPY-U2IU7ub6MYwJGzlrsH69UEKFUjvM48sd4g.jpg?auto=webp&amp;s=2dedaf766abd933ca792dadac27a173b94d47ab5', 'width': 140}, 'variants': {}}]}",140.0,140.0,,,,,,,"{'oembed': {'author_name': 'Ld. Vincent Hanquez', 'author_url': 'https://twitter.com/vincenthz', 'cache_age': 3153600000, 'height': None, 'html': '&lt;blockquote class=""twitter-video""&gt;&lt;p lang=""en"" dir=""ltr""&gt;&lt;a href=""https://twitter.com/hashtag/haskell?src=hash&amp;amp;ref_src=twsrc%5Etfw""&gt;#haskell&lt;/a&gt; new basement, foundation, memory, and cryptonite releases, with compatibility with ghc 9.2 now.&lt;br&gt;&lt;br&gt;also dropped anything GHC &amp;lt; 8.8 .. as per 3-compilers-supported-policy (I realized after the fact that meant 8.8 also)&lt;/p&gt;&amp;mdash; Ld. Vincent Hanquez (@vincenthz) &lt;a href=""https://twitter.com/vincenthz/status/1502992810936762368?ref_src=twsrc%5Etfw""&gt;March 13, 2022&lt;/a&gt;&lt;/blockquote&gt;\n&lt;script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""&gt;&lt;/script&gt;\n', 'provider_name': 'Twitter', 'provider_url': 'https://twitter.com', 'type': 'rich', 'url': 'https://twitter.com/vincenthz/status/1502992810936762368', 'version': '1.0', 'width': 350}, 'type': 'twitter.com'}","{'content': '&lt;blockquote class=""twitter-video""&gt;&lt;p lang=""en"" dir=""ltr""&gt;&lt;a href=""https://twitter.com/hashtag/haskell?src=hash&amp;amp;ref_src=twsrc%5Etfw""&gt;#haskell&lt;/a&gt; new basement, foundation, memory, and cryptonite releases, with compatibility with ghc 9.2 now.&lt;br&gt;&lt;br&gt;also dropped anything GHC &amp;lt; 8.8 .. as per 3-compilers-supported-policy (I realized after the fact that meant 8.8 also)&lt;/p&gt;&amp;mdash; Ld. Vincent Hanquez (@vincenthz) &lt;a href=""https://twitter.com/vincenthz/status/1502992810936762368?ref_src=twsrc%5Etfw""&gt;March 13, 2022&lt;/a&gt;&lt;/blockquote&gt;\n&lt;script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""&gt;&lt;/script&gt;\n', 'height': 200, 'scrolling': False, 'width': 350}","{'oembed': {'author_name': 'Ld. Vincent Hanquez', 'author_url': 'https://twitter.com/vincenthz', 'cache_age': 3153600000, 'height': None, 'html': '&lt;blockquote class=""twitter-video""&gt;&lt;p lang=""en"" dir=""ltr""&gt;&lt;a href=""https://twitter.com/hashtag/haskell?src=hash&amp;amp;ref_src=twsrc%5Etfw""&gt;#haskell&lt;/a&gt; new basement, foundation, memory, and cryptonite releases, with compatibility with ghc 9.2 now.&lt;br&gt;&lt;br&gt;also dropped anything GHC &amp;lt; 8.8 .. as per 3-compilers-supported-policy (I realized after the fact that meant 8.8 also)&lt;/p&gt;&amp;mdash; Ld. Vincent Hanquez (@vincenthz) &lt;a href=""https://twitter.com/vincenthz/status/1502992810936762368?ref_src=twsrc%5Etfw""&gt;March 13, 2022&lt;/a&gt;&lt;/blockquote&gt;\n&lt;script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""&gt;&lt;/script&gt;\n', 'provider_name': 'Twitter', 'provider_url': 'https://twitter.com', 'type': 'rich', 'url': 'https://twitter.com/vincenthz/status/1502992810936762368', 'version': '1.0', 'width': 350}, 'type': 'twitter.com'}","{'content': '&lt;blockquote class=""twitter-video""&gt;&lt;p lang=""en"" dir=""ltr""&gt;&lt;a href=""https://twitter.com/hashtag/haskell?src=hash&amp;amp;ref_src=twsrc%5Etfw""&gt;#haskell&lt;/a&gt; new basement, foundation, memory, and cryptonite releases, with compatibility with ghc 9.2 now.&lt;br&gt;&lt;br&gt;also dropped anything GHC &amp;lt; 8.8 .. as per 3-compilers-supported-policy (I realized after the fact that meant 8.8 also)&lt;/p&gt;&amp;mdash; Ld. Vincent Hanquez (@vincenthz) &lt;a href=""https://twitter.com/vincenthz/status/1502992810936762368?ref_src=twsrc%5Etfw""&gt;March 13, 2022&lt;/a&gt;&lt;/blockquote&gt;\n&lt;script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""&gt;&lt;/script&gt;\n', 'height': 200, 'media_domain_url': 'https://www.redditmedia.com/mediaembed/tdnph8', 'scrolling': False, 'width': 350}"
+99.0,[],False,VirusReaper,,[],,text,t2_hkefi,False,False,False,[],False,False,1647207676,self.haskell,https://www.reddit.com/r/haskell/comments/tdhakm/question_can_you_filter_with_strings/,{},tdhakm,False,True,False,False,False,True,True,False,#646d73,[],cceadda8-25af-11eb-ba66-0e76c7963e23,question,light,text,False,False,False,0,0,False,all_ads,/r/haskell/comments/tdhakm/question_can_you_filter_with_strings/,False,6,1647207686,1,"From what I gather you can only filter with the first element of a string like 'a', 'b' etc.
+But what if i had a list of strings like ['George', 'Sarah', 'John', 'Jim' ,'Jane'] and wanted to filter 'john' from the list.
+Is there a way of doing this?",True,False,False,haskell,t5_2qh36,69406,public,self,Question: Can you filter with strings?,0,[],1.0,https://www.reddit.com/r/haskell/comments/tdhakm/question_can_you_filter_with_strings/,all_ads,6,,,,,,,,,,,,,,,
